@@ -1,0 +1,4 @@
+description: Corrección específica del delimitador ';' a ',' para el rodamiento Bearing1_4.
+experiment: exp004_delimiter_fix_bearing1_4
+raw_data_modified: false
+target_folder: Full_Test_Set/Bearing1_4

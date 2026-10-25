@@ -1,0 +1,35 @@
+experiment_name: exp015_hi3_smoothing_families_learning
+script: 015_hi3_smoothing_families_learning.py
+type: exploracion_informal_capa_1_corregida
+input_parquet: escribe aqui tu ruta
+bearings_order:
+- Bearing1_1
+- Bearing1_2
+- Bearing2_1
+- Bearing2_2
+- Bearing3_1
+- Bearing3_2
+decision_scope: Learning_set only
+hi_variant: hi3
+hi3_features:
+- h_rms
+- v_rms
+- h_std
+- v_std
+- h_peak
+- v_peak
+healthy_window_fraction: 0.1
+percentile_max: 99
+families:
+  raw: hi3_raw
+  A: cummax(hi3_raw)
+  B: EWMA(alpha=0.1)
+  C: cummax(EWMA(alpha=0.1))
+metrics:
+  Mon_corrected: Mon(y)=1 - N-/(K-1), N-=count(dy<0), A y C =1.0 por construccion
+  Sep: Sep(y)=mean(last 5%)/mean(first 10%)
+correction_note: Mon original |N+-N-|/(K-1) penalizaba planos de cummax. Corregida
+  a 1-N-/(K-1)
+clip_range:
+- 0
+- 1

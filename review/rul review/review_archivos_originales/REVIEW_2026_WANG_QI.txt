@@ -1,0 +1,460 @@
+A Review on the Remaining Useful Life Prediction of Rotating Machinery Based on Deep Learning
+
+Qi Wang, Yi Li, Jianbin Xiong, Xiangjun Dong, Yipeng Wu, Rui Huang, Haohao Zhu, Hongbin Zhu
+
+J. Comput. Inf. Sci. Eng. Apr 2026, 26(4): 040802 (23 pages)
+Paper No: JCISE-25-1212 https://doi.org/10.1115/1.4071396
+Published Online: April 3, 2026
+
+Issue Section:
+Review Article
+Keywords:rotating machinery, remaining useful life prediction, deep learning, artificial intelligence, data-driven engineering, machine learning for engineering applications
+Topics:Deep learning, Machinery, Service life (Equipment), Convolutional neural networks, Graph neural networks, Sensors
+
+References
+1.
+Pfingstl, S., Braun, C., Nasrollahi, A., Chang, F.-K., and Zimmermann, M., 2023, “Warped Gaussian Processes for Predicting the Degradation of Aerospace Structures,” Struct. Health. Monit., 22(4), pp. 2531–2546.
+Google ScholarCrossref 
+2.
+Wang, H., Zhang, Z., Li, X., Deng, X., and Jiang, W., 2023, “Comprehensive Dynamic Structure Graph Neural Network for Aero-Engine Remaining Useful Life Prediction,” IEEE Trans. Instrum. Measure., 72, pp. 1–16.
+Google ScholarCrossref 
+3.
+Li, T., Si, X., Pei, H., and Sun, L., 2022, “Data-Model Interactive Prognosis for Multi-Sensor Monitored Stochastic Degrading Devices,” Mech. Syst. Signal. Process., 167, p. 108526.
+Google ScholarCrossref 
+4.
+Zhu, H., Liu, S., Xu, W., Chen, C., and Tan, H., 2022, “Fast and Unbiased Estimation of Volume Under the Ordered Multi-Class Roc Hyper-Surface With Continuous Measurements,” Digital Signal Process., 126, p. 103500.
+Google ScholarCrossref 
+5.
+Ding, Y., Jia, M., Miao, Q., and Huang, P., 2021, “Remaining Useful Life Estimation Using Deep Metric Transfer Learning for Kernel Regression,” Reliab. Eng. Syst. Saf., 212, p. 107583.
+Google ScholarCrossref 
+6.
+Feng, K., Ji, J., Ni, Q., and Beer, M., 2023, “A Review of Vibration-Based Gear Wear Monitoring and Prediction Techniques,” Mech. Syst. Signal. Process., 182, p. 109605.
+Google ScholarCrossref 
+7.
+de Beaulieu, M. H., Jha, M. S., Garnier, H., and Cerbah, F., 2024, “Remaining Useful Life Prediction Based on Physics-Informed Data Augmentation,” Reliab. Eng. Syst. Saf., 252, p. 110451.
+Google ScholarCrossref 
+8.
+Yin, C., Li, Y., Wang, Y., and Dong, Y., 2025, “Physics-Guided Degradation Trajectory Modeling for Remaining Useful Life Prediction of Rolling Bearings,” Mech. Syst. Signal. Process., 224, p. 112192.
+Google ScholarCrossref 
+9.
+Zhao, H., Liu, H., Jin, Y., Dang, X., and Deng, W., 2021, “Feature Extraction for Data-Driven Remaining Useful Life Prediction of Rolling Bearings,” IEEE Trans. Instrum. Measure., 70, pp. 1–10.
+Google ScholarCrossref 
+10.
+Ren, Y., Tang, T., Xia, Q., Zhang, K., Tian, J., Hu, D., Yang, D., Sun, B., Feng, Q., and Qian, C., 2024, “A Data and Physical Model Joint Driven Method for Lithium-Ion Battery Remaining Useful Life Prediction Under Complex Dynamic Conditions,” J. Energy Storage, 79, p. 110065.
+Google ScholarCrossref 
+11.
+Wang, H., Li, B., Gong, J., and Xuan, F.-Z., 2023, “Machine Learning-Based Fatigue Life Prediction of Metal Materials: Perspectives of Physics-Informed and Data-Driven Hybrid Methods,” Eng. Fract. Mech., 284, p. 109242.
+Google ScholarCrossref 
+12.
+Xu, D., Qiu, H., Gao, L., Yang, Z., and Wang, D., 2022, “A Novel Dual-Stream Self-Attention Neural Network for Remaining Useful Life Estimation of Mechanical Systems,” Reliab. Eng. Syst. Saf., 222, p. 108444.
+Google ScholarCrossref 
+13.
+He, B., Liu, L., and Zhang, D., 2021, “Digital Twin-Driven Remaining Useful Life Prediction for Gear Performance Degradation: A Review,” J. Comput. Inf. Sci. Eng., 21(3), p. 030801.
+Google ScholarCrossref 
+14.
+Jiang, F., Hou, X., and Xia, M., 2025, “Spatio-Temporal Attention-Based Hidden Physics-Informed Neural Network for Remaining Useful Life Prediction,” Adv. Eng. Inform., 63, p. 102958.
+Google ScholarCrossref 
+15.
+Zhu, H., Sun, X., Liu, S., Dai, J., and Xu, W., 2024, “Improvement of Waegeman–Baets–Boullart Algorithms for Ordered Multi-Class ROC Analysis,” Neurocomputing, 596, p. 128095.
+Google ScholarCrossref 
+16.
+Cui, L., Wang, X., Wang, H., and Ma, J., 2019, “Research on Remaining Useful Life Prediction of Rolling Element Bearings Based on Time-Varying Kalman Filter,” IEEE Trans. Instrum. Measure., 69(6), pp. 2858–2867.
+Google ScholarCrossref 
+17.
+Yu, H., and Li, H., 2022, “Pump Remaining Useful Life Prediction Based on Multi-Source Fusion and Monotonicity-Constrained Particle Filtering,” Mech. Syst. Signal. Process., 170, p. 108851.
+Google ScholarCrossref 
+18.
+Yan, M., Wang, X., Wang, B., Chang, M., and Muhammad, I., 2020, “Bearing Remaining Useful Life Prediction Using Support Vector Machine and Hybrid Degradation Tracking Model,” ISA Trans., 98, pp. 471–482.
+Google ScholarCrossrefPubMed 
+19.
+Wu, W., and Lu, S., 2023, “Remaining Useful Life Prediction of Lithium-Ion Batteries Based on Data Preprocessing and Improved ELM,” IEEE Trans. Instrum. Measure., 72, pp. 1–14.
+Google ScholarCrossref 
+20.
+Zhang, C., Zhao, S., and He, Y., 2021, “An Integrated Method of the Future Capacity and RUL Prediction for Lithium-Ion Battery Pack,” IEEE Trans. Vehicular Technol., 71(3), pp. 2601–2613.
+Google ScholarCrossref 
+21.
+Chiachío, J., Jalón, M. L., Chiachío, M., and Kolios, A., 2020, “A Markov Chains Prognostics Framework for Complex Degradation Processes,” Reliab. Eng. Syst. Saf., 195, p. 106621.
+Google ScholarCrossref 
+22.
+Shi, J., Zhong, J., Zhang, Y., Xiao, B., Xiao, L., and Zheng, Y., 2024, “A Dual Attention LSTM Lightweight Model Based on Exponential Smoothing for Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 243, p. 109821.
+Google ScholarCrossref 
+23.
+Wang, J., Lu, Z., Zhou, J., Schröder, K.-U., and Liang, X., 2025, “A Novel Remaining Useful Life Prediction Method Under Multiple Operating Conditions Based on Attention Mechanism and Deep Learning,” Adv. Eng. Inform., 64, p. 103083.
+Google ScholarCrossref 
+24.
+Zheng, Q., Teng, P., Zhang, K., Ding, G., Lai, X., Li, Z., and Yuan, Z., 2025, “A Generalized Network With Domain Invariance and Specificity Representation for Bearing Remaining Useful Life Prediction Under Unknown Conditions,” Knowl.-Based Syst., 310, p. 112915.
+Google ScholarCrossref 
+25.
+Wang, Q., Xu, K., Kong, X., and Huai, T., 2021, “A Linear Mapping Method for Predicting Accurately the RUL of Rolling Bearing,” Measurement, 176, p. 109127.
+Google ScholarCrossref 
+26.
+Ferreira, C., and Gonçalves, G., 2022, “Remaining Useful Life Prediction and Challenges: A Literature Review on the Use of Machine Learning Methods,” J. Manuf. Syst., 63, pp. 550–562.
+Google ScholarCrossref 
+27.
+Wang, Q., Huang, R., Xiong, J., Yang, J., Dong, X., Wu, Y., Wu, Y., and Lu, T., 2024, “A Survey on Fault Diagnosis of Rotating Machinery Based on Machine Learning,” Meas. Sci. Technol., 35(10), p. 102001.
+Google ScholarCrossref 
+28.
+Raza, K., and Singh, N. K., 2021, “A Tour of Unsupervised Deep Learning for Medical Image Analysis,” Current Medical Imaging Rev., 17(9), pp. 1059–1077.
+Google ScholarCrossref 
+29.
+Xiong, J., Liu, M., Li, C., Cen, J., Zhang, Q., and Liu, Q., 2023, “A Bearing Fault Diagnosis Method Based on Improved Mutual Dimensionless and Deep Learning,” IEEE Sens. J., 23(16), pp. 18338–18348.
+Google ScholarCrossref 
+30.
+Lu, T., Xiong, J., Zhou, J., Wang, Q., Cen, J., Liu, M., Zhang, Q., Dai, Q., Zhang, T., and Zhang, J., 2024, “Bearing Fault Diagnosis Using Multi-Channel Broad Learning System Based on Positive-Negative Weighted Voting Mechanism,” IEEE Trans. Instrum. Measure., 73, p. 3514010.
+Google ScholarCrossref 
+31.
+Xiong, J., Li, C., Wang, C.-D., Cen, J., Wang, Q., and Wang, S., 2021, “Application of Convolutional Neural Network and Data Preprocessing by Mutual Dimensionless and Similar Gram Matrix in Fault Diagnosis,” IEEE Trans. Indus. Inform., 18(2), pp. 1061–1071.
+Google ScholarCrossref 
+32.
+Wang, C., Jiang, W., Shi, L., and Zhang, L., 2025, “Rolling Bearing Remaining Useful Life Prediction Using Deep Learning Based on High-Quality Representation,” Sci. Rep., 15(1), p. 8228.
+Google ScholarCrossrefPubMed 
+33.
+Zhu, H., Liu, S., Xu, W., Dai, J., and Benbouzid, M., 2024, “Linearithmic and Unbiased Implementation of Delong’s Algorithm for Comparing the Areas Under Correlated ROC Curves,” Expert. Syst. Appl., 246, p. 123194.
+Google ScholarCrossref 
+34.
+Guo, J., Wang, Z., Li, H., Yang, Y., Huang, C.-G., Yazdi, M., and Kang, H. S., 2024, “A Hybrid Prognosis Scheme for Rolling Bearings Based on a Novel Health Indicator and Nonlinear Wiener Process,” Reliab. Eng. Syst. Saf., 245, p. 110014.
+Google ScholarCrossref 
+35.
+Kim, M., Yoo, S., Son, S., Chang, S. Y., and Oh, K.-Y., 2025, “Physics-Informed Deep Learning Framework for Explainable Remaining Useful Life Prediction,” Eng. Appl. Artifi. Intell., 143, p. 110072.
+Google ScholarCrossref 
+36.
+Lei, Y., Li, N., Guo, L., Li, N., Yan, T., and Lin, J., 2018, “Machinery Health Prognostics: A Systematic Review From Data Acquisition to RUL Prediction,” Mech. Syst. Signal. Process., 104, pp. 799–834.
+Google ScholarCrossref 
+37.
+Huang, C.-G., Huang, H.-Z., and Li, Y.-F., 2019, “A Bidirectional LSTM Prognostics Method Under Multiple Operational Conditions,” IEEE. Trans. Ind. Electron., 66(11), pp. 8792–8802.
+Google ScholarCrossref 
+38.
+Liu, Q., Zhang, Y., Si, X., and Fan, Z., 2023, “DLVR-NWP: A Novel Data-Driven Bearing Degradation Model for RUL Estimation,” IEEE Trans. Instrum. Measure., 72, pp. 1–9.
+Google ScholarCrossref 
+39.
+Xu, F., Yang, F., Fan, X., Huang, Z., and Tsui, K. L., 2020, “Extracting Degradation Trends for Roller Bearings by Using a Moving-Average Stacked Auto-Encoder and a Novel Exponential Function,” Measurement, 152, p. 107371.
+Google ScholarCrossref 
+40.
+Rezamand, M., Kordestani, M., Carriveau, R., Ting, D. S.-K., and Saif, M., 2020, “An Integrated Feature-Based Failure Prognosis Method for Wind Turbine Bearings,” IEEE/ASME Trans. Mechatron., 25(3), pp. 1468–1478.
+Google ScholarCrossref 
+41.
+Cheng, C., Ma, G., Zhang, Y., Sun, M., Teng, F., Ding, H., and Yuan, Y., 2020, “A Deep Learning-Based Remaining Useful Life Prediction Approach for Bearings,” IEEE/ASME Trans. Mechatron., 25(3), pp. 1243–1254.
+Google ScholarCrossref 
+42.
+Hong, S., Kang, M., Kim, J., and Baek, J., 2023, “Sequential Application of Denoising Autoencoder and Long-Short Recurrent Convolutional Network for Noise-Robust Remaining-Useful-Life Prediction Framework of Lithium-Ion Batteries,” Comput. Indus. Eng., 179, p. 109231.
+Google ScholarCrossref 
+43.
+Sun, C., Ma, M., Zhao, Z., Tian, S., Yan, R., and Chen, X., 2018, “Deep Transfer Learning Based on Sparse Autoencoder for Remaining Useful Life Prediction of Tool in Manufacturing,” IEEE Trans. Indus. Inform., 15(4), pp. 2416–2425.
+Google ScholarCrossref 
+44.
+Han, T., Pang, J., and Tan, A. C., 2021, “Remaining Useful Life Prediction of Bearing Based on Stacked Autoencoder and Recurrent Neural Network,” J. Manuf. Syst., 61, pp. 576–591.
+Google ScholarCrossref 
+45.
+Li, S., Zhang, C., and Zhang, X., 2024, “A Novel Spatiotemporal Enhanced Convolutional Autoencoder Network for Unsupervised Health Indicator Construction,” IEEE Trans. Instrum. Measure., 73, pp. 1–10.
+Google ScholarCrossref 
+46.
+Ren, L., Sun, Y., Wang, H., and Zhang, L., 2018, “Prediction of Bearing Remaining Useful Life With Deep Convolution Neural Network,” IEEE Access, 6, pp. 13041–13049.
+Google ScholarCrossref 
+47.
+Li, X., Ding, Q., and Sun, J.-Q., 2018, “Remaining Useful Life Estimation in Prognostics Using Deep Convolution Neural Networks,” Reliab. Eng. Syst. Saf., 172, pp. 1–11.
+Google ScholarCrossref 
+48.
+Li, Y., Qin, X., Ma, F., Wu, H., Chai, M., Zhang, F., Jiang, F., and Lei, X., 2024, “Fusion Technology-Based CNN-LSTM-ASAN for RUL Estimation of Lithium-Ion Batteries,” Sustainability, 16(21), p. 9223.
+Google ScholarCrossref 
+49.
+Shang, Y., Tang, X., Zhao, G., Jiang, P., and Lin, T. R., 2022, “A Remaining Life Prediction of Rolling Element Bearings Based on a Bidirectional Gate Recurrent Unit and Convolution Neural Network,” Measurement, 202, p. 111893.
+Google ScholarCrossref 
+50.
+Jiang, F., Ding, K., He, G., Lin, H., Chen, Z., and Li, W., 2022, “Dual-Attention-Based Multiscale Convolutional Neural Network With Stage Division for Remaining Useful Life Prediction of Rolling Bearings,” IEEE Trans. Instrum. Measure., 71, pp. 1–10.
+Google ScholarCrossref 
+51.
+Wu, Y., Yuan, M., Dong, S., Lin, L., and Liu, Y., 2018, “Remaining Useful Life Estimation of Engineered Systems Using Vanilla LSTM Neural Networks,” Neurocomputing, 275, pp. 167–179.
+Google ScholarCrossref 
+52.
+Heimes, F. O., 2008, “Recurrent Neural Networks for Remaining Useful Life Estimation,” 2008 International Conference on Prognostics and Health Management, Denver, CO, Oct. 6–9, IEEE, pp. 1–6.
+Google ScholarCrossref 
+53.
+Li, S., Li, W., Cook, C., Zhu, C., and Gao, Y., 2018, “Independently Recurrent Neural Network (IndRNN): Building a Longer and Deeper RNN,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, pp. 5457–5466.
+Google ScholarCrossref 
+54.
+Arjovsky, M., Shah, A., and Bengio, Y., 2016, “Unitary Evolution Recurrent Neural Networks,” Proceedings of the 33rd International Conference on Machine Learning, New York, NY, PMLR, pp. 1120–1128.
+55.
+Hochreiter, S., and Schmidhuber, J., 1997, “Long Short-Term Memory,” Neural Comput., 9(8), pp. 1735–1780.
+Google ScholarCrossrefPubMed 
+56.
+Lei, N., Tang, Y., Li, A., and Jiang, P., 2024, “Research on the Remaining Life Prediction Method of Rolling Bearings Based on Optimized TPA-LSTM,” Machines, 12(4), p. 224.
+Google ScholarCrossref 
+57.
+Xiang, S., Qin, Y., Zhu, C., Wang, Y., and Chen, H., 2020, “Lstm Networks Based on Attention Ordered Neurons for Gear Remaining Life Prediction,” ISA Trans., 106, pp. 343–354.
+Google ScholarCrossrefPubMed 
+58.
+Yang, C., Liu, J., Zhou, K., Jiang, X., Ge, M.-F., and Liu, Y., 2022, “A Node-Level Pathgraph-Based Bearing Remaining Useful Life Prediction Method,” IEEE Trans. Instrum. Measure., 71, pp. 1–10.
+Google ScholarCrossref 
+59.
+Chen, J., Jing, H., Chang, Y., and Liu, Q., 2019, “Gated Recurrent Unit Based Recurrent Neural Network for Remaining Useful Life Prediction of Nonlinear Deterioration Process,” Reliab. Eng. Syst. Saf., 185, pp. 372–382.
+Google ScholarCrossref 
+60.
+Lin, R., Wang, H., Xiong, M., Hou, Z., and Che, C., 2023, “Attention-Based Gate Recurrent Unit for Remaining Useful Life Prediction in Prognostics,” Appl. Soft. Comput., 143, p. 110419.
+Google ScholarCrossref 
+61.
+Sun, S., Wang, J., Xiao, Y., Peng, J., and Zhou, X., 2024, “Few-Shot RUL Prediction for Engines Based on CNN-GRU Model,” Sci. Rep., 14(1), p. 16041.
+Google ScholarCrossrefPubMed 
+62.
+Mo, Y., Wu, Q., Li, X., and Huang, B., 2021, “Remaining Useful Life Estimation Via Transformer Encoder Enhanced by a Gated Convolutional Unit,” J. Intell. Manufact., 32(7), pp. 1997–2006.
+Google ScholarCrossref 
+63.
+Zhang, Z., Song, W., and Li, Q., 2022, “Dual-Aspect Self-Attention Based on Transformer for Remaining Useful Life Prediction,” IEEE Trans. Instrum. Measure., 71, pp. 1–11.
+Google ScholarCrossref 
+64.
+Zhang, Y., Feng, K., Ji, J., Yu, K., Ren, Z., and Liu, Z., 2022, “Dynamic Model-Assisted Bearing Remaining Useful Life Prediction Using the Cross-Domain Transformer Network,” IEEE/ASME Trans. Mechatron., 28(2), pp. 1070–1080.
+Google ScholarCrossref 
+65.
+Liu, F., Liu, S., Chai, Y., and Zhu, Y., 2025, “Enhanced Mamba Model with Multi-Head Attention Mechanism and Learnable Scaling Parameters for Remaining Useful Life Prediction,” Sci. Rep., 15(1), p. 7178.
+Google ScholarCrossrefPubMed 
+66.
+Cao, Y., Ding, Y., Jia, M., and Tian, R., 2021, “A Novel Temporal Convolutional Network With Residual Self-Attention Mechanism for Remaining Useful Life Prediction of Rolling Bearings,” Reliab. Eng. Syst. Saf., 215, p. 107813.
+Google ScholarCrossref 
+67.
+Wang, C., Zhang, L., Chen, L., Tan, T., and Zhang, C., 2025, “Remaining Useful Life Prediction of Nuclear Reactor Control Rod Drive Mechanism Based on Dynamic Temporal Convolutional Network,” Reliab. Eng. Syst. Saf., 253, p. 110580.
+Google ScholarCrossref 
+68.
+Fan, J., Zhang, K., Huang, Y., Zhu, Y., and Chen, B., 2023, “Parallel Spatio-Temporal Attention-Based TCN for Multivariate Time Series Prediction,” Neural Comput. Appl., 35(18), pp. 13109–13118.
+Google ScholarCrossref 
+69.
+Wang, Y., Wu, M., Li, X., Xie, L., and Chen, Z., 2025, “A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends,” Mech. Syst. Signal Process., 229, p. 112449.
+Google ScholarCrossref 
+70.
+Gao, Z., Jiang, W., Wu, J., Dai, T., and Zhu, H., 2024, “Nonlinear Slow-Varying Dynamics-Assisted Temporal Graph Transformer Network for Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 248, p. 110162.
+Google ScholarCrossref 
+71.
+Ren, L., Sun, Y., Cui, J., and Zhang, L., 2018, “Bearing Remaining Useful Life Prediction Based on Deep Autoencoder and Deep Neural Networks,” J. Manuf. Syst., 48, pp. 71–77.
+Google ScholarCrossref 
+72.
+Yu, W., Kim, I. Y., and Mechefske, C., 2019, “Remaining Useful Life Estimation Using a Bidirectional Recurrent Neural Network Based Autoencoder Scheme,” Mech. Syst. Signal. Process., 129, pp. 764–780.
+Google ScholarCrossref 
+73.
+Peng, C., Chen, Y., Gui, W., Tang, Z., and Li, C., 2022, “Remaining Useful Life Prognosis of Turbofan Engines Based on Deep Feature Extraction and Fusion,” Sci. Rep., 12(1), p. 6491.
+Google ScholarCrossrefPubMed 
+74.
+Liu, Y., Wang, Y., Wang, Y., Xue, S., Wang, Z., and Gao, Z., 2025, “Method for Predicting Remaining Useful Life of Rolling Bearings Based on Dynamic Complexity Characteristic Entropy and Quantum Neural Networks,” Eng. Failure Anal., 170, p. 109315.
+Google ScholarCrossref 
+75.
+Yu, Z., Lei, N., Mo, Y., Xu, X., Li, X., and Huang, B., 2023, “Feature Extraction Based on Self-Supervised Learning for Remaining Useful Life Prediction,” ASME J. Comput. Inf. Sci. Eng., 24(2), p. 021004.
+Google ScholarCrossref 
+76.
+Guo, L., Yu, Y., Duan, A., Gao, H., and Zhang, J., 2022, “An Unsupervised Feature Learning Based Health Indicator Construction Method for Performance Assessment of Machines,” Mech. Syst. Signal. Process., 167, p. 108573.
+Google ScholarCrossref 
+77.
+Dong, S., Xiao, J., Hu, X., Fang, N., Liu, L., and Yao, J., 2023, “Deep Transfer Learning Based on Bi-LSTM and Attention for Remaining Useful Life Prediction of Rolling Bearing,” Reliab. Eng. Syst. Saf., 230, p. 108914.
+Google ScholarCrossref 
+78.
+Wan, S., Li, X., Zhang, Y., Liu, S., Hong, J., and Wang, D., 2022, “Bearing Remaining Useful Life Prediction With Convolutional Long Short-Term Memory Fusion Networks,” Reliab. Eng. Syst. Saf., 224, p. 108528.
+Google ScholarCrossref 
+79.
+Zhang, J., Tian, J., Li, M., Leon, J. I., Franquelo, L. G., Luo, H., and Yin, S., 2022, “A Parallel Hybrid Neural Network With Integration of Spatial and Temporal Features for Remaining Useful Life Prediction in Prognostics,” IEEE Trans. Instrum. Measure., 72, pp. 1–12.
+Google ScholarCrossref 
+80.
+Al-Dulaimi, A., Zabihi, S., Asif, A., and Mohammed, A., 2020, “NBLSTM: Noisy and Hybrid Convolutional Neural Network and BLSTM-Based Deep Architecture for Remaining Useful Life Estimation,” ASME J. Comput. Inf. Sci. Eng., 20(2), p. 021012.
+Google ScholarCrossref 
+81.
+Xu, X., Wu, Q., Li, X., and Huang, B., 2020, “Dilated Convolution Neural Network for Remaining Useful Life Prediction,” ASME J. Comput. Inf. Sci. Eng., 20(2), p. 021004.
+Google ScholarCrossref 
+82.
+Huang, D., Yu, G., Zhang, J., Tang, J., and Su, J., 2022, “An Accurate Prediction Algorithm of RUL for Bearings: Time-Frequency Analysis Based on Mrcnn,” Wireless Communi. Mobile Comput., 2022(1), p. 2222802.
+Google ScholarCrossref 
+83.
+Yao, D., Li, B., Liu, H., Yang, J., and Jia, L., 2021, “Remaining Useful Life Prediction of Roller Bearings Based on Improved 1d-CNN and Simple Recurrent Unit,” Measurement, 175, p. 109166.
+Google ScholarCrossref 
+84.
+Huang, Z., Zhu, J., Lei, J., Li, X., and Tian, F., 2020, “Tool Wear Predicting Based on Multi-Domain Feature Fusion by Deep Convolutional Neural Network in Milling Operations,” J. Intell. Manufact., 31, pp. 953–966.
+Google ScholarCrossref 
+85.
+Miao, M., and Yu, J., 2021, “A Deep Domain Adaptative Network for Remaining Useful Life Prediction of Machines Under Different Working Conditions and Fault Modes,” IEEE Trans. Instrum. Measure., 70, pp. 1–14.
+Google ScholarCrossref 
+86.
+Cheng, Y., Hu, K., Wu, J., Zhu, H., and Shao, X., 2021, “Autoencoder Quasi-Recurrent Neural Networks for Remaining Useful Life Prediction of Engineering Systems,” IEEE/ASME Trans. Mechatron., 27(2), pp. 1081–1092.
+Google ScholarCrossref 
+87.
+Qin, Y., Chen, D., Xiang, S., and Zhu, C., 2020, “Gated Dual Attention Unit Neural Networks for Remaining Useful Life Prediction of Rolling Bearings,” IEEE Trans. Indus. Inform., 17(9), pp. 6438–6447.
+Google ScholarCrossref 
+88.
+Zheng, Y., Bao, X., Zhao, F., Chen, C., Liu, Y., Sun, B., and Wang, H., 2022, “Prediction of Remaining Useful Life Using Fused Deep Learning Models: A Case Study of Turbofan Engines,” ASME J. Comput. Inf. Sci. Eng., 22(5), p. 054501.
+Google ScholarCrossref 
+89.
+Rathore, M. S., and Harsha, S. P., 2023, “Unsupervised Domain Deep Transfer Learning Approach for Rolling Bearing Remaining Useful Life Estimation,” ASME J. Comput. Inf. Sci. Eng., 24(2), p. 021002.
+Google ScholarCrossref 
+90.
+Xiang, S., Zhou, J., Luo, J., Liu, F., and Qin, Y., 2023, “Cocktail LSTM and Its Application Into Machine Remaining Useful Life Prediction,” IEEE/ASME Trans. Mechatron., 28(5), pp. 2425–2436.
+Google ScholarCrossref 
+91.
+Sharma, V., Sharma, D., and Anand, A., 2023, “Hybrid Multi-Scale Convolutional Long Short-Term Memory Network for Remaining Useful Life Prediction and Offset Analysis,” ASME J. Comput. Inf. Sci. Eng., 23(4), p. 041006.
+Google ScholarCrossref 
+92.
+Lu, W., Wang, Y., Zhang, M., and Gu, J., 2024, “Physics Guided Neural Network: Remaining Useful Life Prediction of Rolling Bearings Using Long Short-Term Memory Network Through Dynamic Weighting of Degradation Process,” Eng. Appl. Artifi. Intell., 127, p. 107350.
+Google ScholarCrossref 
+93.
+Wang, J., Wang, Y., and Li, J., 2024, “Interpretable and Efficient RUL Prediction of Turbofan Engines Using EM-Enhanced Bi-LSTM With TCN and Attention Mechanism,” Eng. Res. Express, 6(3), p. 035507.
+Google ScholarCrossref 
+94.
+Thoppil, N. M., Vasu, V., and Rao, C., 2022, “Bayesian Optimization LSTM/bi-LSTM Network With Self-Optimized Structure and Hyperparameters for Remaining Useful Life Estimation of Lathe Spindle Unit,” ASME J. Comput. Inf. Sci. Eng., 22(2), p. 021012.
+Google ScholarCrossref 
+95.
+Su, Y., Tao, F., Jin, J., Wang, T., Wang, Q., and Wang, L., 2020, “C of Complex Equipment With Multistream Deep Recurrent Neural Network,” ASME J. Comput. Inf. Sci. Eng., 20(2), p. 021007.
+Google ScholarCrossref 
+96.
+Han, D., Tang, D., Yu, J., Wei, Z., and Song, Y., 2023, “Health Assessment for RUL Prediction of Machinery Components Using Low-Sampling Temporal Signals: A Condensed Image Coding Approach,” IEEE Trans. Instrum. Measure., 72, pp. 1–12.
+Google ScholarCrossref 
+97.
+Ni, Q., Ji, J., and Feng, K., 2022, “Data-Driven Prognostic Scheme for Bearings Based on a Novel Health Indicator and Gated Recurrent Unit Network,” IEEE Trans. Indus. Inform., 19(2), pp. 1301–1311.
+Google ScholarCrossref 
+98.
+Zhang, J., Jiang, Y., Wu, S., Li, X., Luo, H., and Yin, S., 2022, “Prediction of Remaining Useful Life Based on Bidirectional Gated Recurrent Unit With Temporal Self-Attention Mechanism,” Reliab. Eng. Syst. Saf., 221, p. 108297.
+Google ScholarCrossref 
+99.
+Ma, P., Li, G., Zhang, H., Wang, C., and Li, X., 2024, “Prediction of Remaining Useful Life of Rolling Bearings Based on Multiscale Efficient Channel Attention CNN and Bidirectional GRU,” IEEE Trans. Instrum. Measure., 73, pp. 1–13.
+Google ScholarCrossref 
+100.
+Shen, X., Wang, Z., Ding, P., Zhao, X., and Jia, M., 2025, “A Novel Unsupervised Domain Adaptation Transformation Reconstructed Gated Recurrent Unit Framework Considering Prediction Uncertainty for Machinery Prognostics Under Variable Lubrication Conditions,” ASCE-ASME J. Risk Uncert. Eng. Syst., Part B: Mech. Eng., 11(1), p. 011101.
+Google ScholarCrossref 
+101.
+Ding, Y., Jia, M., Miao, Q., and Cao, Y., 2022, “A Novel Time–Frequency Transformer Based on Self–Attention Mechanism and Its Application in Fault Diagnosis of Rolling Bearings,” Mech. Syst. Signal. Process., 168, p. 108616.
+Google ScholarCrossref 
+102.
+Ding, Y., and Jia, M., 2022, “Convolutional Transformer: An Enhanced Attention Mechanism Architecture for Remaining Useful Life Estimation of Bearings,” IEEE Trans. Instrum. Measure., 71, pp. 1–10.
+Google ScholarCrossref 
+103.
+Peng, H., Jiang, B., Mao, Z., and Liu, S., 2023, “Local Enhancing Transformer With Temporal Convolutional Attention Mechanism for Bearings Remaining Useful Life Prediction,” IEEE Trans. Instrum. Measure., 72, pp. 1–12.
+Google ScholarCrossref 
+104.
+Zou, W., Lu, Z., Hu, Z., and Mao, L., 2023, “Remaining Useful Life Estimation of Bearing Using Deep Multiscale Window-Based Transformer,” IEEE Trans. Instrum. Measure., 72, pp. 1–11.
+Google ScholarCrossref 
+105.
+Zhang, M., He, C., Huang, C., and Yang, J., 2024, “A Weighted Time Embedding Transformer Network for Remaining Useful Life Prediction of Rolling Bearing,” Reliab. Eng. Syst. Saf., 251, p. 110399.
+Google ScholarCrossref 
+106.
+Zhang, J., Li, X., Tian, J., Luo, H., and Yin, S., 2023, “An Integrated Multi-Head Dual Sparse Self-Attention Network for Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 233, p. 109096.
+Google ScholarCrossref 
+107.
+Men, T., Liu, B., Li, Y.-F., Lin, Y.-H., and Zhang, Y., 2023, “Reliability Modeling and Parameter Estimation for High-Speed Train Wheels Subject to Multi-Dimensional Degradation Processes Considering Mutual Dependency,” IEEE Tran. Reliab., 73(2), pp. 1325–1340.
+Google ScholarCrossref 
+108.
+Mo, R., Zhou, H., Yin, H., and Si, X., 2025, “A Survey on Few-Shot Learning for Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 257, p. 110850.
+Google ScholarCrossref 
+109.
+Lu, X., Yao, X., Jiang, Q., Shen, Y., Xu, F., and Zhu, Q., 2025, “Remaining Useful Life Prediction Model of Cross-Domain Rolling Bearing via Dynamic Hybrid Domain Adaptation and Attention Contrastive Learning,” Comput. Indus., 164, p. 104172.
+Google ScholarCrossref 
+110.
+Cheng, Y., Qv, J., Feng, K., and Han, T., 2024, “A Bayesian Adversarial Probsparse Transformer Model for Long-Term Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 248, p. 110188.
+Google ScholarCrossref 
+111.
+Shang, J., Xu, D., Qiu, H., Gao, L., Jiang, C., and Yi, P., 2024, “A Novel Data Augmentation Framework for Remaining Useful Life Estimation With Dense Convolutional Regression Network,” J. Manuf. Syst., 74, pp. 30–40.
+Google ScholarCrossref 
+112.
+Deng, F., Bi, Y., Liu, Y., and Yang, S., 2022, “Remaining Useful Life Prediction of Machinery: A New Multiscale Temporal Convolutional Network Framework,” IEEE Trans. Instrum. Measure., 71, pp. 1–13.
+Google ScholarCrossref 
+113.
+Xu, Z., Zhang, Y., and Miao, Q., 2024, “An Attention-Based Multi-Scale Temporal Convolutional Network for Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 250, p. 110288.
+Google ScholarCrossref 
+114.
+He, K., Su, Z., Tian, X., Yu, H., and Luo, M., 2022, “RUL Prediction of Wind Turbine Gearbox Bearings Based on Self-Calibration Temporal Convolutional Network,” IEEE Trans. Instrum. Measure., 71, pp. 1–12.
+Google ScholarCrossref 
+115.
+Zhong, X., Song, X., Liu, G., Zhao, W., and Fan, W., 2023, “A Data-Driven Method for Remaining Useful Life Prediction of Rolling Bearings Under Different Working Conditions,” IEEE Trans. Reliab., 73(2), pp. 1368–1379.
+Google ScholarCrossref 
+116.
+Ding, Y., Jia, M., Zhao, X., Yan, X., and Lee, C.-G., 2024, “Joint Optimization of Degradation Assessment and Remaining Useful Life Prediction for Bearings With Temporal Convolutional Auto-Encoder,” ISA Transactions, 146, pp. 451–462.
+Google ScholarCrossrefPubMed 
+117.
+Zhang, Y., Zhou, W., Huang, J., Jin, X., and Xiao, G., 2023, “Temporal Knowledge Graph Informer Network for Remaining Useful Life Prediction,” IEEE Trans. Instrum. Measure., 72, pp. 1–10.
+Google ScholarCrossref 
+118.
+Yang, X., Zheng, Y., Zhang, Y., Wong, D. S.-H., and Yang, W., 2022, “Bearing Remaining Useful Life Prediction Based on Regression Shapalet and Graph Neural Network,” IEEE Trans. Instrum. Measure., 71, pp. 1–12.
+Google ScholarCrossref 
+119.
+Cui, L., Shen, Q., Xiao, Y., Liu, D., and Wang, H., 2025, “Sparse Graph Structure Fusion Convolutional Network for Machinery Remaining Useful Life Prediction,” Reliab. Eng. Syst. Saf., 254, p. 110592.
+Google ScholarCrossref 
+120.
+Zhou, L., and Wang, H., 2024, “Mst-Gat: A Multi-Perspective Spatial-Temporal Graph Attention Network for Multi-Sensor Equipment Remaining Useful Life Prediction,” Inform. Fusion, 110, p. 102462.
+Google ScholarCrossref 
+121.
+Zhuang, F., Qi, Z., Duan, K., Xi, D., Zhu, Y., Zhu, H., Xiong, H., and He, Q., 2021, “A Comprehensive Survey on Transfer Learning,” Proc. IEEE, 109(1), pp. 43–76.
+Google ScholarCrossref 
+122.
+Moreo, A., Esuli, A., and Sebastiani, F., 2021, “Lost in Transduction: Transductive Transfer Learning in Text Classification,” ACM Trans. Knowl. Discov. Data (TKDD), 16(1), pp. 1–21.
+Google ScholarCrossref 
+123.
+Zhang, A., Wang, H., Li, S., Cui, Y., Liu, Z., Yang, G., and Hu, J., 2018, “Transfer Learning With Deep Recurrent Neural Networks for Remaining Useful Life Estimation,” Appl. Sci., 8(12), p. 2416.
+Google ScholarCrossref 
+124.
+Siahpour, S., Li, X., and Lee, J., 2022, “A Novel Transfer Learning Approach in Remaining Useful Life Prediction for Incomplete Dataset,” IEEE Trans. Instrum. Measure., 71, pp. 1–11.
+Google ScholarCrossref 
+125.
+Mao, W., Chen, J., Liu, J., and Liang, X., 2023, “Self-Supervised Deep Domain-Adversarial Regression Adaptation for Online Remaining Useful Life Prediction of Rolling Bearing Under Unknown Working Condition,” IEEE Trans. Indus. Inform., 19(2), pp. 1227–1237.
+Google ScholarCrossref 
+126.
+Karniadakis, G. E., Kevrekidis, I. G., Lu, L., Perdikaris, P., Wang, S., and Yang, L., 2021, “Physics-Informed Machine Learning,” Nature Rev. Phys., 3(6), pp. 422–440.
+Google ScholarCrossref 
+127.
+Li, H., Zhang, Z., Li, T., and Si, X., 2024, “A Review on Physics-Informed Data-Driven Remaining Useful Life Prediction: Challenges and Opportunities,” Mech. Syst. Signal. Process., 209, p. 111120.
+Google ScholarCrossref 
+128.
+Yucesan, Y. A., and Viana, F. A., 2022, “A Hybrid Physics-Informed Neural Network for Main Bearing Fatigue Prognosis Under Grease Quality Variation,” Mech. Syst. Signal. Process., 171, p. 108875.
+Google ScholarCrossref 
+129.
+Zhou, M., Li, Y., Cao, Y., Ma, X., and Xu, Z., 2025, “Physics-Informed Spatio-Temporal Hybrid Neural Networks for Predicting Remaining Useful Life in Aircraft Engine,” Reliab. Eng. Syst. Saf., 256, p. 110685.
+Google ScholarCrossref 
+130.
+Liao, X., Chen, S., Wen, P., and Zhao, S., 2023, “Remaining Useful Life With Self-Attention Assisted Physics-Informed Neural Network,” Adv. Eng. Inform., 58, p. 102195.
+Google ScholarCrossref 
+131.
+Saxena, A., Goebel, K., Simon, D., and Eklund, N., 2008, “Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation,” 2008 International Conference on Prognostics and Health Management, Denver, CO, Oct. 6–9, IEEE, pp. 1–9.
+Google ScholarCrossref 
+132.
+Nectoux, P., Gouriveau, R., Medjaher, K., Ramasso, E., Chebel-Morello, B., Zerhouni, N., and Varnier, C., 2012, “Pronostia: An Experimental Platform for Bearings Accelerated Degradation Tests,” IEEE International Conference on Prognostics and Health Management, PHM'12, Denver, CO, June 2012, pp. 1–8.
+133.
+Wang, B., Lei, Y., Li, N., and Li, N., 2018, “A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings,” IEEE Trans. Reliab., 69(1), pp. 401–412.
+Google ScholarCrossref 
+134.
+Li, Y., Chen, Y., Shao, H., and Zhang, H., 2023, “A Novel Dual Attention Mechanism Combined With Knowledge for Remaining Useful Life Prediction Based on Gated Recurrent Units,” Reliab. Eng. Syst. Saf., 239, p. 109514.
+Google ScholarCrossref 
+135.
+Zheng, S., Ristovski, K., Farahat, A., and Gupta, C., 2017, “Long Short-Term Memory Network for Remaining Useful Life Estimation,” 2017 IEEE International Conference on Prognostics and Health Management (ICPHM), Dallas, TX, June 19–21, IEEE, pp. 88–95.
+Google ScholarCrossref 
+136.
+Chen, Z., Wu, M., Zhao, R., Guretno, F., Yan, R., and Li, X., 2021, “Machine Remaining Useful Life Prediction via an Attention-Based Deep Learning Approach,” IEEE. Trans. Ind. Electron., 68(3), pp. 2521–2531.
+Google ScholarCrossref 
+137.
+Elsherif, S. M., Hafiz, B., Makhlouf, M., and Farouk, O., 2025, “A Deep Learning-Based Prognostic Approach for Predicting Turbofan Engine Degradation and Remaining Useful Life,” Sci. Rep., 15(1), p. 26251.
+Google ScholarCrossrefPubMed 
+138.
+Song, Y., Gao, S., Li, Y., Jia, L., Li, Q., and Pang, F., 2021, “Distributed Attention-Based Temporal Convolutional Network for Remaining Useful Life Prediction,” IEEE Inter. Things J., 8(12), pp. 9594–9602.
+Google ScholarCrossref 
+139.
+Liu, L., Song, X., and Zhou, Z., 2022, “Aircraft Engine Remaining Useful Life Estimation via a Double Attention-Based Data-Driven Architecture,” Reliab. Eng. Syst. Saf., 221, p. 108330.
+Google ScholarCrossref 
+140.
+Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H., and Zhang, W., 2021, “Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting,” Proceedings of the AAAI Conference on Artificial Intelligence, pp. 11106–11115.
+141.
+Wang, M., Li, Y., Zhang, Y., and Jia, L., 2021, “Spatio-Temporal Graph Convolutional Neural Network for Remaining Useful Life Estimation of Aircraft Engines,” Aeros. Syst., 4(1), pp. 29–36.
+Google ScholarCrossref 
+142.
+Guo, S., Lin, Y., Feng, N., Song, C., and Wan, H., 2019, “Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting,” Proceedings of the AAAIConference on Artificial Intelligence, Honolulu, HI.
+Google ScholarCrossref 
+143.
+Wen, Z., Fang, Y., Wei, P., Liu, F., Chen, Z., and Wu, M., 2025, “Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction,” IEEE Trans. Neural Netw. Learn. Syst., 1, pp. 1–14.
+Google ScholarCrossref 
+144.
+Kong, Z., Jin, X., Xu, Z., and Zhang, B., 2022, “Spatio-Temporal Fusion Attention: A Novel Approach for Remaining Useful Life Prediction Based on Graph Neural Network,” IEEE Trans. Instrum. Measure., 71, pp. 1–12.
+Google ScholarCrossref 
+145.
+Karkaria, V., Chen, J., Luey, C., Siuta, C., Lim, D., Radulescu, R., and Chen, W., 2025, “A Digital Twin Framework Utilizing Machine Learning for Robust Predictive Maintenance: Enhancing Tire Health Monitoring,” ASME J. Comput. Inf. Sci. Eng., 25(7), p. 071003.
+Google ScholarCrossref 
+146.
+Lee, J., and Mitici, M., 2023, “Deep Reinforcement Learning for Predictive Aircraft Maintenance Using Probabilistic Remaining-Useful-Life Prognostics,” Reliab. Eng. Syst. Saf., 230, p. 108908.
+Google ScholarCrossref 
+147.
+Wang, L., Zhu, Z., and Zhao, X., 2024, “Dynamic Predictive Maintenance Strategy for System Remaining Useful Life Prediction via Deep Learning Ensemble Method,” Reliab. Eng. Syst. Saf., 245, p. 110012.
+Google ScholarCrossref 
+148.
+Enyejo, J. O., Babalola, I. N. O., Owolabi, F. R. A., Adeyemi, A. F., Osam-Nunoo, G., and Ogwuche, A. O., 2024, “Data-Driven Digital Marketing and Battery Supply Chain Optimization in the Battery Powered Aircraft Industry Through Case Studies of Rolls-Royce’s Accel and Airbus’s e-Fan x Projects,” Inter. J. Schol. Res. Rev., 5(2), pp. 001–020.
+Google ScholarCrossref 
+149.
+Sadeghi, A., Bellavista, P., Song, W., and Yazdani-Asrami, M., 2024, “Digital Twins for Condition and Fleet Monitoring of Aircraft: Toward More-Intelligent Electrified Aviation Systems,” IEEE Access, 12, pp. 99806–99832.
+Google ScholarCrossref 
+150.
+Kwong, W. W., 2004, “Reducing Variability in Equipment Availability at Intel Using Systems Optimization,” Ph.D. thesis, Massachusetts Institute of Technology, Cambridge, MA.

@@ -1,0 +1,28 @@
+{
+  "experimento": "exp006_consolidate_final_set",
+  "estado": "completed",
+  "timestamp": "2026-08-16T20:49:25",
+  "inputs": {
+    "raw": "escribe aqui tu ruta",
+    "interim": "escribe aqui tu ruta"
+  },
+  "outputs": {
+    "processed": "escribe aqui tu ruta",
+    "summary": "results\\exp006_consolidate_final_set\\tables\\consolidation_summary.csv"
+  },
+  "metricas": {
+    "archivos_total": 38848,
+    "archivos_ok": 38848,
+    "archivos_failed": 0,
+    "versiones_interim_usadas": 1430
+  },
+  "archivos (ejemplo)": [
+    {
+      "set": "Full_Test_Set",
+      "rodamiento": "Bearing1_3",
+      "archivo": "acc_00001.csv",
+      "origen": "raw",
+      "sha256": "4d375b4d54eca3fa4060a9b7822a18ace9c31365ff7891d84979737079dc1143",
+      "estado": "completed",
+      "errores": []
+    }

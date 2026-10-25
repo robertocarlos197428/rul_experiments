@@ -1,0 +1,45 @@
+experiment_name: exp012_raw_hi_exploration
+script: 012_raw_hi_exploration.py
+type: exploracion_informal_capa_1_no_usar_para_receta_final
+input_parquets:
+- escribe aqui tu ruta
+- escribe aqui tu ruta
+bearings_order:
+- Bearing1_1
+- Bearing1_2
+- Bearing2_1
+- Bearing2_2
+- Bearing3_1
+- Bearing3_2
+- Bearing1_3
+- Bearing1_4
+- Bearing1_5
+- Bearing1_6
+- Bearing1_7
+- Bearing2_3
+- Bearing2_4
+- Bearing2_5
+- Bearing2_6
+- Bearing2_7
+- Bearing3_3
+features:
+- rms
+- std
+- peak
+- peak_to_peak
+- mean
+- skewness
+- kurtosis
+- crest_factor
+healthy_window_fraction: 0.1
+percentile_max: 99
+clip_range:
+- 0
+- 1
+cummax_applied: false
+outlier_filtering_applied: false
+hi_variants:
+- HI_H (8 features canal H)
+- HI_V (8 features canal V)
+- HI_HV (16 features H+V)
+weights: iguales (1/8 o 1/16 segun variante)

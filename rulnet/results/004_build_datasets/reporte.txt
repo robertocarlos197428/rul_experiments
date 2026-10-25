@@ -1,0 +1,6 @@
+REPORTE 004 SPLITS
+Total 24396 ventanas
+Train 13985 (57.3%) bearings [ 8 13  2  9 16  4  7 10 12  3  6]
+Val 6309 (25.9%) bearings [ 5 11 15]
+Test 4102 (16.8%) bearings [ 0  1 14]
+Sin leakage: ningun bearing se repite entre splits

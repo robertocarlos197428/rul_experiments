@@ -1,0 +1,7 @@
+Advancements in bearing health monitoring and remaining useful life prediction: techniques, challenges, and future directions
+
+Xinwei Liu, Zongzhen Zhang*, Zhuoli Li, Jinrui Wang, Youfeng Zhu and Huijie Ma
+
+Published 17 February 2025
+
+DOI 10.1088/1361-6501/adafc8

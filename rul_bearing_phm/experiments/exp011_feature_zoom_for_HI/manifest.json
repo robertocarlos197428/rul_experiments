@@ -1,0 +1,15 @@
+{
+  "experiment_name": "exp011_feature_zoom_for_HI",
+  "timestamp": "2026-08-28T10:30:26.322366",
+  "input_parquet": "escribe aqui tu ruta",
+  "outputs": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ]
+}

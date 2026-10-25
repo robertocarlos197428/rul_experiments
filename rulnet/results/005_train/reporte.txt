@@ -1,0 +1,5 @@
+REPORTE 005 TRAIN
+Epochs 19
+Best val 0.07166
+Test RMSE 0.21191 MAE 0.18401
+Model escribe aqui tu ruta

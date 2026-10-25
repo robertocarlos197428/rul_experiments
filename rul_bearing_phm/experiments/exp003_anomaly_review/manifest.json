@@ -1,0 +1,15 @@
+{
+  "experiment": "exp003_anomaly_review",
+  "status": "completed",
+  "inputs": {
+    "files_needing_review_csv": "escribe aqui tu ruta",
+    "anomalies_csv": "escribe aqui tu ruta"
+  },
+  "outputs": {
+    "reviewed_cases_csv": "escribe aqui tu ruta",
+    "cleaning_recommendations_csv": "escribe aqui tu ruta"
+  },
+  "metrics": {
+    "total_cases_reviewed": 4284
+  }
+}

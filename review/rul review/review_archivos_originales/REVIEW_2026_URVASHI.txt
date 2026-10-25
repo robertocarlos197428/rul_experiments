@@ -1,0 +1,141 @@
+1. A. Gabrielli, M. Battarra, E. Mucchi, and G.
+Dalpiaz, “Physics-based prognostics of rollingelement bearings: The equivalent damaged
+volume algorithm,” Mech. Syst. Signal Process.,
+vol. 215, Jun. 2024, doi:
+10.1016/j.ymssp.2024.111435.
+2. S. G. Kumbhar, R. G. Desavale, and N. V.
+Dharwadkar, “Fault size diagnosis of rolling
+element bearing using artificial neural network
+and dimension theory,” Neural Comput. Appl.,
+vol. 33, no. 23, pp. 16079–16093, Dec. 2021, doi:
+10.1007/s00521-021-06228-8.
+3. B. Li, B. Tang, L. Deng, and M. Zhao, “SelfAttention ConvLSTM and Its Application in RUL
+Prediction of Rolling Bearings,” IEEE Trans.
+Instrum. Meas., vol. 70, 2021, doi:
+10.1109/TIM.2021.3086906.
+4. J. Liu, Z. Yang, J. Xie, R. Wang, S. Liu, and D.
+Xi, “A Feature Fusion-Based Method for
+Remaining Useful Life Prediction of Rolling
+Bearings,” IEEE Trans. Instrum. Meas., vol. 72,
+2023, doi: 10.1109/TIM.2023.3318706.
+5. Z. Cen, S. Hu, Y. Hou, Z. Chen, and Y. Ke,
+“Remaining useful life prediction of machinery
+based on improved Sample Convolution and
+Interaction Network,” Eng. Appl. Artif. Intell.,
+vol. 135, Sep. 2024, doi:
+10.1016/j.engappai.2024.108813.
+6. Qiao, X., Jauw, V. L., Seong, L. C., & Banda, T.
+(2024). Advances and limitations in machine
+learning approaches applied to remaining useful
+life predictions: a critical review. The
+International Journal of Advanced Manufacturing
+Technology, 133(9), 4059-4076.
+7. Magadán, L., Granda, J. C., & Suárez, F. J.
+(2024). Robust prediction of remaining useful
+lifetime of bearings using deep learning.
+Engineering Applications of Artificial
+Intelligence, 130, 107690.
+8. Zhang, Z., Zhang, W., Zhao, Y., Ding, Y., & Cai,
+J. (2024). Remaining life prediction of rolling
+bearings based on unsupervised anomaly
+detection and STA-BiLSTM. IEEE Sensors
+Journal, 24(24), 41659–41674.
+9. Cen, Z., Hu, S., Hou, Y., Chen, Z., & Ke, Y.
+(2024). Remaining useful life prediction of
+machinery based on improved Sample
+Convolution and Interaction Network.
+Engineering Applications of Artificial
+Intelligence, 135, 108813.
+10. Saeed, A., et al. (2025). Hybrid framework for
+Remaining Useful Life (RUL) prediction of
+rolling bearing faults. Array, 27, 100498.
+11. Zhu, Q., Zhou, Z., Li, Y., & Yan, R. (2024).
+Contrastive BiLSTM-enabled health
+representation learning for remaining useful life
+prediction. Reliability Engineering & System
+Safety, 249, 110210.
+12. Yu, B., Guo, H., & Shi, J. (2025). Remaining
+useful life prediction based on hybrid CNNBiLSTM model with dual attention mechanism.
+International Journal of Electrical Power &
+Energy Systems, 172, 111152.
+13. Rathore, M. S., & Harsha, S. P. (2024).
+Unsupervised domain deep transfer learning
+approach for rolling bearing remaining useful life
+estimation. Journal of Computing and
+Information Science in Engineering, 24(2).
+14. Song, L., Lin, T., Jin, Y., Zhao, S., Li, Y., &
+Wang, H. (2024). Advancements in bearing
+remaining useful life prediction methods: A
+comprehensive review. Measurement Science
+and Technology. https://doi.org/10.1088/1361-
+6501/ad5223
+15. Yao, D., Li, B., Liu, H., Yang, J., & Jia, L. (2021).
+Remaining useful life prediction of roller bearings
+based on improved 1D-CNN and simple recurrent
+unit. Measurement, 175, 109166.
+16. Hassan, M. S., Mucchi, E., & Kumar, A. (2026).
+Deep transfer learning for bearing prognostics: A
+CNN adapted regression approach to predict the
+remaining useful life of self-aligning double-row
+ball bearings. Results in Engineering, 112271.
+17. Ben Ali, J., Chebel-Morello, B., Saidi, L.,
+Malinowski, S., & Fnaiech, F. (2015). Accurate
+bearing remaining useful life prediction based on
+Weibull distribution and artificial neural network.
+Mechanical Systems and Signal Processing, 56–
+57, 150–172.
+18. Ren, L., Cui, J., Sun, Y., & Cheng, X. (2017).
+Multi bearing remaining useful life collaborative
+prediction: A deep learning approach. Journal of
+Manufacturing Systems, 43, 248–256.
+19. Deutsch, J., & He, D. (2018). Using deep learning
+based approach to predict remaining useful life of
+rotating components. IEEE Transactions on
+Systems, Man, and Cybernetics: Systems, 48(1),
+11–20.
+20. Li, L., & Jian, Q. (2024). Remaining useful life
+prediction of wind turbine main-bearing based on
+LSTM optimized network. IEEE Sensors Journal,
+24(13), 21143–21156.
+21. Zhao, J., He, D., Jin, Z., Zhang, X., & Zhou, J.
+(2025). A new method for bearing remaining
+useful life prediction based on dynamic wavelet
+and physical information constraints. Expert
+Systems with Applications, 129023.
+22. He, D., Zhao, J., Jin, Z., Huang, C., Zhang, F., &
+Wu, J. (2025). Prediction of bearing remaining
+useful life based on a two-stage updated digital
+twin. Advanced Engineering Informatics, 65,
+103123.
+23. Wang, C., Jiang, W., Shi, L., & Zhang, L. (2025).
+Rolling bearing remaining useful life prediction
+using deep learning based on high-quality
+representation. Scientific Reports, 15(1), 8228.
+24. Sun, B., Hu, W., Wang, H., Wang, L., & Deng, C.
+(2025). Remaining useful life prediction of
+rolling bearings based on CBAM-CNN-LSTM.
+Sensors, 25(2), 554.
+25. Wang, Z., Zhao, C., Shi, H., & Wu, R. (2026). A
+physics-data hybrid driven method for predicting
+the remaining useful life of rolling bearings.
+Measurement Science and Technology, 37(10),
+106104.
+26. Dhungana, H., Kampen, A. L., Lundervold, A. S.,
+& Øvsthus, K. (2026). Remaining useful life
+prediction of rolling bearings via wavelet feature
+fusion and LSTM networks. The International
+Journal of Advanced Manufacturing Technology,
+142(5), 2913–2930.
+27. Wang, G., Liu, S., Jiao, W., Dong, Z., Xu, W.,
+Sun, J., … & Jiang, Y. (2026). A hybrid
+prognostic method based on CEEMDAN-KPCA
+and BiLSTM-Transformer for bearing remaining
+useful life prediction. IEEE Transactions on
+Instrumentation and Measurement.
+28. Wan, A., Zhang, F., Al-Bukhaiti, K., Cheng, X.,
+& Ji, X. (2026). Robust bearing remaining useful
+life prediction using a hybrid deep learning
+framework across operating conditions. Journal
+of the Brazilian Society of Mechanical Sciences
+and Engineering, 48(3), 230.
+HOW TO CITE: Urvashi Singh 

@@ -1,0 +1,28 @@
+{
+  "experiment": "EXP005",
+  "experiment_name": "timestamp_fix",
+  "bearing": "Bearing1_1",
+  "input_directory": "escribe aqui tu ruta",
+  "output_directory": "escribe aqui tu ruta",
+  "corrected_files": [
+    {
+      "input": "escribe aqui tu ruta",
+      "output": "escribe aqui tu ruta",
+      "rows": 2560
+    },
+    {
+      "input": "escribe aqui tu ruta",
+      "output": "escribe aqui tu ruta",
+      "rows": 2560
+    }
+  ],
+  "reference_files": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ],
+  "timestamp_interval_seconds": 10,
+  "sample_rate_hz": 25600,
+  "raw_modified": false,
+  "acceleration_modified": false,
+  "status": "completed"
+}

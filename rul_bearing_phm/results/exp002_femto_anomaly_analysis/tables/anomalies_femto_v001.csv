@@ -1,0 +1,11 @@
+ejemplo del listado de fallas encontrados, todos son iguales en la carpeta Full_Test_Set,Bearing1_4
+
+dataset,conjunto,rodamiento,nombre del archivo,tipo de archivo,snapshot,tipo de anomalía,columna afectada,valor observado,valor esperado,severidad,descripción,estado
+FEMTO,Full_Test_Set,Bearing1_4,acc_00001.csv,acc,1,columnas_invalidas_1,estructura_general,warning,ok,alta,Anomalía detectada en auditoría previa: columnas_invalidas_1,needs_review
+FEMTO,Full_Test_Set,Bearing1_4,acc_00001.csv,acc,1,valores_no_numericos,estructura_general,warning,ok,alta,Anomalía detectada en auditoría previa: valores_no_numericos,needs_review
+FEMTO,Full_Test_Set,Bearing1_4,acc_00001.csv,acc,1,columnas_invalidas,total_cols=1,1,6,alta,El archivo contiene 1 columnas en lugar de 6.,needs_review
+FEMTO,Full_Test_Set,Bearing1_4,acc_00002.csv,acc,2,columnas_invalidas_1,estructura_general,warning,ok,alta,Anomalía detectada en auditoría previa: columnas_invalidas_1,needs_review
+FEMTO,Full_Test_Set,Bearing1_4,acc_00002.csv,acc,2,valores_no_numericos,estructura_general,warning,ok,alta,Anomalía detectada en auditoría previa: valores_no_numericos,needs_review
+FEMTO,Full_Test_Set,Bearing1_4,acc_00002.csv,acc,2,columnas_invalidas,total_cols=1,1,6,alta,El archivo contiene 1 columnas en lugar de 6.,needs_review
+
+

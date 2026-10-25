@@ -1,0 +1,12 @@
+experimento: exp006_consolidate_final_set
+script: 06_consolidate_final_set.py
+regla_suprema: los archivos solo se transfieren integros; nunca se modifican
+operacion: copia_byte_a_byte_verificada_sha256
+fs_hz: 25600.0
+filas_por_archivo: 2560
+columnas_internas_memoria: ["hour", "minute", "second", "microsecond", "acc_horizontal", "acc_vertical"]
+ruta_raw: escribe aqui tu ruta
+ruta_interim: escribe aqui tu ruta
+ruta_processed: escribe aqui tu ruta
+modificacion_raw: false
+eliminacion_archivos: false

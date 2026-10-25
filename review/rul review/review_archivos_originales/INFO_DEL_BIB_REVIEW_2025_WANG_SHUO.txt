@@ -1,0 +1,7 @@
+Bearing prognostics and health management based on hybrid physical mechanism and data models: a systematic review
+
+Shuo Wang, Liang Yan, Shichang Du*, Shanshan Li and Xianmin Chen
+
+Published 24 April 2025
+
+DOI 10.1088/1361-6501/adcce4

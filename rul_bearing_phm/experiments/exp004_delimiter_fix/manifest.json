@@ -1,0 +1,9 @@
+{
+    "experiment": "exp004_delimiter_fix_bearing1_4",
+    "status": "completed",
+    "target": "Full_Test_Set/Bearing1_4",
+    "metrics": {
+        "total_files": 1428,
+        "successfully_corrected": 1428
+    }
+}

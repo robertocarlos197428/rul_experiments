@@ -1,0 +1,56 @@
+{
+  "experiment_id": "exp007_time_features",
+  "created_at": "2026-08-22T16:51:57.304894",
+  "script": "scripts/07_build_time_features.py",
+  "module": "src/features/features_time_domain.py",
+  "inputs": {
+    "femto_base": "escribe aqui tu ruta",
+    "data_sets": [
+      "learning_set",
+      "test_set",
+      "full_test_set"
+    ]
+  },
+  "outputs": {
+    "features_dir": "escribe aqui tu ruta",
+    "log": "results\\exp007_time_features\\logs\\exp007_time_features.log"
+  },
+  "parameters": {
+    "identification_cols": [
+      "data_set",
+      "bearing_id",
+      "file_id",
+      "acc_filename",
+      "timestamp_sec",
+      "condition"
+    ],
+    "axes": [
+      "h",
+      "v"
+    ],
+    "n_base_formulas": 8,
+    "total_features": 16,
+    "std_ddof": 1,
+    "peak_definition": "max_abs",
+    "kurtosis_type": "fisher",
+    "kurtosis_bias": false,
+    "skewness_bias": false,
+    "list": [
+      "mean",
+      "std",
+      "rms",
+      "peak_to_peak",
+      "peak",
+      "crest_factor",
+      "kurtosis",
+      "skewness"
+    ]
+  },
+  "status": "completed",
+  "completed_at": "2026-08-22T16:54:35.117831",
+  "output": {
+    "learning_set": 7534,
+    "test_set": 13959,
+    "full_test_set": 17355
+  }
+}

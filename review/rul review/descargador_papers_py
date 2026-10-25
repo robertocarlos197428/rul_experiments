@@ -1,0 +1,192 @@
+"""
+Descarga masiva de papers a partir de una tabla con columnas:
+author, title, year, doi, url, doi_web, estado_doi (entre otras).
+
+Orden de intento por fila:
+ 1) Unpaywall (busca copia legal de acceso abierto usando el DOI)
+ 2) doi        (resolviendo https://doi.org/<doi>)
+ 3) doi_web
+ 4) url
+
+Guarda los PDFs en DESCARGAS_DIR, deja una copia intacta del archivo
+original (control) y genera un archivo nuevo con dos columnas extra:
+ - descargado       ("Si" / "No")
+ - fuente_descarga  ("unpaywall" / "doi" / "doi_web" / "url" / "")
+
+Requiere: pip install pandas requests tqdm --break-system-packages
+"""
+
+import re
+import shutil
+import time
+from pathlib import Path
+from tkinter import Tk, filedialog
+
+import pandas as pd
+import requests
+from tqdm import tqdm
+
+DESCARGAS_DIR = Path(r"C:\Users\a\Downloads\paper_descargados")
+EMAIL_UNPAYWALL = "TU_CORREO_AQUI@ejemplo.com"  # <-- cámbialo por tu correo real
+TIMEOUT = 20  # segundos por request
+PAUSA_ENTRE_FILAS = 1.5  # segundos, para no saturar servidores
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    )
+}
+
+
+def normalizar_doi(valor):
+    if pd.isna(valor) or str(valor).strip() == "":
+        return None
+    v = str(valor).strip().lower()
+    v = re.sub(r"^https?://(dx\.)?doi\.org/", "", v)
+    return v.rstrip("/")
+
+
+def elegir_archivo_entrada() -> str:
+    root = Tk()
+    root.withdraw()
+    root.attributes("-topmost", True)
+    ruta = filedialog.askopenfilename(
+        title="Selecciona el CSV con los papers",
+        filetypes=[("Archivos CSV", "*.csv")],
+    )
+    root.destroy()
+    if not ruta:
+        raise SystemExit("No se seleccionó ningún archivo.")
+    return ruta
+
+
+def nombre_archivo_seguro(texto, maximo: int = 80) -> str:
+    texto = str(texto).strip()
+    texto = re.sub(r"[^\w\s-]", "", texto)
+    texto = re.sub(r"\s+", "_", texto)
+    return texto[:maximo] if texto else "sin_titulo"
+
+
+def descargar_pdf(url: str, destino: Path) -> bool:
+    try:
+        with requests.get(
+            url, headers=HEADERS, timeout=TIMEOUT, stream=True, allow_redirects=True
+        ) as r:
+            if r.status_code != 200:
+                return False
+            content_type = r.headers.get("Content-Type", "").lower()
+            if "pdf" not in content_type:
+                # revisamos los primeros bytes del cuerpo por si el header viene mal
+                primer_chunk = next(r.iter_content(chunk_size=1024), b"")
+                if not primer_chunk.startswith(b"%PDF"):
+                    return False
+                with open(destino, "wb") as f:
+                    f.write(primer_chunk)
+                    for chunk in r.iter_content(chunk_size=8192):
+                        f.write(chunk)
+                return True
+            with open(destino, "wb") as f:
+                for chunk in r.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            return True
+    except requests.RequestException:
+        return False
+
+
+def buscar_pdf_unpaywall(doi: str):
+    try:
+        resp = requests.get(
+            f"https://api.unpaywall.org/v2/{doi}",
+            params={"email": EMAIL_UNPAYWALL},
+            timeout=TIMEOUT,
+        )
+        if resp.status_code != 200:
+            return None
+        data = resp.json()
+        mejor = data.get("best_oa_location") or {}
+        return mejor.get("url_for_pdf") or mejor.get("url")
+    except (requests.RequestException, ValueError):
+        return None
+
+
+def procesar_fila(fila, destino_base: Path):
+    doi = normalizar_doi(fila.get("doi"))
+    doi_web = normalizar_doi(fila.get("doi_web"))
+    url_directa = fila.get("url")
+    doi_para_unpaywall = doi or doi_web
+
+    # 1) Unpaywall
+    if doi_para_unpaywall:
+        pdf_url = buscar_pdf_unpaywall(doi_para_unpaywall)
+        if pdf_url and descargar_pdf(pdf_url, destino_base.with_suffix(".pdf")):
+            return "Si", "unpaywall"
+
+    # 2) doi
+    if doi:
+        if descargar_pdf(f"https://doi.org/{doi}", destino_base.with_suffix(".pdf")):
+            return "Si", "doi"
+
+    # 3) doi_web
+    if doi_web:
+        if descargar_pdf(f"https://doi.org/{doi_web}", destino_base.with_suffix(".pdf")):
+            return "Si", "doi_web"
+
+    # 4) url
+    if pd.notna(url_directa) and str(url_directa).strip():
+        if descargar_pdf(str(url_directa).strip(), destino_base.with_suffix(".pdf")):
+            return "Si", "url"
+
+    return "No", ""
+
+
+def main():
+    archivo_entrada = elegir_archivo_entrada()
+    ruta_entrada = Path(archivo_entrada)
+
+    # copia de control del archivo original, sin tocar
+    copia_control = ruta_entrada.with_name(ruta_entrada.stem + "_ORIGINAL_COPIA.csv")
+    shutil.copy2(ruta_entrada, copia_control)
+
+    DESCARGAS_DIR.mkdir(parents=True, exist_ok=True)
+
+    df = pd.read_csv(archivo_entrada, sep=None, engine="python", encoding="utf-8-sig")
+    df.columns = df.columns.str.strip()
+
+    columnas_necesarias = ["author", "title", "doi", "doi_web", "url"]
+    faltantes = [c for c in columnas_necesarias if c not in df.columns]
+    if faltantes:
+        print("Columnas encontradas en el archivo:", list(df.columns))
+        raise SystemExit(f"Faltan estas columnas: {faltantes}")
+
+    archivo_salida = ruta_entrada.with_name(ruta_entrada.stem + "_con_descargas.csv")
+    df["descargado"] = "No"
+    df["fuente_descarga"] = ""
+
+    GUARDAR_CADA = 20  # filas
+
+    for contador, (idx, fila) in enumerate(
+        tqdm(df.iterrows(), total=len(df), desc="Descargando papers"), start=1
+    ):
+        nombre_base = f"{idx:04d}_{nombre_archivo_seguro(fila.get('author'))}_{fila.get('year', '')}"
+        destino_base = DESCARGAS_DIR / nombre_base
+
+        descargado, fuente = procesar_fila(fila, destino_base)
+        df.at[idx, "descargado"] = descargado
+        df.at[idx, "fuente_descarga"] = fuente
+
+        if contador % GUARDAR_CADA == 0:
+            df.to_csv(archivo_salida, index=False)
+
+        time.sleep(PAUSA_ENTRE_FILAS)
+
+    df.to_csv(archivo_salida, index=False)  # guardado final, por si acaso
+
+    total_ok = (df["descargado"] == "Si").sum()
+    print(f"\nDescargados: {total_ok} / {len(df)}")
+    print(f"PDFs guardados en: {DESCARGAS_DIR}")
+    print(f"Copia de control (original intacto): {copia_control}")
+    print(f"Archivo con columnas nuevas: {archivo_salida}")
+
+
+if __name__ == "__main__":
+    main()

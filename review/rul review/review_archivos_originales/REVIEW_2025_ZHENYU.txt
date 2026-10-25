@@ -1,0 +1,642 @@
+Abbasi, M.A., Huang, S., Khan, A.S., 2024. Diagnostics and prognostics system design
+integrating hybrid siamese and model-driven learning. Trans. Inst. Meas. Control.
+https://doi.org/10.1177/01423312241292756.
+AdaCBM, 2024. An adaptive concept bottleneck model for explainable and accurate
+diagnosis. In: Lecture Notes in Computer Science. Springer Nature, Switzerland,
+Cham, pp. 35–45. https://doi.org/10.1007/978-3-031-72117-5_4.
+An, Q., Tao, Z., Xu, X., El Mansori, M., Chen, M., 2020. A data-driven model for milling
+tool remaining useful life prediction with convolutional and stacked LSTM network.
+Measurement 154, 107461. https://doi.org/10.1016/j.measurement.2019.107461.
+Andringa, J., Baptista, M.L., Santos, B.F., 2025. Counterfactual explanations for
+remaining useful life estimation within a Bayesian framework. Inf. Fusion 118,
+102972. https://doi.org/10.1016/j.inffus.2025.102972.
+Bai, S., Kolter, J.Z., Koltun, V., 2018. An empirical evaluation of generic convolutional
+and recurrent networks for sequence modeling. https://doi.org/10.48550/arXiv.1803.01271.
+Bajpai, D.J., Hanawal, M.K., 2025. A survey of early exit deep neural networks in NLP.
+https://doi.org/10.48550/arXiv.2501.07670.
+Bao, W., Miao, X., Wang, H., Yang, G., Zhang, H., 2020. Remaining useful life assessment
+of slewing bearing based on spatial-temporal sequence. IEEE Access 8, 9739–9750.
+https://doi.org/10.1109/ACCESS.2020.2965285.
+Behera, S., Misra, R., 2023. A multi-model data-fusion based deep transfer learning for
+improved remaining useful life estimation for IIOT based systems. Eng. Appl. Artif.
+Intell. 119, 105712. https://doi.org/10.1016/j.engappai.2022.105712.
+Bienefeld, C., Kirchner, E., Vogt, A., Kacmar, M., 2022. On the importance of temporal
+information for remaining useful life prediction of rolling bearings using a random
+forest regressor. Lubricants 10, 67. https://doi.org/10.3390/lubricants10040067.
+Cai, S., Zhang, J., Li, C., He, Z., Wang, Z., 2024. A RUL prediction method of rolling
+bearings based on degradation detection and deep BiLSTM. Electron. Res. Arch. 32,
+3145–3161. https://doi.org/10.3934/era.2024144.
+Cao, W., Meng, Z., Li, J., Guan, Y., Fan, J., He, H., Fan, F., 2024. A bearing fault diagnosis
+method for unknown operating conditions based on differentiated feature extraction.
+ISA Trans. S0019057824005019. https://doi.org/10.1016/j.isatra.2024.10.024.
+
+
+
+Cao, Y., Ding, Y., Jia, M., Tian, R., 2021. A novel temporal convolutional network with
+residual self-attention mechanism for remaining useful life prediction of rolling
+bearings. Eng. Syst. Saf 215, 107813. https://doi.org/10.1016/j.ress.2021.107813.
+Cen, J., Yang, Z., Wu, Y., Hu, X., Jiang, L., Chen, H., Si, W., 2023. A mask self-supervised
+learning-based transformer for bearing fault diagnosis with limited labeled samples.
+IEEE Sens. J. 23, 10359–10369. https://doi.org/10.1109/jsen.2023.3264853.
+Chahine, M., Hasani, R., Kao, P., Ray, A., Shubert, R., Lechner, M., Amini, A., Rus, D.,
+2023. Robust flight navigation out of distribution with liquid neural networks. Sci.
+Robot. 8, eadc8892. https://doi.org/10.1126/scirobotics.adc8892.
+Chang, Y., Li, F., Chen, J., Liu, Y., Li, Z., 2022. Efficient temporal flow transformer
+accompanied with multi-head probsparse self-attention mechanism for remaining
+useful life prognostics. Reliab. Eng. Syst. Saf. 226, 108701. https://doi.org/10.1016/
+j.ress.2022.108701.
+Chelmiah, E.T., McLoone, V., Kavanagh, D.F., 2022. Remaining useful life estimation of
+rotating machines through supervised learning with non-linear approaches. Appl.
+Sci.-BASEL 12, 4136. https://doi.org/10.3390/app12094136.
+Chen, C., Wang, T., Liu, Y., Cheng, L., Qin, J., 2022. Spatial attention-based
+convolutional transformer for bearing remaining useful life prediction. Meas. Sci.
+Technol. 33, 114001. https://doi.org/10.1088/1361-6501/ac7c5b.
+Chen, J., Huang, R., Chen, Z., Mao, W., Li, W., 2023. Transfer learning algorithms for
+bearing remaining useful life prediction: a comprehensive review from an industrial
+application perspective. Mech. Syst. Signal Process. 193, 110239. https://doi.org/
+10.1016/j.ymssp.2023.110239.
+Chen, L., Qin, N., Dai, X., Huang, D., 2020. Fault diagnosis of high-speed train bogie
+based on capsule network. IEEE Trans. Instrum. Meas. 69, 6203–6211. https://doi.
+org/10.1109/TIM.2020.2968161.
+Chen, T., Kornblith, S., Norouzi, M., Hinton, G., 2020. A simple framework for
+contrastive learning of visual representations. https://doi.org/10.48550/arXiv.2
+002.05709.
+Chen, Y., Liu, D., Ding, X., Jiang, H., 2024. Variational encoding based on factorized
+temporal-channel fusion and feature fusion for interpretable remaining useful life
+prediction. Adv. Eng. Inform. 59, 102316. https://doi.org/10.1016/j.
+aei.2023.102316.
+Chen, Z., Jin, X., Kong, Z., Wang, F., Xu, Z., 2023. Global and local information
+integrated network for remaining useful life prediction. Eng. Appl. Artif. Intell. 126,
+106956. https://doi.org/10.1016/j.engappai.2023.106956.
+Chen, Z., Xia, T., Li, Y., Pan, E., 2021. A hybrid prognostic method based on gated
+recurrent unit network and an adaptive wiener process model considering
+measurement errors. Mech. Syst. Signal Process. 158, 107785. https://doi.org/
+10.1016/j.ymssp.2021.107785.
+Cheng, W., Xie, S., Xing, J., Nie, Z., Chen, X., Liu, Y., Liu, X., Huang, Q., Zhang, R., 2024.
+Interactive hybrid model for remaining useful life prediction with uncertainty
+quantification of bearing in nuclear circulating water pump. IEEE Trans. Ind. Inform.
+20, 2154–2166. https://doi.org/10.1109/TII.2023.3288225.
+Cheng, Y., Hu, K., Wu, J., Zhu, H., Shao, X., 2021. A convolutional neural network based
+degradation indicator construction and health prognosis using bidirectional long
+short-term memory network for rolling bearings. Adv. Eng. Inform. 48, 101247.
+https://doi.org/10.1016/j.aei.2021.101247.
+Cui, J., Ji, J., Zhang, T., Ni, Q., Cao, L., Chen, Z., 2024a. A novel sparse gaussian process
+regression with time-aware spatiotemporal kernel for remaining useful life
+prediction and uncertainty quantification of bearings. Struct. Health Monit.- Int. J.
+https://doi.org/10.1177/14759217241282876.
+Cui, J., Ji, J.C., Zhang, T., Cao, L., Chen, Z., Ni, Q., 2024b. A novel dual-branch
+transformer with gated cross attention for remaining useful life prediction of
+bearings. IEEE Sens. J. 24, 41410–41423. https://doi.org/10.1109/JSEN.2024.3485918.
+Cummins, L., Sommers, A., Mittal, S., Rahimi, S., Seale, M., Jaboure, J., Arnold, T., 2024.
+Explainable anomaly detection: counterfactual driven What-If analysis. https://doi.org/10.48550/arXiv.2408.11935.
+Dai, Z., Zhao, L., Wang, K., Zhou, Y., 2023. Generative adversarial network to alleviate
+information insufficiency in intelligent fault diagnosis by generating continuations of
+signals. Appl. Soft Comput. 147, 110784. https://doi.org/10.1016/j.asoc.2023.110784.
+Deng, F., Bi, Y., Liu, Y., Yang, S., 2022a. Remaining useful life prediction of machinery: a
+new multiscale temporal convolutional network framework. IEEE Trans. Instrum.
+Meas. 71, 2516913. https://doi.org/10.1109/TIM.2022.3200093.
+Deng, F., Chen, Z., Liu, Y., Yang, S., Hao, R., Lyu, L., 2022b. A novel combination neural
+network based on ConvLSTM-Transformer for bearing remaining useful life
+prediction. Machines 10, 1226. https://doi.org/10.3390/machines10121226.
+Deng, L., Li, W., Yan, X., 2024. An intelligent hybrid deep learning model for rolling
+bearing remaining useful life prediction. Nondestr. Test. Eval. https://doi.org/10.1080/10589759.2024.2385074.
+Ding, N., Li, H., Xin, Q., Wu, B., Jiang, D., 2023. Multi-source domain generalization for
+degradation monitoring of journal bearings under unseen conditions. Reliab. Eng.
+Syst. Saf. 230, 108966. https://doi.org/10.1016/j.ress.2022.108966.
+Ding, Y., Jia, M., 2022. Convolutional transformer: an enhanced attention mechanism
+architecture for remaining useful life estimation of bearings. IEEE Trans. Instrum.
+Meas. 71, 3515010. https://doi.org/10.1109/TIM.2022.3181933.
+Dong, S., Xiao, J., Hu, X., Fang, N., Liu, L., Yao, J., 2023. Deep transfer learning based on
+Bi-LSTM and attention for remaining useful life prediction of rolling bearing. Reliab.
+Eng. Syst. Saf. 230, 108914. https://doi.org/10.1016/j.ress.2022.108914.
+Du, J., Song, L., Gui, X., Zhang, J., Guo, L., Li, X., 2024. Remaining useful life prediction
+under variable operating conditions via multisource adversarial domain adaptation
+networks. Appl. Soft Comput. 161, 111717. https://doi.org/10.1016/j.asoc.2024.111717.
+Evans, M.-H., 2016. An updated review: white etching cracks (WECs) and axial cracks in
+wind turbine gearbox bearings. Mater. Sci. Technol. 32, 1133–1169. https://doi.org/10.1080/02670836.2015.1133022.
+Feng, M., Shao, H., Shao, M., Xiao, Y., Wang, J., Liu, B., 2024. Utilizing bayesian
+generalization network for reliable fault diagnosis of machinery with limited data.
+Knowl.-Based Syst. 305, 112628. https://doi.org/10.1016/j.knosys.2024.112628.
+Gao, P., Wang, J., Shi, Z., Ming, W., Chen, M., 2024. Long-term temporal attention neural
+network with adaptive stage division for remaining useful life prediction of rolling
+bearings. Reliab. Eng. Syst. Saf. 251, 110218. https://doi.org/10.1016/j.ress.2024.110218.
+Gao, Z., Chen, N., Yang, Y., Li, L., 2024. An innovative multisource lightweight adaptive
+replayed online deep transfer learning algorithm for tool wear monitoring. J. Manuf.
+Process. 124, 261–281. https://doi.org/10.1016/j.jmapro.2024.05.050.
+Ghatage, N.B., Patil, P.D., Shinde, S., 2023. Lightweight RNN-based model for adaptive
+time series forecasting with concept drift detection in smart homes. J. Eur. Syst`emes
+Autom. 56, 981–991. https://doi.org/10.18280/jesa.560609.
+Gong, R., Li, J., Wang, C., 2022. Remaining useful life prediction based on multisensor
+fusion and attention TCN-BiGRU model. IEEE Sens. J. 22, 21101–21110. https://doi.org/10.1109/JSEN.2022.3208753.
+Goswami, P., Nandan Rai, R., 2023. A systematic review on failure modes and proposed
+methodology to artificially seed faults for promoting PHM studies in laboratory
+environment for an industrial gearbox. Eng. Fail. Anal. 146, 107076. https://doi.org/10.1016/j.engfailanal.2023.107076.
+Guo, J., Li, H., Yang, Y., Huang, C.-G., Yazdi, M., Kang, H.S., 2024a. A hybrid prognosis
+scheme for rolling bearings based on a novel health indicator and nonlinear wiener
+process. Reliab. Eng. Syst. Saf. 245, 110014. https://doi.org/10.1016/j.ress.2024.110014.
+Guo, J., Wang, Z., Yang, Y., Song, Y., Wan, J., Huang, C., 2024b. A dual-channel
+transferable RUL prediction method integrated with Bayesian deep learning and
+domain adaptation for rolling bearings. Qual. Reliab. Eng. Int. 40, 2348–2366.
+https://doi.org/10.1002/qre.3539.
+Guo, L., Li, N., Jia, F., Lei, Y., Lin, J., 2017. A recurrent neural network based health
+indicator for remaining useful life prediction of bearings. Neurocomputing 240,
+98–109. https://doi.org/10.1016/j.neucom.2017.02.045.
+Guo, R., Yang, Y., Huang, C., 2024c. Air turbine starter remaining useful life prediction
+for bearing based on an improved temporal convolutional network. Trans. Inst.
+Meas. Control. https://doi.org/10.1177/01423312241273807.
+Guo, Y., Zhou, J., Dong, Z., She, H., Xu, W., 2024d. Rolling bearing RUL prediction based
+on fusion of multi-head attention and improved TCN-BiLSTM. IEEE Access 12,
+95641–95658. https://doi.org/10.1109/ACCESS.2024.3424521.
+Hachem, H., Vu, H.C., Fouladirad, M., 2024. Different methods for RUL prediction
+considering sensor degradation. Reliab. Eng. Syst. Saf. 243, 109897. https://doi.org/10.1016/j.ress.2023.109897.
+Han, T., Pang, J., Tan, A.C.C., 2021. Remaining useful life prediction of bearing based on
+stacked autoencoder and recurrent neural network. J. Manuf. Syst. 61, 576–591.
+https://doi.org/10.1016/j.jmsy.2021.10.011.
+Hasani, R., Lechner, M., Amini, A., Liebenwein, L., Ray, A., Tschaikowski, M., Teschl, G.,
+Rus, D., 2022. Closed-form continuous-time neural models. Nat. Mach. Intell. 4,
+992–1003. https://doi.org/10.1038/s42256-022-00556-7.
+Hassija, V., Chamola, V., Mahapatra, A., Singal, A., Goel, D., Huang, K., Scardapane, S.,
+Spinelli, I., Mahmud, M., Hussain, A., 2024. Interpreting black-box models: a review
+on explainable artificial intelligence. Cogn. Comput. 16, 45–74. https://doi.org/10.1007/s12559-023-10179-8.
+He, J., Zhang, Xu, Zhang, Xuechang, Shen, J., 2024. Remaining useful life prediction for
+bearing based on automatic feature combination extraction and residual multi-head
+attention GRU network. Meas. Sci. Technol. 35, 36003. https://doi.org/10.1088/1361-6501/ad1652.
+He, K., Su, Z., Tian, X., Yu, H., Luo, M., 2022. RUL prediction of wind Turbine Gearbox
+bearings based on self-calibration temporal convolutional network. IEEE Trans.
+Instrum. Meas. 71, 1–12. https://doi.org/10.1109/TIM.2022.3143881.
+Hernandez, A., Amigo, J.M., 2021. Attention mechanisms and their applications to
+complex systems. Entropy 23, 283. https://doi.org/10.3390/e23030283.
+Hochreiter, S., Schmidhuber, J., 1997. Long short-term memory. Neural Comput. 9,
+1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735.
+Hou, D., Chen, J., Cheng, R., Hu, X., Shi, P., 2024. A bearing remaining life prediction
+method under variable operating conditions based on cross-transformer fusioning
+segmented data cleaning. Reliab. Eng. Syst. Saf. 245, 110021. https://doi.org/10.1016/j.ress.2024.110021.
+Howard, A., Sandler, M., Chen, B., Wang, W., Chen, L.-C., Tan, M., Chu, G.,
+Vasudevan, V., Zhu, Y., Pang, R., Adam, H., Le, Q., 2019. Searching for
+MobileNetV3. In: 2019 IEEE/CVF International Conference on Computer Vision
+(ICCV). Presented at the 2019 IEEE/CVF International Conference on Computer
+Vision (ICCV). IEEE, Seoul, Korea (South), pp. 1314–1324. https://doi.org/10.1109/iccv.2019.00140.
+Hu, A., Zhu, Y., Liu, S., Xing, L., Xiang, L., 2024. A novel vision transformer network for
+rolling bearing remaining useful life prediction. Meas. Sci. Technol. 35, 25106.
+https://doi.org/10.1088/1361-6501/ad0705.
+Hu, Y., Wei, R., Yang, Y., Li, X., Huang, Z., Liu, Y., He, C., Lu, H., 2022. Performance
+degradation prediction using LSTM with optimized parameters. SENSORS 22, 2407.
+https://doi.org/10.3390/s22062407.
+Huang, C., Bu, S., Lee, H.H., Chan, K.W., Yung, W.K.C., 2024. Prognostics and health
+management for induction machines: a comprehensive review. J. Intell. Manuf. 35,
+937–962. https://doi.org/10.1007/s10845-023-02103-6.
+Huang, P., Wang, Y., Gu, Y., Qiu, G., 2024. A bearing RUL prediction approach of
+vibration fault signal denoise modeling with Gate-CNN and Conv-transformer encoder. Meas. Sci. Technol. 35, 66104. https://doi.org/10.1088/1361-6501/ad2cd
+Huang, R., Xi, L., Li, X., Richard Liu, C., Qiu, H., Lee, J., 2007. Residual life predictions
+for ball bearings based on self-organizing map and back propagation neural network
+methods. Mech. Syst. Signal Process. 21, 193–207. https://doi.org/10.1016/j.
+ymssp.2005.11.008.
+Jiang, J.-R., Lee, J.-E., Zeng, Y.-M., 2020. Time series multiple Channel convolutional
+neural network with attention-based long short-term memory for predicting bearing
+remaining useful life. SENSORS 20, 166. https://doi.org/10.3390/s20010166.
+Jiang, L., Zhang, T., Lei, W., Zhuang, K., Li, Y., 2023. A new convolutional dual-channel
+Transformer network with time window concatenation for remaining useful life
+prediction of rolling bearings. Adv. Eng. Inform. 56, 101966. https://doi.org/
+10.1016/j.aei.2023.101966.
+Kim, J., Lee, S., Hwang, E., Ryu, K.S., Jeong, H., Lee, J.W., Hwangbo, Y., Choi, K.S.,
+Cha, H.S., 2020. Limitations of deep learning attention mechanisms in clinical
+research: empirical case study based on the Korean diabetic disease setting. J. Med.
+Internet Res. 22, e18418. https://doi.org/10.2196/18418.
+Kim, S., Seo, Y.-H., Park, J., 2024. Transformer-based novel framework for remaining
+useful life prediction of lubricant in operational rolling bearings. vol 251, 110377,
+2024 Reliab. Eng. Syst. Saf. 251, 110410. https://doi.org/10.1016/j.
+ress.2024.110410.
+Kulevome, D.K.B., Wang, H., Cobbinah, B.M., Mawuli, E.S., Kumar, R., 2024. Effective
+time-series data Augmentation with Analytic wavelets for bearing fault diagnosis.
+Expert Syst. Appl. 249, 123536. https://doi.org/10.1016/j.eswa.2024.123536.
+Kundu, P., Darpe, A.K., Kulkarni, M.S., 2021. A review on diagnostic and prognostic
+approaches for gears. Struct. Health Monit. 20, 2853–2893. https://doi.org/
+10.1177/1475921720972926.
+Leadbetter, R., C´
+aceres, G.G., Phatak, A., 2025. Bayesian hierarchical modeling of noisy
+gamma processes: formulation and extensions for unit-to-unit variability. Appl.
+Stoch Model Bus. Ind. 41. https://doi.org/10.1002/asmb.70014.
+LeCun, Y., Denker, J.S., Solla, S.A., n.d. Optimal Brain Damage.
+Lei, Y., He, Z., Zi, Y., 2008. Application of a novel hybrid intelligent method to
+compound fault diagnosis of locomotive roller bearings. J. Vib. Acoust. 130, 034501.
+https://doi.org/10.1115/1.2890396.
+Lei, Y., Yang, B., Jiang, X., Jia, F., Li, N., Nandi, A.K., 2020. Applications of machine
+learning to machine fault diagnosis: a review and roadmap. Mech. Syst. Signal
+Process. 138, 106587. https://doi.org/10.1016/j.ymssp.2019.106587.
+Li, B., Lv, X., Zhou, F., Yan, B., 2024. A life prediction method of rolling bearing based on
+signal reconstruction and fusion dual channel network. Meas. Sci. Technol. 35,
+15137. https://doi.org/10.1088/1361-6501/ad05a2.
+Li, F., Dai, Z., Jiang, L., Song, C., Zhong, C., Chen, Y., 2024. Prediction of the remaining
+useful life of bearings through CNN-Bi-LSTM-Based domain adaptation model.
+Sensors 24, 6906. https://doi.org/10.3390/s24216906.
+Li, H., Cao, P., Yi, B., Huang, M., Sun, Q., Zhang, Y., 2023. Multi-task spatio-temporal
+augmented net for industry equipment remaining useful life prediction. Adv. Eng.
+Inform. 55, 101898. https://doi.org/10.1016/j.aei.2023.101898.
+Li, H., Wang, W., Li, Z., Dong, L., Li, Q., 2020. A novel approach for predicting tool
+remaining useful life using limited data. Mech. Syst. Signal Process. 143, 106832.
+https://doi.org/10.1016/j.ymssp.2020.106832.
+Li, J., Mao, W., Yang, B., Meng, Z., Tong, K., Yu, S., 2024. RUL prediction of rolling
+bearings across working conditions based on multi-scale convolutional parallel
+memory domain adaptation network. Reliab. Eng. Syst. Saf. 243, 109854. https://
+doi.org/10.1016/j.ress.2023.109854.
+Li, J., Wu, X., Li, Z., 2025. Physics-informed neural network approach for solving vortexinduced vibration problems of cylinder. Appl. Ocean Res. 161, 104661. https://doi.
+org/10.1016/j.apor.2025.104661.
+Li, L., Jian, Q., 2024. Remaining useful life prediction of wind turbine main-bearing
+based on LSTM optimized network. IEEE Sens. J. 24, 21143–21156. https://doi.org/
+10.1109/JSEN.2024.3402660.
+Li, X., Wang, Y., Yao, J., Li, M., Gao, Z., 2024. Multi-sensor fusion fault diagnosis method
+of wind turbine bearing based on adaptive convergent viewable neural networks.
+Reliab. Eng. Syst. Saf. 245, 109980. https://doi.org/10.1016/j.ress.2024.109980.
+Li, Y., Wang, H., Li, J., Tan, J., 2022. A 2-D long short-term memory fusion networks for
+bearing remaining useful life prediction. IEEE Sens. J. 22, 21806–21815. https://doi.
+org/10.1109/JSEN.2022.3202606.
+Liang, H., Cao, J., Zhao, X., 2023. Multi-sensor data fusion and bidirectional-temporal
+attention convolutional network for remaining useful life prediction of rolling
+bearing. Meas. Sci. Technol. 34, 105126. https://doi.org/10.1088/1361-6501/
+ace733.
+Liao, J., Peng, T., Xu, Y., Gui, G., Yang, Chao, Yang, Chunhua, Gui, W., 2024. Taskorientated probabilistic damage model with interdependent degradation behaviors
+for RUL prediction of traction converter systems. Reliab. Eng. Syst. Saf. 250, 110302.
+https://doi.org/10.1016/j.ress.2024.110302.
+Liao, X., Chen, S., Wen, P., Zhao, S., 2023. Remaining useful life with self-attention
+assisted physics-informed neural network. Adv. Eng. Inform. 58, 102195. https://
+doi.org/10.1016/j.aei.2023.102195.
+Lin, T., Song, L., Cui, L., Wang, H., 2024. Advancing RUL prediction in mechanical
+systems: a hybrid deep learning approach utilizing non-full lifecycle data. Adv. Eng.
+Inform. 61, 102524. https://doi.org/10.1016/j.aei.2024.102524.
+Liu, X., Liu, S., Xiang, J., Sun, R., 2023. A transfer learning strategy based on numerical
+simulation driving 1D Cycle-GAN for bearing fault diagnosis. Inf. Sci. 642, 119175.
+https://doi.org/10.1016/j.ins.2023.119175.
+Liu, X., Zhang, Z., Li, Z., Wang, J., Zhu, Y., Ma, H., 2025. Advancements in bearing health
+monitoring and remaining useful life prediction: techniques, challenges, and future
+directions. Meas. Sci. Technol. 36, 32003. https://doi.org/10.1088/1361-6501/
+adafc8.
+Liu, Z., Peng, D., Zuo, M.J., Xia, J., Qin, Y., 2022. Improved hilbert–huang transform
+with soft sifting stopping criterion and its application to fault diagnosis of wheelset
+bearings. ISA Trans. 125, 426–444. https://doi.org/10.1016/j.isatra.2021.07.011.
+Lu, H., Zhou, K., He, L., 2024. Bearing fault vibration signal denoising based on adaptive
+denoising autoencoder. Electronics 13, 2403. https://doi.org/10.3390/
+electronics13122403.
+Lu, Z., Li, B., Fu, C., Xu, L., Jiang, B., Li, Z., Wu, J., Jia, S., 2025. A multi-scale crossdimension interaction approach with adaptive dilated TCN for RUL prediction. Sci.
+Rep. 15. https://doi.org/10.1038/s41598-025-00572-8.
+Ma, H., Wang, J., Han, B., Zhang, Z., Bao, H., 2024. Temporal convolutional network
+with soft threshold and contractile self-attention mechanism for remaining useful life
+prediction of rolling bearings. Meas. Sci. Technol. 35, 126004. https://doi.org/
+10.1088/1361-6501/ad73f1.
+Ma, K., Huang, W., Ding, C., Shi, J., Wang, J., Shen, C., Jiang, X., 2024. Research on
+remaining useful life prediction methods for rolling bearings based on a novel gated
+unit. Meas. Sci. Technol. 35, 116138. https://doi.org/10.1088/1361-6501/ad66fb.
+Ma, M., Mao, Z., 2021. Deep-convolution-Based LSTM network for remaining useful life
+prediction. IEEE Trans. Ind. Inform. 17, 1658–1667. https://doi.org/10.1109/
+TII.2020.2991796.
+Makrouf, I., Zegrari, M., Dahi, K., Ouachtouk, I., 2025. A novel framework for multisensor data fusion in bearing fault diagnosis using continuous wavelet transform and
+transfer learning. E-Prime - Adv. Electr. Eng. Electron. Energy 13, 101025. https://
+doi.org/10.1016/j.prime.2025.101025.
+Mao, W., He, J., Zuo, M.J., 2020. Predicting remaining useful life of rolling bearings
+based on deep feature representation and transfer learning. IEEE Trans. Instrum.
+Meas. 69, 1594–1608. https://doi.org/10.1109/TIM.2019.2917735.
+Maurya, S., Verma, N.K., 2023. Intelligent hybrid scheme for health monitoring of
+degrading rotary machines: an adaptive fuzzy c -Means coupled with 1-D CNN. IEEE
+Trans. Instrum. Meas. 72, 1–10. https://doi.org/10.1109/TIM.2023.3253887.
+Mian, Z., Deng, X., Dong, X., Tian, Y., Cao, T., Chen, K., Jaber, T.A., 2024. A literature
+review of fault diagnosis based on ensemble learning. Eng. Appl. Artif. Intell. 127,
+107357. https://doi.org/10.1016/j.engappai.2023.107357.
+Miao, M., Yu, J., 2021. A deep domain adaptative network for remaining useful life
+prediction of machines under different working conditions and fault modes. IEEE
+Trans. Instrum. Meas. 70, 3518214. https://doi.org/10.1109/TIM.2021.3084305.
+Micikevicius, P., Narang, S., Alben, J., Diamos, G., Elsen, E., Garcia, D., Ginsburg, B.,
+Houston, M., Kuchaiev, O., Venkatesh, G., Wu, H., 2018. Mixed precision training.
+https://doi.org/10.48550/arXiv.1710.03740.
+Mienye, I.D., Swart, T.G., Obaido, G., 2024. Recurrent neural networks: a comprehensive
+review of architectures. Variants, and Applications. Information 15, 517. https://doi.
+org/10.3390/info15090517.
+Nectoux, P., Gouriveau, R., Medjaher, K., Ramasso, E., Morello, B., Zerhouni, N.,
+Varnier, C., 2012. PRONOSTIA: an Experimental Platform for Bearings Accelerated
+Degradation Tests.
+Nguyen, K.T.P., Medjaher, K., Tran, D.T., 2023. A review of artificial intelligence
+methods for engineering prognostics and health management with implementation
+guidelines. Artif. Intell. Rev. 56, 3659–3709. https://doi.org/10.1007/s10462-022-
+10260-y.
+Ni, Q., Ji, J.C., Feng, K., 2023. Data-Driven prognostic scheme for bearings based on a
+novel health indicator and gated recurrent unit network. IEEE Trans. Ind. Inform. 19,
+1301–1311. https://doi.org/10.1109/TII.2022.3169465.
+Niu, Z., Zhong, G., Yu, H., 2021. A review on the attention mechanism of deep learning.
+Neurocomputing 452, 48–62. https://doi.org/10.1016/j.neucom.2021.03.091.
+Pang, B., Hua, Z., Zhao, D., Xu, Z., 2023. ConTriFormer: triggers-guided contextual
+informer for remaining useful life prediction of rolling bearings. Meas. Sci. Technol.
+34, 105121. https://doi.org/10.1088/1361-6501/ace46d.
+Peng, F., Zheng, L., Peng, Y., Fang, C., Meng, X., 2022. Digital Twin for rolling bearings: a
+review of current simulation and PHM techniques. Measurement 201, 111728.
+https://doi.org/10.1016/j.measurement.2022.111728.
+Peng, H., Mao, Z., Jiang, B., 2024. PMBCT: the probabilistic multiscale Bayesian
+Convolutional transformer for trustworthy remaining useful life prediction. IEEE
+Trans. Reliab. https://doi.org/10.1109/TR.2024.3427797.
+Puerto-Santana, C., Bielza, C., Diaz-Rozo, J., Ramirez-Gargallo, G., Mantovani, F.,
+Virumbrales, G., Labarta, J., Larranaga, P., 2022. Asymmetric HMMs for online ballbearing health assessments. IEEE Internet Things J. 9, 20160–20177. https://doi.
+org/10.1109/JIOT.2022.3173064.
+Qin, Y., Gan, F., Xia, B., Mi, D., Zhang, L., 2024. Remaining useful life estimation of
+bearing via temporal convolutional networks enhanced by a gated convolutional
+unit. Eng. Appl. Artif. Intell. 133, 108308. https://doi.org/10.1016/j.
+engappai.2024.108308.
+Qiu, H., Niu, Y., Shang, J., Gao, L., Xu, D., 2023. A piecewise method for bearing
+remaining useful life estimation using temporal convolutional networks. J. Manuf.
+Syst. 68, 227–241. https://doi.org/10.1016/j.jmsy.2023.04.002.
+Rezamand, M., Kordestani, M., Carriveau, R., Ting, D.S.-K., Orchard, M.E., Saif, M., 2020.
+Critical wind turbine components prognostics: a comprehensive review. IEEE Trans.
+Instrum. Meas. 69, 9306–9328. https://doi.org/10.1109/TIM.2020.3030165.
+Risso, M., Burrello, A., Conti, F., Lamberti, L., Chen, Y., Benini, L., Macii, E., Poncino, M.,
+Jahier Pagliari, D., 2022. Lightweight neural Architecture search for temporal
+convolutional networks at the edge. IEEE Trans. Comput. https://doi.org/10.1109/
+tc.2022.3177955, 1–1.
+Rumelhart, D.E., Hintont, G.E., Williams, R.J., 1986. Learning Representations by backpropagating Errors.
+Russell, M., Wang, P., 2022. Physics-informed deep learning for signal compression and
+reconstruction of big data in industrial condition monitoring. Mech. Syst. Signal
+Process. 168, 108709. https://doi.org/10.1016/j.ymssp.2021.108709.
+
+
+
+Sarlin, P., 2013. Self-organizing time map: an abstraction of temporal multivariate
+patterns. Neurocomputing 99, 496–508. https://doi.org/10.1016/j.
+neucom.2012.07.011.
+Saxena, A., Simon, D., Eklund, N., n.d. Damage Propagation Modeling for Aircraft Engine
+Prognostics.
+Scarselli, F., Gori, M., Ah, Chung Tsoi, Hagenbuchner, M., Monfardini, G., 2009. The
+graph neural network model. IEEE Trans. Neural Netw. 20, 61–80. https://doi.org/
+10.1109/TNN.2008.2005605.
+Shang, J., Xu, D., Qiu, H., Gao, L., Jiang, C., Yi, P., 2024. A novel data augmentation
+framework for remaining useful life estimation with dense convolutional regression
+network. J. Manuf. Syst. 74, 30–40. https://doi.org/10.1016/j.jmsy.2024.02.011.
+Shang, Y., Tang, X., Zhao, G., Jiang, P., Ran Lin, T., 2022. A remaining life prediction of
+rolling element bearings based on a bidirectional gate recurrent unit and convolution
+neural network. Measurement 202, 111893. https://doi.org/10.1016/j.
+measurement.2022.111893.
+Shao, Y., Qian, Q., Wang, H., 2024. Remaining useful life prediction of slewing bearings
+using attention mechanism enabled multivariable gated recurrent unit network.
+Trans. Inst. Meas. Control 46, 2730–2741. https://doi.org/10.1177/
+01423312241257297.
+She, D., Wang, H., Zhang, H., Chen, J., 2024. A domain adaptation network with feature
+scale preservation for remaining useful life prediction of rolling bearings under
+variable operating conditions. Meas. Sci. Technol. 35, 46102. https://doi.org/
+10.1088/1361-6501/ad1918.
+Shen, F., Yan, R., 2022. A new intermediate-domain SVM-Based transfer model for
+rolling bearing RUL prediction. IEEE ASME Trans. Mechatron. 27, 1357–1369.
+https://doi.org/10.1109/TMECH.2021.3094986.
+Shi, J., Zhong, J., Zhang, Y., Xiao, B., Xiao, L., Zheng, Y., 2024. A dual attention LSTM
+lightweight model based on exponential smoothing for remaining useful life
+prediction. Reliab. Eng. Syst. Saf. 243, 109821. https://doi.org/10.1016/j.
+ress.2023.109821.
+Shi, P., Wu, S., Xu, X., Zhang, B., Liang, P., Qiao, Z., 2023. TSN: a novel intelligent fault
+diagnosis method for bearing with small samples under variable working conditions.
+Reliab. Eng. Syst. Saf. 240, 109575. https://doi.org/10.1016/j.ress.2023.109575.
+Silva, J.L.H., Cardoso, A.J.M., 2005. Bearing failures diagnosis in three-phase induction
+motors by extended Park’s vector approach. In: 31st Annual Conference of IEEE
+Industrial Electronics Society, 2005. IECON 2005. Presented at the 31st Annual
+Conference of IEEE Industrial Electronics Society, 2005. IEEE, Raleigh, NC, USA,
+p. 6. https://doi.org/10.1109/IECON.2005.1569315. IECON 2005.
+Song, X., Zhang, Q., Sun, R., Tian, R., Sun, J., Li, C., Cui, Y., 2023. A hybrid deep learning
+prediction method of remaining useful life for rolling bearings using Multiscale
+stacking deep residual shrinkage network. Int. J. Intell. Syst. 2023, 6665534.
+https://doi.org/10.1155/2023/6665534.
+Song, Y., Gao, S., Li, Y., Jia, L., Li, Q., Pang, F., 2021. Distributed attention-based
+temporal convolutional network for remaining useful life prediction. IEEE Internet
+Things J. 8, 9594–9602. https://doi.org/10.1109/JIOT.2020.3004452.
+Su, X., Liu, H., Tao, L., Lu, C., Suo, M., 2021. An end-to-end framework for remaining
+useful life prediction of rolling bearing based on feature pre-extraction mechanism
+and deep adaptive transformer model. Comput. Ind. Eng. 161, 107531. https://doi.
+org/10.1016/j.cie.2021.107531.
+Su, Y., Tao, F., Jin, J., Wang, T., Wang, Q., Wang, L., 2020. Failure prognosis of complex
+equipment with Multistream deep recurrent neural network. J. Comput. Inf. Sci. Eng.
+20, 021007. https://doi.org/10.1115/1.4045445.
+Sun, H., Xia, M., Hu, Y., Lu, S., Liu, Y., Wang, Q., 2021. A new sorting feature-based
+temporal convolutional network for remaining useful life prediction of rotating
+machinery. Comput. Electr. Eng. 95, 107413. https://doi.org/10.1016/j.
+compeleceng.2021.107413.
+Szabo, I., Tulbure, Andrei Alexandru, Tulbure, Adrian Alexandru, 2024. Bearing fault
+identification with the application of kalman filter. In: 2024 IEEE 30th International
+Symposium for Design and Technology in Electronic Packaging (SIITME). Presented
+at the 2024 IEEE 30th International Symposium for Design and Technology in
+Electronic Packaging (SIITME), pp. 358–361. https://doi.org/10.1109/
+siitme63973.2024.10814848. IEEE, Sibiu, Romania.
+Tao, Zuo, Zhang, K., Zheng, Q., Li, X., Li, Z., Ding, G., Zhao, M., 2023. A hybrid attentionbased multi-wavelet coefficient fusion method in RUL prognosis of rolling bearings.
+Reliab. Eng. Syst. Saf. 237, 109337. https://doi.org/10.1016/j.ress.2023.109337.
+Tian, M., Su, X., Chen, C., An, W., 2023. A novel method for multistage degradation
+predicting the remaining useful life of wind turbine generator bearings based on
+domain adaptation. Appl. Sci.-BASEL 13, 12332. https://doi.org/10.3390/
+app132212332.
+Verstraete, D., Droguett, E., Modarres, M., 2020. A deep adversarial approach based on
+multi-sensor fusion for semi-supervised remaining useful life prognostics. SENSORS
+20, 176. https://doi.org/10.3390/s20010176.
+Von Hahn, T., Mechefske, C., 2022. Knowledge informed machine learning using a
+weibull-based loss function. J. Progn. Health Manag 2, 9–44. https://doi.org/
+10.22215/jphm.v2i1.3162.
+Wang, B., Lei, Y., Li, N., Wang, W., 2021. Multiscale convolutional attention network for
+predicting remaining useful life of machinery. IEEE Trans. Ind. Electron. 68,
+7496–7504. https://doi.org/10.1109/TIE.2020.3003649.
+Wang, B., Lei, Y., Li, N., Yan, T., 2019. Deep separable convolutional network for
+remaining useful life prediction of machinery. Mech. Syst. Signal Process. 134,
+106330. https://doi.org/10.1016/j.ymssp.2019.106330.
+Wang, B., Lei, Y., Li, Naipeng, Li, Ningbo, 2020a. A hybrid prognostics approach for
+estimating remaining useful life of rolling element bearings. IEEE Trans. Reliab. 69,
+401–412. https://doi.org/10.1109/TR.2018.2882682.
+Wang, B., Lei, Y., Yan, T., Li, N., Guo, L., 2020b. Recurrent convolutional neural network:
+a new framework for remaining useful life prediction of machinery. Neurocomputing
+379, 117–129. https://doi.org/10.1016/j.neucom.2019.10.064.
+Wang, C., Jiang, J., Qi, H., Zhang, D., Han, X., 2024. A novel temporal fusion channel
+network with multi-channel hybrid attention for the remaining useful life prediction
+of rolling bearings. Processes 12, 2762. https://doi.org/10.3390/pr12122762.
+Wang, G., Li, H., Zhang, F., Wu, Z., 2022. Feature Fusion based Ensemble Method for
+remaining useful life prediction of machinery. Appl. Soft Comput. 129, 109604.
+https://doi.org/10.1016/j.asoc.2022.109604.
+Wang, H., Li, Y., Jin, Y., Zhao, S., Han, C., Song, L., 2024. Remaining useful life
+prediction method enhanced by data augmentation and similarity fusion. Vibration
+7, 560–581. https://doi.org/10.3390/vibration7020029.
+Wang, H., Yang, J., Shi, L., Wang, R., 2022. Remaining useful life prediction based on
+adaptive SHRINKAGE processing and temporal convolutional network. SENSORS 22,
+9088. https://doi.org/10.3390/s22239088.
+Wang, H., Yang, J., Wang, R., Shi, L., 2023. Remaining useful life prediction of bearings
+based on convolution attention mechanism and temporal convolution network. IEEE
+Access 11, 24407–24419. https://doi.org/10.1109/ACCESS.2023.3255891.
+Wang, L., Cao, H., Ye, Z., Xu, H., 2023. Bayesian large-kernel attention network for
+bearing remaining useful life prediction and uncertainty quantification. Reliab. Eng.
+Syst. Saf. 238, 109421. https://doi.org/10.1016/j.ress.2023.109421.
+Wang, L., Liu, H., Pan, Z., Fan, D., Zhou, C., Wang, Z., 2022. Long short-term memory
+neural network with transfer learning and ensemble learning for remaining useful
+life prediction. SENSORS 22, 5744. https://doi.org/10.3390/s22155744.
+Wang, P., Long, Z., Wang, G., 2020. A hybrid prognostics approach for estimating
+remaining useful life of wind turbine bearings. ENERGY Rep 6, 173–182. https://doi.
+org/10.1016/j.egyr.2020.11.265.
+Wang, R., Yan, F., Shi, R., Yu, L., Deng, Y., 2022. Uncertainty-controlled remaining useful
+life prediction of bearings with a new data-augmentation strategy. Appl. Sci.-BASEL
+12, 11086. https://doi.org/10.3390/app122111086.
+Wang, W., Zhou, G., Ma, G., Yan, X., Zhou, P., He, Z., Ma, T., 2023. A novel competitive
+temporal convolutional network for remaining useful life prediction of rolling
+bearings. IEEE Trans. Instrum. Meas. 72, 1–12. https://doi.org/10.1109/
+TIM.2023.3293877.
+Wang, X., Li, Y., Noman, K., Nandi, A.K., 2024. Multi-task learning mixture density
+network for interval estimation of the remaining useful life of rolling element
+bearings. Reliab. Eng. Syst. Saf. 251, 110348. https://doi.org/10.1016/j.
+ress.2024.110348.
+Wang, Y., Deng, L., Zheng, L., Gao, R.X., 2021. Temporal convolutional network with soft
+thresholding and attention mechanism for machinery prognostics. J. Manuf. Syst. 60,
+512–526. https://doi.org/10.1016/j.jmsy.2021.07.008.
+Wang, Y., Li, M., Zheng, L., Shi, M., Zheng, Z., Pei, X., 2024. Phyformer: a degradation
+physics-informed self-data driven approach to machinery prognostics. Adv. Eng.
+Inform. 62, 102772. https://doi.org/10.1016/j.aei.2024.102772.
+Wang, Y., Xiang, J., Markert, R., Liang, M., 2016. Spectral kurtosis for fault detection,
+diagnosis and prognostics of rotating machines: a review with applications. Mech.
+Syst. Signal Process. 66–67, 679–698. https://doi.org/10.1016/j.
+ymssp.2015.04.039.
+Wei, H., Zhang, Q., Gu, Y., 2023. Remaining useful life prediction of bearings based on
+self-attention mechanism, multi-scale dilated causal convolution, and temporal
+convolution network. Meas. Sci. Technol. 34, 45107. https://doi.org/10.1088/1361-
+6501/acb0e9.
+Wei, Y., Xiao, Z., Chen, X., Gu, X., Schroder, ¨ K.-U., 2025. A bearing fault data
+augmentation method based on hybrid-diversity loss diffusion model and parameter
+transfer. Reliab. Eng. Syst. Saf. 253, 110567. https://doi.org/10.1016/j.
+ress.2024.110567.
+Wei, Z., Hao, L., Zhang, X., 2022. Model compression by iterative pruning with
+knowledge distillation and its application to speech enhancement. In: Interspeech
+2022. ISCA, pp. 941–945. https://doi.org/10.21437/Interspeech.2022-619.
+Presented at the Interspeech 2022.
+Wen, L., Su, S., Li, X., Ding, W., Feng, K., 2024. GRU-AE-wiener: a generative adversarial
+network assisted hybrid gated recurrent unit with wiener model for bearing
+remaining useful life estimation. Mech. Syst. Signal Process. 220, 111663. https://
+doi.org/10.1016/j.ymssp.2024.111663.
+Wu, F., Wu, Q., Tan, Y., Xu, X., 2024. Remaining useful life prediction based on Deep
+Learning: a Survey. SENSORS 24, 3454. https://doi.org/10.3390/s24113454.
+Wu, M., Ye, Q., Mu, J., Fu, Z., Han, Y., 2023. Remaining useful life prediction via a datadriven deep learning fusion Model-CALAP. IEEE Access 11, 112085–112096.
+https://doi.org/10.1109/ACCESS.2023.3322733.
+Xia, P., Huang, Y., Qin, C., Xiao, D., Gong, L., Liu, C., Du, W., 2023. Adaptive feature
+utilization with separate gating mechanism and global temporal convolutional
+network for remaining useful life prediction. IEEE Sens. J. 23, 21408–21420.
+https://doi.org/10.1109/JSEN.2023.3299432.
+Xia, Y., Li, W., Ren, W., 2024. A novel remaining useful life prediction based on transfer
+hybrid deep neural network under variable working conditions. Phys. Scr. 99,
+106011. https://doi.org/10.1088/1402-4896/ad7ab9.
+Xiang, S., Li, P., Huang, Y., Luo, J., Qin, Y., 2024. Single gated RNN with differential
+weighted information storage mechanism and its application to machine RUL
+prediction. Reliab. Eng. Syst. Saf. 242, 109741. https://doi.org/10.1016/j.
+ress.2023.109741.
+Xiao, Y., Liu, D., Cui, L., Wang, H., 2024. Heterogeneous graph representation-driven
+multiplex aggregation graph neural network for remaining useful life prediction of
+bearings. Mech. Syst. Signal Process. 220, 111679. https://doi.org/10.1016/j.
+ymssp.2024.111679.
+Xie, Y., Wang, S., Zhang, G., Takyi-Aninakwa, P., Fernandez, C., Blaabjerg, F., 2024.
+A review of data-driven whole-life state of health prediction for lithium-ion
+batteries: data preprocessing, aging characteristics, algorithms, and future
+challenges. J. Energy Chem. 97, 630–649. https://doi.org/10.1016/j.
+jechem.2024.06.017.
+Xu, D., Qiu, H., Gao, L., Yang, Z., Wang, D., 2022. A novel dual-stream self-attention
+neural network for remaining useful life estimation of mechanical systems. Reliab.
+Eng. Syst. Saf. 222, 108444. https://doi.org/10.1016/j.ress.2022.108444.
+Xu, F., Shu, X., Li, X., Tang, R., 2021. Health indicator construction for roller bearing
+based on an unsupervised deep belief network with a novel sigmoid zero local
+minimum point model. Struct. Health Monit.- Int. J. 20, 2110–2123. https://doi.org/
+10.1177/1475921720963951.
+Xu, Z., Chen, X., Li, Y., Xu, J., 2024. Hybrid multimodal feature fusion with multi-sensor
+for bearing fault diagnosis. Sensors 24, 1792. https://doi.org/10.3390/s24061792.
+Xu, Z., Saleh, J.H., 2021. Machine learning for reliability engineering and safety
+applications: review of current status and future opportunities. Reliab. Eng. Syst. Saf.
+211, 107530. https://doi.org/10.1016/j.ress.2021.107530.
+Xuan, Q.L., Adhisantoso, Y.G., Munderloh, M., Ostermann, J., 2023. Uncertainty-aware
+remaining useful life prediction for predictive maintenance using deep learning.
+Proced. CIRP 118, 116–121. https://doi.org/10.1016/j.procir.2023.06.021.
+Yan, J., He, Z., He, S., 2023. Multitask learning of health state assessment and remaining
+useful life prediction for sensor-equipped machines. Reliab. Eng. Syst. Saf. 234,
+109141. https://doi.org/10.1016/j.ress.2023.109141.
+Yang, L., Binbin, D., Cancan, Y., Shuhang, L., Xuguo, Y., Han, X., 2024a. Similarity
+indicator and CG-CGAN prediction model for remaining useful life of rolling
+bearings. Meas. Sci. Technol. 35, 86107. https://doi.org/10.1088/1361-6501/
+ad41f7.
+Yang, L., Wang, Z., Li, Y., Dong, L., Du, W., Wang, J., Zhang, X., Shi, H., 2024b. Twostage prediction technique for rolling bearings based on adaptive prediction model.
+Mech. Syst. Signal Process. 206, 110931. https://doi.org/10.1016/j.
+ymssp.2023.110931.
+Yang, S., Tang, B., Wang, W., Yang, Q., Hu, C., 2024. Physics-informed multi-state
+temporal frequency network for RUL prediction of rolling bearings. Reliab. Eng. Syst.
+Saf. 242, 109716. https://doi.org/10.1016/j.ress.2023.109716.
+Yang, T., Li, G., Li, K., Li, X., Han, Q., 2024. The LPST-Net: a new deep interval health
+monitoring and prediction framework for bearing-rotor systems under complex
+operating conditions. Adv. Eng. Inform. 62, 102558. https://doi.org/10.1016/j.
+aei.2024.102558.
+Yang, Y., Wang, Z., Liu, X., Liu, T., Luo, Z., 2025. Deep multiscale feature fusion network
+with dual attention for rolling bearing remaining useful life prediction. Sci. Rep. 15.
+https://doi.org/10.1038/s41598-025-97380-x.
+Yao, D., Tang, B., Yang, J., Yue, W., Li, Q., Guo, S., 2024a. Patch ModernTCN-Mixer: a
+dual-task temporal convolutional network framework for hybrid implementation of
+first prediction time detection and remaining useful life prognosis. Meas. Sci.
+Technol. 35, 116011. https://doi.org/10.1088/1361-6501/ad6892.
+Yao, D., Tang, B., Yang, J., Yue, W., Li, Q., Guo, S., 2024b. Multiscale PatchTCN-Mixer: a
+new method for extracting spatial and temporal degradation information in
+remaining useful life prognosis. IEEE Sens. J. 24, 23537–23550. https://doi.org/
+10.1109/JSEN.2024.3409617.
+Yao, X., Zhu, J., Jiang, Q., Yao, Q., Shen, Y., Zhu, Q., 2024c. RUL prediction method for
+rolling bearing using convolutional denoising autoencoder and bidirectional LSTM.
+Meas. Sci. Technol. 35, 35111. https://doi.org/10.1088/1361-6501/ad123c.
+Yao, Y., Liang, T., Tan, J., Jing, Y., 2024d. A bearing fault detection and remaining useful
+life prediction method based on a multi-branch residual feature fusion mechanism
+and optimized weight allocation. Meas. Sci. Technol. 35, 025906. https://doi.org/
+10.1088/1361-6501/ad0b67.
+Yin, C., Li, Y., Wang, Y., Dong, Y., 2025. Physics-guided degradation trajectory modeling
+for remaining useful life prediction of rolling bearings. Mech. Syst. Signal Process.
+224, 112192. https://doi.org/10.1016/j.ymssp.2024.112192.
+Yu, J., Zhang, Y., 2023. Challenges and opportunities of deep learning-based process
+fault detection and diagnosis: a review. Neural Comput. Appl. 35, 211–252. https://
+doi.org/10.1007/s00521-022-08017-3.
+Yu, M., Han, C., Ge, X., Gao, Q., 2025. Extraction of compound fault features of rolling
+bearing based on robust local mean decomposition and Wiener filter. Noise Vib.
+Worldw. 56, 148–163. https://doi.org/10.1177/09574565251319277.
+Zaiem, K., Bouras, H., Rachedi, M.F., 2025. Bayesian convolution neural network for
+mechanical transmission fault diagnosis with empirical signal processing. J. Mech.
+Sci. Technol. 39, 3131–3145. https://doi.org/10.1007/s12206-025-0512-y.
+Zaremba, W., Sutskever, I., Vinyals, O., 2015. Recurrent neural network regularization.
+https://doi.org/10.48550/arXiv.1409.2329.
+Zhang, H., Xi, X., Pan, R., 2023. A two-stage data-driven approach to remaining useful
+life prediction via long short-term memory networks. Reliab. Eng. Syst. Saf. 237,
+109332. https://doi.org/10.1016/j.ress.2023.109332.
+Zhang, H.-B., Cheng, D.-J., Zhou, K.-L., Zhang, S.-W., 2023. Deep transfer learning-based
+hierarchical adaptive remaining useful life prediction of bearings considering the
+correlation of multistage degradation. Knowl.-BASED Syst. 266, 110391. https://doi.
+org/10.1016/j.knosys.2023.110391.
+Zhang, M., He, C., Huang, C., Yang, J., 2024. A weighted time embedding transformer
+network for remaining useful life prediction of rolling bearing. Reliab. Eng. Syst. Saf.
+251, 110399. https://doi.org/10.1016/j.ress.2024.110399.
+Zhang, Q., Ye, Z., Shao, S., Niu, T., Zhao, Y., 2022. Remaining useful life prediction of
+rolling bearings based on convolutional recurrent attention network. Assem. Autom.
+42, 372–387. https://doi.org/10.1108/AA-08-2021-0113.
+Zhang, W., Li, Xiang, Li, Xu, 2020. Deep learning-based prognostic approach for lithiumion batteries with adaptive time-series prediction and on-line validation.
+Measurement 164, 108052. https://doi.org/10.1016/j.measurement.2020.108052.
+Zhang, Z., Song, W., Wu, Q., Sun, W., Li, Q., Jia, L., 2025. A novel local enhanced
+channel self-attention based on Transformer for industrial remaining useful life
+prediction. Eng. Appl. Artif. Intell. 141, 109815. https://doi.org/10.1016/j.
+engappai.2024.109815.
+Zhong, X., Song, X., Liu, G., Zhao, W., Fan, W., 2024. A data-driven method for
+remaining useful life prediction of rolling bearings under different working
+conditions. IEEE Trans. Reliab. 73, 1368–1379. https://doi.org/10.1109/
+TR.2023.3328693.
+Zhou, A., Yao, A., Guo, Y., Xu, L., Chen, Y., 2017. Incremental network quantization:
+towards lossless CNNs with low-precision weights. https://doi.org/10.4855
+0/arXiv.1702.03044.
+Zhou, J., Gao, S., Li, J., Xiong, W., 2021. Bearing life prediction method based on Parallel
+Multichannel recurrent Convolutional neural network. Shock Vib. 2021, 6142975.
+https://doi.org/10.1155/2021/6142975.
+Zhou, J., Qin, Y., Chen, D., Liu, F., Qian, Q., 2022. Remaining useful life prediction of
+bearings by a new reinforced memory GRU network. Adv. Eng. Inform. 53, 101682.
+https://doi.org/10.1016/j.aei.2022.101682.
+Zhou, J., Qin, Y., Luo, J., Zhu, T., 2023. Remaining useful life prediction by distribution
+contact ratio health indicator and consolidated memory GRU. IEEE Trans. Ind.
+Inform. 19, 8472–8483. https://doi.org/10.1109/TII.2022.3218665.
+Zhou, M., Wang, J., Shi, Y., Wang, Z., Puig, V., 2024. Remaining useful life prediction of
+rolling bearings based on adaptive continuous deep belief networks and improved
+kernel extreme learning machine. Int. J. Adapt. Control Signal Process. https://doi.
+org/10.1002/acs.3908.
+Zhu, D., Lyu, J., Gao, Q., Lu, Y., Zhao, D., 2024. Remaining useful life estimation of
+bearing using spatio-temporal convolutional transformer. Meas. Sci. Technol. 35,
+45126. https://doi.org/10.1088/1361-6501/ad214d.
+Zhu, Y., Cheng, J., Liu, Z., Zou, X., Wang, Z., Cheng, Q., Xu, H., Wang, Y., Tao, F., 2024.
+Remaining useful life prediction approach based on data model fusion: an
+application in rolling bearings. IEEE Sens. J. 24, 42230–42244. https://doi.org/
+10.1109/JSEN.2024.3477489.
+Zhuang, J., Jia, M., Ding, Y., Ding, P., 2021. Temporal convolution-based transferable
+cross-domain adaptation approach for remaining useful life estimation under
+variable failure behaviors. Reliab. Eng. Syst. Saf. 216, 107946. https://doi.org/
+10.1016/j.ress.2021.107946.
+

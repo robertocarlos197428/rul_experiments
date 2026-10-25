@@ -1,0 +1,11 @@
+{
+  "experiment_name": "exp015_hi3_smoothing_families_learning",
+  "timestamp": "2026-08-30T13:04:13.442674",
+  "input_parquet": "escribe aqui tu ruta",
+  "correction": "Monotonicity corregida a 1 - N-/(K-1)",
+  "outputs": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ]
+}

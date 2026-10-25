@@ -1,0 +1,10 @@
+experiment_id: exp010_piecewise_labels
+description: Generación de etiquetas RUL piecewise con gráficos de validación duales
+  (RMS + RUL).
+parameters:
+  label_type: piecewise
+  healthy_plateau_mode: max_rul_at_fpt
+paths:
+  input_master: results\exp007_time_features\features\tabla_maestra_learning_set.parquet
+  input_fpt: results\exp009_fpt_baseline\fpt_por_bearing.parquet
+  output_dir: results\exp010_piecewise_labels

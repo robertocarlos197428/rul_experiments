@@ -1,0 +1,347 @@
+[1] W. Li, R. Huang, J. Li, Y. Liao, Z. Chen, G. He, R. Yan, K. Gryllias, A perspective survey on deep transfer learning for fault diagnosis in industrial scenarios:
+Theories, applications and challenges, Mech. Syst. Signal Process. 167 (2022), 108487.
+[2] T. Xia, Y. Dong, L. Xiao, S. Du, E. Pan, L. Xi, Recent advances in prognostics and health management for advanced manufacturing paradigms, Reliab. Eng. Syst.
+Saf. 178 (2018) 255–268.
+[3] Y. Hu, X. Miao, Y. Si, E. Pan, E. Zio, Prognostics and health management: a review from the perspectives of design, development and decision, Reliab. Eng.
+Syst. Saf. 217 (2021), 108063.
+[4] S. Yin, S. Ding, D. Zhou, Diagnosis and prognosis for complicated industrial systems—Part I, IEEE Trans. Ind. Electron. 63 (2016) 2501–2505.
+[5] T. Han, C. Liu, L. Wu, S. Sarkar, D. Jiang, An adaptive spatiotemporal feature learning approach for fault diagnosis in complex systems, Mech. Syst. Signal
+Process. 117 (2019) 170–187.
+[6] J. Jimenez, S. Schwartz, R. Vingerhoeds, B. Grabot, M. Salaun, Towards multi-model approaches to predictive maintenance: a systematic literature survey on
+diagnostics and prognostics, J. Manuf. Syst. 56 (2020) 539–557.
+[7] R. Huang, J. Li, Y. Liao, J. Chen, Z. Wang, W. Li, Deep Adversarial Capsule Network for Compound Fault Diagnosis of Machinery Toward Multidomain
+Generalization Task, IEEE Trans. Instrum. Meas. 70 (2021) 1–11.
+[8] R. Huang, J. Li, S. Wang, G. Li, W. Li, A Robust Weight-Shared Capsule Network for Intelligent Machinery Fault Diagnosis, IEEE Trans. Instrum. 16 (10) (2020)
+6466–6475.
+[9] D. Hoang, H. Kang, A survey on deep learning based bearing fault diagnosis, Neurocomputing 335 (2019) 327–335.
+[10] S. Nandi, H. Toliyat, X. Li, Condition monitoring and fault diagnosis of electrical motors—A review, IEEE Trans. Energy Convers. 20 (4) (2005) 719–729.
+[11] J. Silva, A. Cardoso, Bearing failures diagnosis in three-phase induction motors by extended Park’s vector approach, 31st Annual Conference of IEEE Industrial
+Electronics Society 2005 6.
+[12] M. Evans, An updated review: white etching cracks (WECs) and axial cracks in wind turbine gearbox bearings, Mater. Sci. Technol. 32 (11) (2016) 1133–1169.
+[13] NREL: Statistics show bearing problems cause the majority of wind turbine gearbox failures, U.S. Department of Energy & National Renewable Energy
+Laboratory (NREL) 2016.
+[14] A. Choudhary, D. Goyal, S. Shimi, A. Akula, Condition monitoring and fault diagnosis of induction motors: a review, Arch. Comput. Methods Eng. 26 (2019)
+1221–1238.
+[15] X. Si, W. Wang, C. Hu, D. Zhou, Remaining useful life estimation—a review on the statistical data driven approaches, Eur. J. Operat. Res. 213 (2011) 1–14.
+[16] S. Fu, S. Zhong, L. Lin, M. Zhao, A novel time-series memory auto-encoder with sequentially updated reconstructions for remaining useful life prediction, IEEE
+Trans. Neur. Net. Lear. (2021) 3084249.
+[17] Y. Qian, R. Yan, R. Gao, A multi-time scale approach to remaining useful life prediction in rolling bearing, Mech. Syst. Signal Process. 83 (2017) 549–567.
+[18] Y. Yucesan, F. Viana, A hybrid physics-informed neural network for main bearing fatigue prognosis under grease quality variation, Mech. Syst. Signal Process.
+171 (2022), 108875.
+[19] Y. Qian, R. Yan, S. Hu S,, Bearing Degradation evaluation using recurrence quantification analysis and kalman filter, IEEE Trans. Instrum. Meas. 63 (11) (2014)
+2599–2610.
+[20] J. Park, S. Bae, Direct prediction methods on lifetime distribution of organic light-emitting diodes from accelerated degradation tests, IEEE Trans. on Reliab. 59
+(1) (2010) 74–90.
+[21] A. Soualhi, K. Medjaher, N. Zerhouni, Bearing health monitoring based on Hilbert-Huang transform, support vector machine, and regression, IEEE Trans.
+Instrum. Meas. 64 (1) (2015) 52–62.
+[22] F. Jia, Y. Lei, J. Lin, X. Zhou, N. Lu, Deep neural networks: a promising tool for fault characteristic mining and intelligent diagnosis of rotating machinery with
+massive data, Mech. Syst. Signal Process. 72 (2016) 303–315.
+[23] X. Li, Q. Ding, J. Sun, Remaining useful life estimation in prognostics using deep convolution neural networks, Reliab. Eng. Syst. Saf. 172 (2018) 1–11.
+[24] Y. Hu, S. Liu, H.H. Lu, Zhang,, Remaining useful life model and assessment of mechanical products: a brief review and a note on the state space model method,
+Chin. J Mech. Eng. 32 (1) (2019) 1–120.
+[25] P. Paris, F. Erdogan, A critical analysis of crack propagation laws, J. Basic Eng. 85 (4) (1963) 528–533. 
+[26] R. Forman, Study of fatigue crack initiation from flaws using fracture mechanics theory, Eng. Fract. Mech. 4 (2) (1972) 333–345.
+[27] N. Li, Y. Lei, T. Yan, N. Li, T. Han, A Wiener-process-model-based method for remaining useful life prediction considering unit-to-unit variability, IEEE Trans.
+Ind. Electron. 66 (3) (2019) 2092–2101.
+[28] Z. Huang, Z. Xu, X. Ke, W. Wang, Y. Sun, Remaining useful life prediction for an adaptive skew-Wiener process model, Mech. Syst. Signal Process. 87 (2017)
+294–306.
+[29] H. Wang, X. Ma, Y. Zhao, An improved Wiener process model with adaptive drift and diffusion for online remaining useful life prediction, Mech. Syst. Signal
+Process. 127 (2019) 370–387.
+[30] J. Lawless, M. Crowder, Covariates and random effects in a Gamma process model with application to degradation and failure, Lifetime Data Anal. 10 (3)
+(2004) 213–227.
+[31] M. Ling, H. Ng, K. Tsui, Bayesian and likelihood inferences on remaining useful life in two-phase degradation models under gamma process, Reliab. Eng. Syst.
+Saf. 184 (2019) 77–85.
+[32] D. Pan, J. Liu, J. Cao, Remaining useful life estimation using an inverse gaussian degradation model, Neurocomputing 185 (2016) 64–72.
+[33] X. Wang, D. Xu, An inverse Gaussian process model for degradation data, Technometrics 52 (2) (2010) 188–197.
+[34] X. Chen, Z. Shen, Z. He, C. Sun, Z. Liu, Remaining life predictions of rolling bearing based on relative features and multivariable support vector machine,
+J. Mech. Eng. 49 (2) (2013) 187–193.
+[35] P. Kumar, L. Kumaraswamidhas, S. Laha, Bearing degradation assessment and remaining useful life estimation based on kullback-leibler divergence and
+gaussian processes regression, Measurement 174 (4) (2021), 108948.
+[36] M. Dong, D. He, A segmental hidden semi-Markov model (HSMM)-based diagnostics and prognostics framework and methodology, Mech. Syst. Signal Process.
+21 (5) (2007) 2248–2266.
+[37] Y. Hu, T. Palm´e, O. Fink, Deep health indicator extraction: a method based on auto-encoders and extreme learning machines, Annual Conf. PHM, Society. 7
+(2016) 446–452.
+[38] J. Deutsch, D. He, Using deep learning-based approach to predict remaining useful life of rotating components, IEEE Trans. Syst. Man. Cybern. 48 (1) (2017)
+11–20.
+[39] W. Mao, J. He, J. Tang, Y. Li, Predicting remaining useful life of rolling bearings based on deep feature representation and long short-term memory neural
+network, IEEE Trans. Instrum. Meas. 69 (4) (2020) 1594–1608.
+[40] B. Wang, Y. Lei, N. Li, T. Yan, Deep separable convolutional network for remaining useful life prediction of machinery, Mech. Syst. Signal Process. 134 (2019),
+106330.
+[41] L. Ren, Y. Sun, J. Cui, L. Zhang, Bearing remaining useful life prediction based on deep autoencoder and deep neural networks, J. Manuf. Syst. 48 (2018)
+71–77.
+[42] D. Kim, S. Lee, D. Kim, An applicable predictive maintenance framework for the absence of run-to-failure data, Appl. Sci. 11 (11) (2021) 5180.
+[43] P. da Costa, A. Akcay, Y. Zhang, U. Kaymak, Remaining useful lifetime prediction via deep domain adaptation, Reliab. Eng. Syst. Saf. 195 (2020), 106682.
+[44] W. Zhang, X. Li, H. Ma, Z. Luo, X. Li, Transfer learning using deep representation regularization in remaining useful life prediction across operating conditions,
+Reliab. Eng. Syst. Saf. 211 (2021), 107556.
+[45] J. Zhu, N. Chen, C. Shen, A new data-driven transferable remaining useful life prediction approach for bearing under different working conditions, Mech. Syst.
+Signal Process. 139 (2020), 106602.
+[46] Y. Ding, M. Jia, Y. Cao, Remaining useful life estimation under multiple operating conditions via deep subdomain adaptation, IEEE Trans. Instrum. Meas. 70
+(2021) 1–11.
+[47] C. Tan, F. Sun, T. Kong, A survey on deep transfer learning, Proc. Int. Conf. Artif. Neural Netw. (2018) 270–279.
+[48] F. Zhuang, Z. Qi, K. Duan, D. Xi, Y. Zhu, H. Zhu, H. Xiong, Q. He, A comprehensive survey on transfer learning, Proc. IEEE 109 (1) (2021) 43–76.
+[49] A. Moreo, A. Esuli, F. Sebastiani, Lost in transduction: Transductive transfer learning in text classification, ACM T. Knowl. Discov. D. 16 (1) (2021) 1–21.
+[50] F. Zhuang, P. Luo, C. Du, Q. He, Z. Shi, Triplex transfer learning: Exploiting both shared and distinct concepts for text classification, IEEE Trans. Cybern. 44 (7)
+(2013) 1191–1203.
+[51] S. Krishna, H. Kalluri, Deep learning and transfer learning approaches for image classification, Int. J. Eng. Sci. 7 (2019) 427–432.
+[52] Y. Zhu, Y. Chen, Z. Lu, S. Pan, G. Xue, Y. Yu, Q. Yang, Heterogeneous transfer learning for image classification. In: Proceedings of the national conference on
+artificial intelligence (August, 2011.
+[53] S. Ruder, M. Peters, S. Swayamdipta, T. Wolf, Transfer learning in natural language processing, 2019 conference of the North American chapter of the
+association for computational linguistics, Tutorials (2019) 15–18.
+[54] D. Wang, T. Zheng, Transfer learning for speech and language processing, Asia-Pacific Signal and Information Processing Association Annual Summit and
+Conference (APSIPA), IEEE (2015) 1225–1237.
+[55] H. Zhou, J. Chen, G. Ming, R. Wang, Detection and diagnosis of bearing faults using shift-invariant dictionary learning and hidden Markov model, Mech. Syst.
+Signal Process. 72 (2016) 65–79.
+[56] W. Mao, L. Ding, S. Tian, X. Liang, Online detection for bearing incipient fault based on deep transfer learning, Measurement 152 (2020), 107278.
+[57] Q. Li, C. Shen, L. Chen, Z. Zhu, Knowledge mapping-based adversarial domain adaptation: a novel fault diagnosis method with high generalizability under
+variable working conditions, Mech. Syst. Signal Process. 147 (2021), 107095.
+[58] S. Shao, S. McAleer, R. Yan, P. Baldi, Highly accurate machine fault diagnosis using deep transfer learning, IEEE Trans. Ind. Informat. 15 (4) (2018)
+2446–2455.
+[59] B. Yang, S. Xu, Y. Lei, C. Lee, E. Stewart, C. Roberts, Multi-source transfer learning network to complement knowledge for intelligent diagnosis of machines
+with unseen faults Mech, Syst. Signal Process. 162 (2022), 108095.
+[60] A. Zhang, H. Wang, S. Li, Y. Cui, Z. Liu, G. Yang, J. Hu, Transfer learning with deep recurrent neural networks for remaining useful life estimation, Applied
+Sciences 8 (12) (2018) 2416.
+[61] G. Hinton, O. Vinyals, J. Dean, Distilling the knowledge in a neural network, Computer Science 14 (7) (2015) 38–39.
+[62] F. Li, J. Chen, S. He, Z. Zhou, Layer Regeneration network with parameter transfer and knowledge distillation for intelligent fault diagnosis of bearing using
+class unbalanced sample, IEEE Trans. Instrum. Meas. 70 (2021) 1–10.
+[63] P. Ding, H. Wang, W. Bao, R. Hong, HYGP-MSAM based model for slewing bearing residual useful life prediction, Measurement 141 (2019) 162–175.
+[64] M. Yan, X. Wang, B. Wang, M. Chang, I. Muhammad, Bearing remaining useful life prediction using support vector machine and hybrid degradation tracking
+model, ISA Transactions 98 (2020) 471–482.
+[65] J. Sikorska, M. Hodkiewicz, L. Ma, Prognostic modelling options for remaining useful life estimation by industry, Mech. Syst. Signal process. 25 (5) (2011)
+1803–1836.
+[66] J. Lee, F. Wu, W. Zhao, M. Ghaffari, L. Liao, D. Siegel, Prognostics and health management design for rotary machinery systems—Reviews, methodology and
+applications, Mech. Syst. Signal process. 42 (1–2) (2014) 314–334.
+[67] N. Kim, D. An, J. Choi, Prognostics and health management of engineering systems, Springer International Publishing, Switzerland, 2017, p. 179.
+[68] A. Cubillo, S. Perinpanayagam, M. Esperon-Miguez, A review of physics-based models in prognostics: Application to gears and bearings of rotating machinery,
+Adv. Mech. Eng. 8(8) (2016) 1687814016664660.
+[69] Y. Lei, N. Li, L. Guo, N. Li, T. Yan, J. Lin, Machinery health prognostics: A systematic review from data acquisition to RUL prediction, Mech. Syst. Signal
+Process. 104 (2018) 799–834.
+[70] M. Kan, A. Tan, J. Mathew, A review on prognostic techniques for non-stationary and non-linear rotating systems, Mech. Syst. Signal Process. 62 (2015) 1–20.
+[71] Z. Zhang, X. Si, C. Hu, Y. Lei, Degradation data analysis and remaining useful life estimation: a review on wiener-process-based methods, Eur. J. Oper. Res. 271
+(2018) 775–796.
+[72] Y. Wang, Y. Zhao, S. Addepalli, Remaining useful life prediction using deep learning approaches: a review, Procedia Manuf. 49 (2020) 81–88. 
+[73] K. Javed, R. Gouriveau, N. Zerhouni, State of the art and taxonomy of prognostics approaches, trends of prognostics applications and open issues towards
+maturity at different technology readiness levels, Mech. Syst. Signal Process. 94 (2017) 214–236.
+[74] S. Pan, Q. Yang, A survey on transfer learning, IEEE Trans. Knowl. Data Eng. 22 (2010) 1345–1359.
+[75] W. Mao, J. Chen, Y. Chen, S. Afshari, X. Liang, Construction of health indicators for rotating machinery using deep transfer learning with multiscale feature
+representation, IEEE Trans. Instrum. Meas. 70 (2021) 1–13.
+[76] S. Dong, G. Wen, Z. Lei, Z. Zhang, Transfer learning for bearing performance degradation assessment based on deep hierarchical features, ISA transactions 108
+(2021) 343–355.
+[77] S. Zhang, R. Kang, Y. Lin, Remaining useful life prediction for degradation with recovery phenomenon based on uncertain process, Reliab. Eng. Syst. Saf. 208
+(2021), 107440.
+[78] C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding, Y. Yuan, A deep learning-based remaining useful life prediction approach for bearings, IEEE/ASME Trans.
+Mechatron. 25 (3) (2020) 43–54.
+[79] C. Hu, H. Pei, X. Si, D. Du, Z. Pang, X. Wang, A prognostic model based on DBN and diffusion process for degrading bearing, IEEE Trans. Ind. Electron. 67 (10)
+(2019) 67–77.
+[80] J. Zhu, N. Chen, W. Peng, Estimation of bearing remaining useful life based on multiscale convolutional neural network, IEEE Trans. Ind. Electron. 66 (4)
+(2019) 8–16.
+[81] L. Ren, H. Qin, Z. Xie, B. Li, K. Xu, Aero-engine remaining useful life estimation based on multi-head networks, IEEE Trans. Instrum. Meas. 71 (2022) 1–10.
+[82] L. Xiao, F. Duan, J. Tang, D. Abbott, A noise-boosted remaining useful life prediction method for rotating machines under different conditions, IEEE Trans.
+Instrum. Meas. 70 (2021) 1–12.
+[83] Y. Qin, D. Chen, S. Xiang, C. Zhu, Gated dual attention unit neural networks for remaining useful life prediction of rolling bearings, IEEE Trans. Ind. Informat.
+17 (9) (2020) 38–47.
+[84] Y. Bengio, P. Simard, P. Frasconi, Learning long-term dependencies with gradient descent is difficult, IEEE Trans. Neural Netw. 5 (2) (1994) 157–166.
+[85] H. Zhang, Q. Zhang, S. Shao, T. Niu, X. Yang, H. Ding, Sequential network with residual neural network for rotatory machine remaining useful life prediction
+using deep transfer learning, Shock. Vib. (2020), https://doi.org/10.1155/2020/8888627.
+[86] Y. Wen, M. Rahman, H. Xu, T. Tseng, Recent advances and trends of predictive maintenance from data-driven machine prognostics perspective, Measurement
+187 (2022), 110276.
+[87] J. Yosinski, J. Clune, Y. Bengio, H. Lipson, How transferable are features indeep neural networks? Adv. Neural Inform. Process. Syst. 27 (2014) 3320–3328.
+[88] W. Mao, J. Liu, J. Chen, X. Liang, An interpretable deep transfer learning-based remaining useful life prediction approach for bearings with selective
+degradation knowledge fusion, IEEE Trans. Instrum. Meas. 71 (2022) 1–16.
+[89] N. Tajbakhsh, J. Shin, S. Gurudu, R. Hurst, C. Kendall, M. Gotway, J. Liang, Convolutional neural networks for medical image analysis: Full training or fine
+tuning? IEEE trans. Med. Imaging 35 (5) (2016) 1299–1312.
+[90] T. Akilan, Q. Wu, A. Safaei, W. Jiang, A late fusion approach for harnessing multi-CNN model high-level features, in: 2017 IEEE International Conference on
+SMC. IEEE, 2017, pp. 566–571.
+[91] C. Du, Y. Wang, C. Wang, C. Shi, B. Xiao, Selective feature connection mechanism: Concatenating multi-layer CNN features with a feature selector, Pattern
+Recognition Lett. 129 (2020) 108–114.
+[92] F. Zhang, Y. Wang, J. Ni, Y. Zhou, W. Hu, SAR target small sample recognition based on CNN cascaded features and AdaBoost rotation forest, IEEE Geosci.
+Remote. Sens. Lett. 17 (6) (2019) 1008–1012.
+[93] A. Kensert, P. Harrison, O. Spjuth, Transfer learning with deep convolutional neural networks for classifying cellular morphological changes, SLAS Discovery:
+Advancing Life Sciences R&D 24 (2019) 466–475.
+[94] B. Sriperumbudur, A. Gretton, K. Fukumizu, B. Scholkopf, ¨ G. Lanckriet, Hilbert space Embeddings and metrics on probability measures, J. Mach. Learning Res.
+99 (2010) 1517–1561.
+[95] T. Nguyen, Z. Ahmad, J. Kim, A deep-learning-based health indicator constructor using kullback-leibler divergence for predicting the remaining useful life of
+concrete structures, Sensors 22 (10) (2022) 3687.
+[96] D. Virosztek, The metric property of the quantum Jensen-Shannon divergence, Adv. Math. 380 (2021), 107595.
+[97] Y. Che, Z. Deng, X. Lin, L. Hu, X. Hu, Predictive battery health management with transfer learning and online model correction, IEEE Trans. Veh. Technol. 70
+(2) (2021) 1269–1277.
+[98] J. Chen, W. Mao, J. Liu, G. Wang, Online remaining useful life estimation of bearing under unknown working conditions based on time series transfer recursive
+prediction, Control Dec. (2021). 10.13195/j.kzyjc.2021.1011.
+[99] S. Pan, J. Kwok, Q. Yang, Transfer learning via dimensionality reduction, AAAI 8 (2008) 677–682.
+[100] Y. Ganin, E. Ustinova, H. Ajakan, P. Germain, Domain-adversarial training of neural networks, J. Mach. Learn. Res. 17(1) (2017) 2096-2030.
+[101] C. Yu, J. Wang, Y Chen, M. Huang, Transfer learning with dynamic adversarial adaptation network, 2019 IEEE International Conference on Data Mining (2019)
+778-786.
+[102] E. Tzeng, J. Hoffman, K. Saenko, T. Darrell, Adversarial discriminative domain adaptation, in: IEEE Conference on Computer Vision and Pattern Recognition,
+2017, pp. 7167–7176.
+[103] Arjovsky M, Chintala S, Botto . Banach wasserstein GAN, Advances in neural information processing systems 31 (2018).
+[104] H. Tao, P. Wang, Y. Chen, V. Stojanovic, H. Yang, An unsupervised fault diagnosis method for rolling bearing using STFT and generative neural networks,
+J. Franklin. Inst. 357 (11) (2017) 7286–7307.
+[105] P.A. Scarf, On the application of mathematical models in maintenance, European Journal of Operational Research 99 (3) (1997) 493–506.
+[106] S. Engel, B. Gilmartin, K. Bongort, A. Hess, Prognostics, the real issues involved with predicting life remaining, IEEE Aerospace Conference 6 (2000) (2000)
+457–469.
+[107] G. Vachtsevanos, F. Lewis, M. Roemer, A. Hess, B. Wu, Intelligent fault diagnosis and prognosis for engineering systems, John Wiley and Sons Inc., Hoboken,
+New Jersey, 2006.
+[108] F. Yin, Research on life prediction for rolling bearing based on accelerated life testing, national university of defense technology, Changsha, 2012.
+[109] P. Nectoux, R. Gouriveau, K. Medjaher, E. Ramasso, B. Chebel-Morello, N. Zerhouni, C. Varnier, PRONOSTIA: an experimental platform for bearings
+accelerated degradation tests, Denver, USA, IEEE ICPHM, 2012, pp. 1–8.
+[110] Y. Lei, T. Han, B. Wang, N. Li, T. Yan, J. Yang, XJTU-SY rolling element bearing accelerated life test datasets: a tutorial, J. Mech. Eng. 55 (16) (2019) 1–6.
+[111] W. Smith, R. Randall, Rolling element bearing diagnostics using the Case Western Reserve University data: a benchmark study, Mech. Syst. Signal Process. 64
+(2015) 100–131.
+[112] H. Qiu, J. Lee, J. Lin, G. Yu, Wavelet filter-based weak signature detection method and its application on roller bearing prognostics, J. Sound Vib. 289 (4)
+(2006) 1066–1090.
+[113] H. Huang, N. Baddour, Bearing vibration data collected under time-varying rotational speed conditions, Data Brief 21 (2018) 1745–1749.
+[114] P. Kundu, A. Darpe, M. Kulkarni, Weibull accelerated failure time regression model for remaining useful life prediction of bearing working under multiple
+operating conditions, Mech. Syst. Signal Process. 134 (2019), 106302.
+[115] R. Singleton, E. Strangas, S. Aviyente, Extended kalman filtering for remaining-useful-life estimation of bearings, IEEE Trans. Ind. Electron. 62 (3) (2014)
+1781–1790.
+[116] F. Shen, J. Xu, C. Sun, X. Chen, R. Yan, Transfer between multiple working conditions: a new TCCHC-based exponential semi-deterministic extended kalman
+filter for bearing remaining useful life prediction, Measurement 142 (2019) 148–162.
+[117] L. Guo, N. Li, F. Jia, Y. Lei, J. Lin, A recurrent neural network based health indicator for remaining useful life prediction of bearings, Neurocomputing 240
+(2017) 98-109.
+[118] F. Cartella, J. Lemeire, L. Dimiccoli, H. Sahli, Hidden semi-Markov models for predictive maintenance, Math. Probl. Eng. (2015), https://doi.org/10.1155/
+2015/278120.
+[119] Z. Ren, X. Si, C. Hu, X. Wang, Remaining useful life prediction method for engine combining multi-sensors data, Acta Aeronautica et Astronautica Sinica 40
+(12) (2019) 1–12.
+[120] N. Li, N. Gebraeel, Y. Lei, B. Linkan, X. Si, Remaining useful life prediction of machinery under time-varying operating conditions based on a two-factor statespace model, Reliab. Eng. Syst. Saf. 186 (2019) 88–100.
+[121] C. Sun, M. Ma, Z. Zhao, S. Tian, R. Yan, X. Chen, Deep Transfer learning based on sparse auto-encoder for remaining useful life prediction of tool in
+manufacturing, IEEE Trans. Ind. Informat. 15 (4) (2019) 2416–2425.
+[122] G. Huang, Y. Zhang, J. Ou, Transfer remaining useful life estimation of bearing using depth-wise separable convolution recurrent network, Measurement 176
+(2021), 109090.
+[123] H. Cheng, X. Kong, G. Chen, Q. Wang, R. Wang, Transferable convolutional neural network based remaining useful life prediction of bearing under multiple
+failure behaviors, Measurement 168 (2021), 108286.
+[124] W. Mao, J. He, M. Zuo, Predicting remaining useful life of rolling bearings based on deep feature representation and transfer learning, IEEE Trans. Instrum.
+Meas. 69 (4) (2019) 1594–1608.
+[125] J. Xu, M. Fang, W. Zhao, Y. Fan, X. Ding, Deep Transfer learning remaining useful life prediction of different bearings, 2021 International Joint Conference on
+Neural Networks (2021) 1-8.
+[126] Y. Cao, M. Jia, P. Ding, Y. Ding, Transfer learning for remaining useful life prediction of multi-conditions bearings based on bidirectional-GRU network,
+Measurement 178 (2021), 109287.
+[127] M. Rathore, S. Harsha, Rolling bearing prognostic analysis for domain adaptation under different operating conditions, Eng. Fail. Anal. 139 (2022), 106414.
+[128] Z. Wu, S. Yu, X. Zhu, Y. Ji, M. Pecht, A weighted deep domain adaptation method for industrial fault prognostics according to prior distribution of complex
+working conditions, IEEE Access 7 (2019) 139802–139814.
+[129] J. Zhuang, M. Jia, Y. Ding, P. Ding, Temporal convolution-based transferable cross-domain adaptation approach for remaining useful life estimation under
+variable failure behaviors, Reliab. Eng. Syst. Saf. 216 (2021), 107946.
+[130] Y. Ding, M. Jia, Q. Miao, P. Huang, Remaining useful life estimation using deep metric transfer learning for kernel regression, Reliab. Eng. Syst. Saf. 212
+(2021), 107583.
+[131] A. Creswell, T. White, V. Dumoulin, K. Arulkumaran, B. Sengupta, A. Bharath, Generative adversarial networks: An overview, IEEE Signal Proc. Mag. 35 (1)
+(2018) 53–65.
+[132] S. Purushotham, W. Carvalho, T. Nilanon, Y. Liu, Variational recurrent adversarial deep domain adaptation, International Conference on Learning
+Representations, (2017).
+[133] S. Ben-David, J. Blitzer, K. Crammer, A. Kulesza, F. Pereira, J. Vaughan, A theory of learning from different domains, Machine learning 79 (1) (2010) 151–175.
+[134] M. Miao, J. Yu, A deep domain adaptative network for remaining useful life prediction of machines under different working conditions and fault modes, IEEE
+Trans. Instrum. Meas. 70 (2021) 1–14.
+[135] T. Hu, Y. Guo, L. Gu, Y. Zhao, Z. Zhang, Z. Zhou, Remaining useful life estimation of bearings under different working conditions via wasserstein distancebased weighted domain adaptation, Reliab. Eng. Syst. Saf. 224 (2022), 108526.
+[136] X. Wang, K. Han, C. Wang, L. Li, Bearing remaining useful life prediction method based on transfer learning, Journal of Northeastern University (Natural
+Science) 42 (5) (2021) 665.
+[137] J. Zhuang, M. Jia, X. Zhao, An adversarial transfer network with supervised metric for remaining useful life prediction of rolling bearing under multiple
+working conditions, Reliab. Eng. Syst. Saf. 225 (2022), 108599.
+[138] X. Li, W. Zhang, H. Ma, Z. Luo, X. Li, Data alignments in machinery remaining useful life prediction using deep adversarial neural networks, Know.-Based Syst.
+197 (2020), 105843.
+[139] Y. Zou, Z. Li, Y. Liu, S. Zhao, Y. Liu, G. Ding, A method for predicting the remaining useful life of rolling bearings under different working conditions based on multi-domain adversarial networks, Measurement 188 (2022), 110393.
+[140] C. Lu, C. Gu, K. Wu, Deep transfer neural network using hybrid representations of domain discrepancy, Neurocomputing 409 (2020) 60–73.
+[141] S. Fu, Y. Zhang, L. Lin, M. Zhao, S. Zhong, Deep residual LSTM with domain-invariance for remaining useful life prediction across domains, Reliab. Eng. Syst.
+Saf. 216 (2021), 108012.
+[142] M. Miao, J. Yu, Z. Zhao, A sparse domain adaption network for remaining useful life prediction of rolling bearings under different working conditions, Reliab.
+Eng. Syst. Saf. 219 (2022), 108259.
+[143] H. Cheng, X. Kong, Q. Wang, H. Ma, S. Yang, G. Chen, Deep transfer learning based on dynamic domain adaptation for remaining useful life prediction under
+different working conditions, J. Intell. Manuf. 1–27 (2021).
+[144] S. Suh, P. Lukowicz, O. Yong, Generalized multiscale feature extraction for remaining useful life prediction of bearings with generative adversarial networks,
+Know.-Based Syst. 237 (12) (2022), 107866.
+[145] Y. Cheng, C. Wang, J. Wu, H. Zhu, C. Lee, Multi-dimensional recurrent neural network for remaining useful life prediction under variable operating conditions
+and multiple fault modes, Appl. Soft Comput. 118 (2022), 108507.
+[146] D. Xu, H. Qiu, L. Gao, Z. Yang, D. Wang, A novel dual-stream self-attention neural network for remaining useful life estimation of mechanical systems, Reliab.
+Eng. Syst. Saf. 222 (2022), 108444.
+[147] Y. Fan, S. Nowaczyk, T. Rognvaldsson, ¨ Transfer learning for remaining useful life prediction based on consensus self-organizing models, Reliab. Eng. Syst. Saf.
+203 (2020), 107098.
+[148] J. Chen, W. Mao, J. Liu X. Zhang, Remaining useful life prediction of bearing based on deep temporal feature transfer, Control and decision (2020) 1-9.
+[149] T. Hu, Y. Guo, L. Gu, Y. Zhou, Z. Zhang, Z. Zhou, Remaining useful life prediction of bearings under different working conditions using a deep feature
+disentanglement based transfer learning method, Reliab. Eng. Syst. Saf. 219 (2022), 108265.
+[150] C. Huang, J. Zhu, Y. Han, W. Peng, A novel bayesian deep dual network with unsupervised domain adaptation for transfer fault prognosis across different
+machines, IEEE Sens. J. 22 (8) (2022) 7855–7867.
+[151] R. He, Z. Tian, M. Zuo, A transferable neural network method for remaining useful life prediction, Mech. Syst. Signal Process. 183 (2023), 109608.
+[152] J. Zhuang, M. Jia, Y. Cao, Semi-supervised double attention guided assessment approach for remaining useful life of rotating machinery, Reliab. Eng. Syst. Saf.
+108685 (2022).
+[153] Y. Zou, S. Zhao, Y. Liu, Z. Li, X. Song, G. Ding, The transfer prediction method of bearing remain use life based on dynamic benchmark, IEEE Trans. Instrum.
+Meas. 70 (2021) 1–11.
+[154] L. Cui, X. Wang, H. Wang, H. Jiang, Remaining useful life prediction of rolling element bearings based on simulated performance degradation dictionary,
+Mech. Mach. Theory 153 (2020), 103967.
+[155] L. Liao, Discovering prognostic features using genetic programming in remaining useful life prediction, IEEE Trans. Ind. Electron. 61 (5) (2013) 2464–2472.
+[156] Z. Li, K. Zhang, Y. Liu, Y. Zou, G. Ding, A Novel Remaining Useful Life Transfer Prediction Method of Rolling Bearings Based on Working Conditions Common
+Benchmark, IEEE Trans. Instrum. Meas. 71 (2022) 1–9.
+[157] Z. Zhou, T. Li, Z. Zhao, C. Sun, X. Chen, R. Yan, J. Jia, Time-varying trajectory modeling via dynamic governing network for remaining useful life prediction,
+Mech. Syst. Signal Process. 182 (2023), 109610.
+[158] S. Siahpour, X. Li, J. Lee, A novel transfer learning approach in remaining useful life prediction for incomplete dataset, IEEE Trans. Instrum. Meas. 71 (2022)
+1–11.
+[159] W. Mao, J. Chen, J. Liu, X. Liang, Self-supervised deep domain-adversarial regression adaptation for online remaining useful life prediction of rolling bearing
+under unknown working condition, IEEE Trans. Ind. Informat, 2022. 
+[160] Y. Ding, P. Ding, X. Zhao, Y. Cao, M. Jia, Transfer learning for remaining useful life prediction across operating conditions based on multisource domain
+adaptation, IEEE/ASME Trans. Mechatron. 27 (5) (2022) 4143–4152.
+[161] F. Zeng, Y. Li, Y. Jiang, G. Song, An online transfer learning-based remaining useful life prediction method of ball bearings, Measurement 176 (2021), 109201.
+[162] Y. Wang, H. Ding, X. Sun, Residual life prediction of bearings based on SENet-TCN and transfer learning, IEEE Access 10 (2022) 123007–123019.
+[163] N. Ding, H. Li, Z. Yin, F. Jiang, A novel method for journal bearing degradation evaluation and remaining useful life prediction under different working
+conditions, Measurement 177 (2021), 109273.
+[164] X. Wang, T. Wang, A. Ming, W. Zhang, A. Li, F. Chu, Cross-operating-condition degradation knowledge learning for remaining useful life estimation of
+bearings, IEEE Trans. Instrum. Meas. 70 (2021) 1–11.
+[165] H. Cheng, X. Kong, Q. Wang, H. Ma, S. Yang, The two-stage RUL prediction across operation conditions using deep transfer learning and insufficient
+degradation data, Reliab. Eng. Syst. Saf. 225 (2022), 108581.
+[166] J. Sun, H. Zuo, W. Wang, M. Pecht, Prognostics uncertainty reduction by fusing on-line monitoring data based on a state-space-based degradation model, Mech.
+Syst. Signal Process. 45 (2) (2014) 396–407.
+[167] T. Kim, S. Sohn, Multitask learning for health condition identification and remaining useful life prediction: deep convolutional neural network approach,
+J. Intell. Manuf. 32 (8) (2021) 2169–2179.
+[168] Y. Cheng, K. Hu, J. Wu, H. Zhu, C. Lee, A deep learning-based two-stage prognostic approach for remaining useful life of rolling bearing, Applied Intelligence
+52 (2022) 5880–5895.
+[169] M. Xia, T. Li, T. Shu, J. Wan, C. Silva, Z. Wang, A two-stage approach for the remaining useful life prediction of bearings using deep neural networks, IEEE
+Trans. Ind. Informat. 15 (6) (2018) 3703–3711.
+[170] T. Berghout, L. Mouss, T. Bentrcia, M. Benbouzid, A semi-supervised deep transfer Learning approach for rolling-element bearing remaining useful life
+prediction, IEEE Trans. Energy Conver. 37 (2) (2022) 1200–1210.
+[171] T. Berghout, M. Benbouzid, L. Mouss, Leveraging Label Information in a Knowledge-Driven Approach for Rolling-Element Bearings Remaining Useful Life
+Prediction, Energies 14 (8) (2021) 2163.
+[172] P. Xia, Y. Huang, P. Li, C. Liu, L. Shi, Fault knowledge transfer assisted ensemble method for remaining useful life prediction, IEEE Trans. Ind. Informat. 18 (3) (2021) 1758–1769.
+[173] R. Huang, J. Li, Z. Wang, J. Xia, Z. Chen, W. Li, Intelligent diagnostic and prognostic method based on multitask learning for industrial equipment, (in Chinese)
+Scientia Sinica Technologica 52 (2022) 123–137.
+[174] X. Li, K. Zhang, W. Li, Y. Feng, R. Liu, A Two-Stage Transfer Regression Convolutional Neural Network for Bearing Remaining Useful Life Prediction, Machines
+10 (5) (2022) 369.
+[175] R. Liu, B. Yang, A. Hauptmann, Simultaneous Bearing Fault Recognition and Remaining Useful Life Prediction Using Joint-Loss Convolutional Neural Network,
+IEEE Trans. Ind. Informat. 16 (1) (2020) 10.1109.
+[176] B. Sun, S. Zeng, R. Kang, M. Pecht, Benefits and challenges of system prognostics, IEEE Trans. Reliab. 61 (2) (2012) 323–335.
+[177] J. Ren, M. Li, Z. Liu, Q. Zhang, Interpreting and disentangling feature components of various complexity from DNNs, in: International Conference on Machine
+Learning, 2021, pp. 8971–8981.
+[178] M. Zeiler, R. Fergus, Visualizing and understanding convolutional networks, in: European conference on computer vision, Springer, Cham, 2014, pp. 818–833.
+[179] A. Dosovitskiy, T. Brox, Inverting visual representations with convolutional networks, in: IEEE Conference on Computer Vision and Pattern Recognition, 2016,
+pp. 4829–4837.
+[180] A. Achille, S., Soatto Information dropout: learning optimal representations through noisy computation, IEEE Trans. Pattern Anal. 40 (12) (2018) 2897–2905.
+[181] H. Yang, X. Li, W. Zhang, Interpretability of deep convolutional neural networks on rolling bearing fault diagnosis, Meas. Sci. Technol. 33 (2022), 055005.
+[182] Z. Wang, Z. Dai, B. Poczos, ´ J. Carbonell. Characterizing and avoiding negative transfer, 2019 IEEE/CVF Cof. on CVPR. (2019) 11293-11302.
+[183] W. Zhang, L. Deng, L. Zhang, D. Wu, A survey on negative transfer, IEEE/CAA J. Automat. Sin. (2022) 1–25.
+[184] B. Tan, Y. Zhang, S. J. Pan, Q. Yang. Distant domain transfer learning, 31st AAAI Conf. on Artificial Intelligence. (2017) 2604–2610.
+[185] B. Tan, Y. Song, E. Zhong, Q. Yang. Transitive transfer learning, 21st ACM SIGKDD Int’l Conf. on KDD, Sydney, Australia, (2015) 1155–1164.
+[186] M. Xie, N. Jean, M. Burke, D. Lobell, S. Ermon. Transfer learning from deep features for remote sensing and poverty mapping, 30th AAAI Conf. on Artificial
+Intelligence, 7 (2016) 3929–3935.
+[187] Y. Zuo, H. Yao, C. Xu, Attention-based multi-source domain adaptation, IEEE Trans. on Image Processing 30 (2021) 3793–3803.
+[188] C. Seah, Y. Ong, I. Tsang, Combating negative transfer from predictive distribution differences, IEEE Trans. Cybernet. 43 (4) (2012) 1153–1165.
+[189] J. Liang, R. He, Z. Sun, T. Tan, Exploring uncertainty in pseudo-label guided unsupervised domain adaptation, Pattern Recognition 96 (2019), 106996.
+[190] A. Brombacher, Reliability prediction and ‘Deepwater Horizon’; lessons learned, Qual. Reliab. Eng. Int. 26 (5) (2010) 397.
+[191] Y. Chang, J. Zou, S. Fan, C. Peng, H. Fang, Remaining useful life prediction of degraded system with the capability of uncertainty management, Mech. Syst.
+Signal Process. 177 (2022), 109166.
+[192] L. Guo, Y. Yu, M. Qian, R. Zhang, H. Gao, Z. Cheng, FedRUL: A new federated learning method for edge-cloud collaboration based remaining useful life
+prediction of machines, IEEE/ASME Trans. Mechatron. 1–10 (2022).
+[193] A. Bemani, N. Bjorsell, ¨ Aggregation strategy on federated machine learning algorithm for collaborative predictive maintenance, Sensors 22 (16) (2022) 6252.
+[194] S. Bharti, A. Mcgibney, Privacy-aware resource sharing in cross-device federated model training for collaborative predictive maintenance, IEEE Access 9
+(2021) 367–379.
+[195] D. Wang, K. Tsui, Theoretical investigation of the upper and lower bounds of a generalized dimensionless bearing health indicator, Mech. Syst. Signal Process.
+98 (2018) 890–901.
+[196] A. Hinchi, M. Tkiouat, Rolling element bearing remaining useful life estimation based on a convolutional long-short-term memory network, Proc. Comput. Sci.
+127 (2018) 123–132.
+[197] J. Long, C. Chen, Z. Liu, J. Guo, W. Chen, Stochastic hybrid system approach to task-oriented remaining useful life prediction under time-varying operating
+conditions, Reliab. Eng. Syst. Saf. 225 (2022), 108568.
+[198] L. Bian, N. Gebraeel, J. Kharoufeh, Degradation modeling for real-time estimation of residual lifetimes in dynamic environments, Iie Transactions 47 (5) (2015)
+471–486.
+[199] H. Liao, Z. Tian, A framework for predicting the remaining useful life of a single unit under time-varying operating conditions, IIE Trans. 45 (9) (2013)
+964–980.
+[200] G. Jin, D. Matthews, Z. Zhou, A bayesian framework for online degradation assessment and residual life prediction of secondary batteries inspacecraft, Reliab.
+Eng. Syst. Saf. 113 (1) (2013) 7–20.
+[201] J. Chen, D. Li, R. Huang, Z. Chen, W. Li, Aero-engine remaining useful life prediction method with self-adaptive multimodal data fusion and cluster-ensemble
+transfer regression, Reliab. Eng. Syst. Saf. (2023) 109151.
+[202] R. Huang, J. Li, Y. Liao, J. Chen, Z. Wang, W. Li, Deep adversarial capsule network for compound fault diagnosis of machinery toward multidomain
+generalization task, IEEE Trans. Instrum. Meas. 70 (2021) 1–11, https://doi.org/10.1109/TIM.2020.3042300, 3506311. 
+
+
+

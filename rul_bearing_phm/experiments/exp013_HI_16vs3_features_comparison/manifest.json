@@ -1,0 +1,13 @@
+{
+  "experiment_name": "exp013_HI_16vs3_features_comparison",
+  "timestamp": "2026-08-30T10:01:53.117566",
+  "input_parquets": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ],
+  "outputs": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ]
+}

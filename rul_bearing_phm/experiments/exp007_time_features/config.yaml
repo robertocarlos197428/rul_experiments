@@ -1,0 +1,49 @@
+experiment_id: exp007_time_features
+description: 8 features tiempo x 2 ejes = 16 + 6 identificación = 22 cols
+data:
+  input_base: data/processed/FEMTO
+  data_sets:
+  - learning_set
+  - test_set
+  - full_test_set
+  sampling_rate: 25600
+  points_per_file: 2560
+  interval_sec: 10
+  acc_file_columns: 6
+  h_col_index: 4
+  v_col_index: 5
+features:
+  identification_cols:
+  - data_set
+  - bearing_id
+  - file_id
+  - acc_filename
+  - timestamp_sec
+  - condition
+  axes:
+  - h
+  - v
+  n_base_formulas: 8
+  total_features: 16
+  std_ddof: 1
+  peak_definition: max_abs
+  kurtosis_type: fisher
+  kurtosis_bias: false
+  skewness_bias: false
+  list:
+  - mean
+  - std
+  - rms
+  - peak_to_peak
+  - peak
+  - crest_factor
+  - kurtosis
+  - skewness
+output:
+  output_dir: results/exp007_time_features/features
+  files: 6
+  columns: 22
+  naming: tabla_maestra_{data_set}.parquet/csv
+  formats:
+  - parquet
+  - csv

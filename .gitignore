@@ -1,0 +1,46 @@
+# --- Cachés ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Entornos y editor ---
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+
+# --- Secretos ---
+.env
+*.key
+
+# --- Logs y temporales ---
+*.log
+*.tmp
+runs/
+wandb/
+lightning_logs/
+
+# --- Pesos de modelos ---
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# --- Datos ---
+processed/
+raw_femto/
+data/
+*.parquet
+*.npy
+*.npz
+
+# --- Resultados: solo se suben los .csv y .png ---
+**/resultados/**
+!**/resultados/**/
+!**/resultados/**/*.csv
+!**/resultados/**/*.png
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db

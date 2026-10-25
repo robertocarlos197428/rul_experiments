@@ -1,0 +1,657 @@
+[1] A.K.S. Jardine, D.M. Lin, D. Banjevic, A review on machinery diagnostics and prognostics implementing condition-based maintenance, Mech. Syst.
+Signal Process. 20 (2006) 1483–1510.
+[2] G.J. Vachtsevanos, F. Lewis, A. Hess, B. Wu, Intelligent Fault Diagnosis and Prognosis for Engineering Systems, John Wiley & Sons Inc, United States of
+America, 2006.
+[3] M.J. Roemer, C.S. Byington, G.J. Kacprzynski, G. Vachtsevanos, K. Goebel, Prognostics, in: S.B. Johnson, T.J. Gormley, S.S. Kessler, C.D. Mott, A.
+Patterson-Hine, K.M. Reichard, P.A. Scandura (Eds.), Systems Health Management with Aerospace Applications, Wiley, 2011, pp. 281–295.
+[4] G. Vachtsevanos, K. Goebel, Basic principles, in: I. Jennions (Ed.), Integrated Vehicle Health Management: Perspectives on An Emerging Field, SAE
+International, 2011, pp. 55–66.
+[5] K. Goebel, G. Vachtsevanos, Algorithms and their impact on integrated vehicle health management, in: I. Jennions (Ed.), Integrated Vehicle Health
+Management: Perspectives on An Emerging Field, SAE International, 2011, pp. 67–76.
+[6] Y. Lei, Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery, Elsevier Butterworth-Heinemann, Oxford, 2016.
+[7] A. Heng, S. Zhang, A.C.C. Tan, J. Mathew, Rotating machinery prognostics: state of the art, challenges and opportunities, Mech. Syst. Signal Process. 23
+(2009) 724–739.
+[8] J.Z. Sikorska, M. Hodkiewicz, L. Ma, Prognostic modelling options for remaining useful life estimation by industry, Mech. Syst. Signal Process. 25
+(2011) 1803–1836.
+[9] J. Lee, F.J. Wu, W.Y. Zhao, M. Ghaffari, L.X. Liao, D. Siegel, Prognostics and health management design for rotary machinery systems—reviews,
+methodology and applications, Mech. Syst. Signal Process. 42 (2014) 314–334.
+[10] X.S. Si, W. Wang, C.H. Hu, D.H. Zhou, Remaining useful life estimation – a review on the statistical data driven approaches, Eur. J. Oper. Res. 213 (2011)
+1–14.
+[11] M.S. Kan, A.C.C. Tan, J. Mathew, A review on prognostic techniques for non-stationary and non-linear rotating systems, Mech. Syst. Signal Process. 62–
+63 (2015) 1–20.
+[12] NASA Ames Prognostics Data Repository, NASA Ames Research Center, Available: <https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/
+>.
+[13] A. Saxena, K. Goebel, Damage Propagation Modeling for Aircraft Engine Run-to-failure Simulation, NASA Ames Prognostics Data Repository NASA
+Ames Research Center, Moffett Field, CA, 2008.
+[14] A. Saxena, K. Goebel, PHM08 Challenge Data Set, NASA Ames Prognostics Data Repository NASA Ames Research Center, Moffett Field, CA, 2008.
+[15] A. Saxena, K. Goebel, Turbofan Engine Degradation Simulation Data Set, NASA Ames Prognostics Data Repository NASA Ames Research Center, Moffett
+Field, CA, 2008.
+[16] E. Ramasso, A. Saxena, Performance benchmarking and analysis of prognostic methods for CMAPSS datasets, Int. J. Prog. Health Manage. 5 (2014) 1–
+15.
+[17] F.O. Heimes, Recurrent neural networks for remaining useful life estimation, in: IEEE International Conference on Prognostics and Health
+Management, Denver, CO, USA, 2008, pp. 1–6.
+[18] J. Xu, Y. Wang, L. Xu, PHM-oriented integrated fusion prognostics for aircraft engines based on sensor data, IEEE Sens. J. 14 (2014) 1124–1132.
+[19] Y. Peng, H. Wang, J. Wang, D. Liu, X. Peng, A modified echo state network based remaining useful life estimation approach, in: IEEE International
+Conference on Prognostics and Health Management, Denver, CO, USA, 2012, pp. 1–7.
+[20] R. Ishibashi, C.L.N. Júnior, GFRBS-PHM: A genetic fuzzy rule-based system for PHM with improved interpretability, in: IEEE International Conference
+on Prognostics and Health Management, Gaithersburg, MD, USA 2013, pp. 1–7.
+[21] Z. Xi, R. Jing, P. Wang, C. Hu, A copula-based sampling method for data-driven prognostics, Reliab. Eng. Syst. Safety 132 (2014) 72–82.
+[22] M. El-Koujok, R. Gouriveau, N. Zerhouni, Reducing arbitrary choices in model building for prognostics: an approach by applying parsimony principle
+on an evolving neuro-fuzzy system, Microelectron. Reliab. 51 (2011) 310–320.
+[23] T. Wang, J. Yu, D. Siegel, J. Lee, A similarity-based prognostics approach for remaining useful life estimation of engineered systems, in: IEEE
+International Conference on Prognostics and Health Management, IEEE, 2008, pp. 1–6.
+[24] P.F. Wang, B.D. Youn, C. Hu, A generic probabilistic framework for structural health prognostics and uncertainty management, Mech. Syst. Signal
+Process. 28 (2012) 622–637.
+[25] J. Sun, H. Zuo, H. Yang, P. Michael, Study of ensemble learning-based fusion prognostics, in: Prognostics and System Health Management Conference,
+Macao, 2010, pp. 1–7.
+[26] A. Mosallam, K. Medjaher, N. Zerhouni, Data-driven prognostic method based on Bayesian approaches for direct remaining useful life prediction, J.
+Intell. Manuf. 27 (2016) 1037–1048.
+[27] E. Ramasso, M. Rombaut, N. Zerhouni, Joint prediction of continuous and discrete states in time-series based on belief functions, IEEE Trans. Cybern.
+43 (2013) 37–50.
+[28] A. Giantomassi, F. Ferracuti, A. Benini, G. Ippoliti, S. Longhi, A. Petrucci, Hidden Markov model for health estimation and prognosis of turbofan engines,
+in: ASME 2011 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington, DC,
+USA, 2011, pp. 1–9.
+[29] K. Liu, N.Z. Gebraeel, J. Shi, A data-level fusion model for developing composite health indices for degradation modeling and prognostic analysis, IEEE
+Trans. Autom. Sci. Eng. 10 (2013) 652–664.
+[30] K. Liu, A. Chehade, C. Song, Optimize the signal quality of the composite health index via data fusion for degradation modeling and prognostic
+analysis, IEEE Trans. Autom. Sci. Eng. 14 (2017) 1504–1514.
+[31] Y. Lin, M. Chen, D. Zhou, Online probabilistic operational safety assessment of multi-mode engineering systems using Bayesian methods, Reliab. Eng.
+Syst. Safety 119 (2013) 150–157.
+[32] E. Ramasso, T. Denoeux, Making use of partial knowledge about hidden states in HMMs: an approach based on belief functions, IEEE Trans. Fuzzy Syst.
+22 (2014) 395–405.
+[33] E. Ramasso, R. Gouriveau, Remaining useful life estimation by classification of predictions based on a neuro-fuzzy system and theory of belief
+functions, IEEE Trans. Reliab. 63 (2014) 555–566.
+[34] P. Tamilselvan, Y. Wang, P. Wang, Deep belief network based state classification for structural health diagnosis, in: IEEE Aerospace Conference, Big
+Sky, Montana, 2012, pp. 1–11.
+[35] K. Javed, R. Gouriveau, N. Zerhouni, A new multivariate approach for prognostics based on extreme learning machine and fuzzy clustering, IEEE Trans.
+Cybern. 45 (2015) 2626–2639.
+[36] J. Sun, H. Zuo, W. Wang, M.G. Pecht, Application of a state space modeling technique to system prognostics based on a health index for conditionbased maintenance, Mech. Syst. Signal Process. 28 (2012) 585–596.
+[37] R. Moghaddass, M.J. Zuo, An integrated framework for online diagnostic and prognostic health monitoring using a multistate deterioration process,
+Reliab. Eng. Syst. Safety 124 (2014) 92–104.
+[38] R. Zemouri, R. Gouriveau, Towards accurate and reproducible predictions for prognostic: An approach combining a RRBF network and an
+autoregressive model, in: 1st IFAC Workshop on Advanced Maintenance Engineering, Services and Technology, Lisbonne, Portugal, 2010, pp. 163–
+168.
+[39] R. Khelif, B. Chebel-Morello, S. Malinowski, E. Laajili, F. Fnaiech, N. Zerhouni, Direct remaining useful life estimation based on support vector
+regression, IEEE Trans. Industr. Electron. 64 (2017) 2276–2285.
+[40] C. Hu, B.D. Youn, P. Wang, J. Taek Yoon, Ensemble of data-driven prognostic algorithms for robust prediction of remaining useful life, Reliab. Eng. Syst.
+Safety 103 (2012) 120–135.
+[41] IEEE PHM 2012 Prognostic Challenge. Outline, Experiments, Scoring of results, Winners. Available: <http://www.femto-st.fr/f/d/IEEEPHM2012-
+Challenge-Details.pdf>.
+[42] P. Nectoux, R. Gouriveau, K. Medjaher, E. Ramasso, B. Chebel-Morello, N. Zerhouni, C. Varnier, PRONOSTIA: An experimental platform for bearings
+accelerated degradation tests, in: IEEE International Conference on Prognostics and Health Management, IEEE, Colorado, United States, 2012, pp. 1–8.
+[43] A. Mosallam, K. Medjaher, N. Zerhouni, Time series trending for condition assessment and prognostics, J. Manuf. Technol. Manage. 25 (2014) 550–567.
+[44] T.H. Loutas, D. Roulias, G. Georgoulas, Remaining useful life estimation in rolling bearings utilizing data-driven probabilistic E-support vectors
+regression, IEEE Trans. Reliab. 62 (2013) 821–832.
+[45] K. Javed, R. Gouriveau, N. Zerhouni, P. Nectoux, Enabling health monitoring approach based on vibration data for accurate prognostics, IEEE Trans.
+Industr. Electron. 62 (2015) 647–656.
+[46] R.K. Singleton, E.G. Strangas, S. Aviyente, Extended Kalman filtering for remaining-useful-life estimation of bearings, IEEE Trans. Industr. Electron. 62
+(2015) 1781–1790.
+[47] B. Zhang, L. Zhang, J. Xu, Degradation feature selection for remaining useful life prediction of rolling element bearings, Qual. Reliab. Eng. Int. 32 (2015)
+547–554.
+[48] K. Medjaher, N. Zerhouni, J. Baklouti, Data-driven prognostics based on health indicator construction: Application to PRONOSTIA’s data, European
+Control Conference, Zürich, Switzerland, 2013, pp. 1–6.
+[49] S. Hong, Z. Zhou, E. Zio, K. Hong, Condition assessment for the performance degradation of bearing based on a combinatorial feature extraction
+method, Digital Signal Process. 27 (2014) 159–166.
+[50] S. Hong, Z. Zhou, E. Zio, W. Wang, An adaptive method for health trend prediction of rotating bearings, Digital Signal Process. 35 (2014) 117–123.
+[51] D. An, N.H. Kim, J. Choi, Bearing prognostics method based on entropy decrease at specific frequency, in: 18th AIAA Non-Deterministic Approaches,
+San Diego, California, USA, 2016, pp. 1–8.
+[52] T. Wang, Bearing life prediction based on vibration signals: A case study and lessons learned, in: IEEE International Conference on Prognostics and
+Health Management, IEEE, Denver, CO, 2012, pp. 1–7.
+[53] A. Soualhi, K. Medjaher, N. Zerhouni, Bearing health monitoring based on Hilbert-Huang transform, support vector machine, and regression, IEEE
+Trans. Instrum. Meas. 64 (2015) 52–62.
+[54] P. Boškoski, M. Gašperin, D. Petelin, Bearing fault prognostics based on signal complexity and Gaussian process models, in: IEEE International
+Conference on Prognostics and Health Management, Denver, CO, 2012, pp. 1–8.
+[55] S. Porotsky, Z. Bluvband, A. Group, Remaining useful life estimation for systems with non-trendability behaviour, in: IEEE International Conference on
+Prognostics and Health Management, IEEE, Denver, CO, 2012, pp. 1–6.
+[56] Y. Lei, N. Li, S. Gontarz, J. Lin, S. Radkowski, J. Dybala, A model-based method for remaining useful life prediction of machinery, IEEE Trans. Reliab. 65
+(2016) 1314–1326.
+[57] L. Liao, W. Jin, R. Pavel, Enhanced restricted boltzmann machine with prognosability regularization for rrognostics and health assessment, IEEE Trans.
+Industr. Electron. 63 (2016) 7076–7083.
+[58] Y. Nie, J. Wan, Estimation of remaining useful life of bearings using sparse representation method, in: Prognostics and System Health Management
+Conference, IEEE, Beijing, China, 2015, pp. 1–6.
+[59] M. Zhao, B. Tang, Q. Tan, Bearing remaining useful life estimation based on time–frequency representation and supervised dimensionality reduction,
+Measurement 86 (2016) 41–55.
+[60] Z. Liu, M.J. Zuo, Y. Qin, Remaining useful life prediction of rolling element bearings based on health state assessment, Proc. Inst. Mech. Eng. Part C: J.
+Mech. Eng. Sci. 230 (2015) 314–330.
+[61] J.K. Kimotho, C. Sondermann-Woelke, T. Meyer, W. Sextro, Machinery prognostic method based on multi-class support vector machines and hybrid
+differential evolution–particle swarm optimization, Chem. Eng. Trans. 33 (2013) 619–624.
+[62] N. Li, Y. Lei, J. Lin, S.X. Ding, An improved exponential model for predicting remaining useful life of rolling element bearings, IEEE Trans. Industr.
+Electron. 62 (2015) 7762–7773.
+[63] E. Sutrisno, H. Oh, A.S.S. Vasan, M. Pecht, Estimation of remaining useful life of ball bearings using data driven methodologies, in: IEEE International
+Conference on Prognostics and Health Management, IEEE, Denver, CO, 2012, pp. 1–7.
+[64] D. Zurita, J.A. Carino, M. Delgado, J.A. Ortega, Distributed neuro-fuzzy feature forecasting approach for condition monitoring, in: IEEE Conference on
+Emerging Technology and Factory Automation, IEEE, Barcelona, 2014, pp. 1–8.
+[65] F. Sloukia, M.E. Aroussi, H. Medromi, M. Wahbi, Bearings prognostic using mixture of Gaussians hidden Markov model and support vector machine,
+in: ACS International Conference on Computer Systems and Applications, IEEE, Ifrane, 2013, pp. 1–4.
+[66] L. Guo, H. Gao, H. Huang, X. He, S. Li, Multifeatures fusion and nonlinear dimension reduction for intelligent bearing condition monitoring, Shock Vib.
+2016 (2016) 1–10.
+[67] X. Jin, Y. Sun, Z. Que, Y. Wang, T.W.S. Chow, Anomaly detection and fault prognosis for bearings, IEEE Trans. Instrum. Meas. 65 (2016) 2046–2054.
+[68] H. Li, Y. Wang, Rolling bearing reliability estimation based on logistic regression model, in: International Conference on Quality, Reliability, Risk,
+Maintenance, and Safety Engineering, IEEE, Chengdu, 2013, pp. 1730–1733.
+[69] Y. Lei, N. Li, J. Lin, A new method based on stochastic process models for machine remaining useful life prediction, IEEE Trans. Instrum. Meas. 65
+(2016) 2671–2684.
+[70] Z. Huang, Z. Xu, X. Ke, W. Wang, Y. Sun, Remaining useful life prediction for an adaptive skew-Wiener process model, Mech. Syst. Signal Process. 87
+(2017) 294–306.
+[71] Y. Wang, Y. Peng, Y. Zi, X. Jin, K.-L. Tsui, A two-stage data-driven-based prognostic approach for bearing degradation problem, IEEE Trans. Industr. Inf.
+12 (2016) 924–932.
+[72] J.A. Carino, D. Zurita, M. Delgado, J.A. Ortega, R.J. Romero-Troncoso, Remaining useful life estimation of ball bearings by means of monotonic score
+calibration, in: IEEE International Conference on Industrial Technology, IEEE, Seville, 2015, pp. 1752–1758.
+[73] Y. Pan, M.J. Er, X. Li, H. Yu, R. Gouriveau, Machine health condition prediction via online dynamic fuzzy neural networks, Eng. Appl. Artif. Intell. 35
+(2014) 105–113.
+[74] E. Fumeo, L. Oneto, D. Anguita, Condition based maintenance in railway transportation systems based on big data streaming analysis, Procedia
+Comput. Sci. 53 (2015) 437–446.
+[75] T. Benkedjouh, K. Medjaher, N. Zerhouni, S. Rechak, Remaining useful life estimation based on nonlinear feature reduction and support vector
+regression, Eng. Appl. Artif. Intell. 26 (2013) 1751–1760.
+[76] L. Wang, L. Zhang, X.-Z. Wang, Reliability estimation and remaining useful lifetime prediction for bearing based on proportional hazard model, J Cent
+South Univ 22 (2015) 4625–4633.
+[77] L. Ren, W. Lv, S. Jiang, Machine prognostics based on sparse representation model, J. Intell. Manuf. (2015) 1–9.
+[78] G. Niu, F. Qian, B.K. Choi, Bearing life prognosis based on monotonic feature selection and similarity modeling, Proc Inst. Mech. Eng., Part C: J. Mech.
+Eng. Sci. 18 (2015) 3183–3193.
+[79] L. Xiao, X. Chen, X. Zhang, M. Liu, A novel approach for bearing remaining useful life estimation under neither failure nor suspension histories
+condition, J. Intell. Manuf. (2015) 1–22.
+[80] H. Qiu, J. Lee, J. Lin, G. Yu, Wavelet filter-based weak signature detection method and its application on rolling element bearing prognostics, J. Sound
+Vib. 289 (2006) 1066–1090.
+[81] J. Lee, H. Qiu, G. Yu, J. Lin, Rexnord Technical Services. ‘‘Bearing Data Set”, NASA Ames Prognostics Data Repository, NASA Ames Research Center,
+Moffett Field, CA, 2007.
+[82] T. Williams, X. Ribadeneira, S. Billington, T. Kurfess, Rolling element bearing diagnostics in run-to-failure lifetime testing, Mech. Syst. Signal Process.
+15 (2001) 979–993.
+[83] W. Gousseau, J. Antoni, F. Girardin, J. Griffaton, Analysis of the rolling element bearing data set of the center for Intelligent Maintenance Systems of
+the University of Cincinnati, in: The Thirteenth International Conference on Condition Monitoring and Machinery Failure Prevention Technologies,
+Paris, France, 2016, pp. 1–13.
+[84] J. Ben Ali, N. Fnaiech, L. Saidi, B. Chebel-Morello, F. Fnaiech, Application of empirical mode decomposition and artificial neural network for automatic
+bearing fault diagnosis based on vibration signals, Appl. Acoust. 89 (2015) 16–27.
+[85] H. Qiu, J. Lee, J. Lin, G. Yu, Robust performance degradation assessment methods for enhanced rolling element bearing prognostics, Adv. Eng. Inform.
+17 (2003) 127–140.
+[86] J. Yu, Bearing performance degradation assessment using locality preserving projections and Gaussian mixture models, Mech. Syst. Signal Process. 25
+(2011) 2573–2588.
+[87] S. Dong, T. Luo, Bearing degradation process prediction based on the PCA and optimized LS-SVM model, Measurement 46 (2013) 3143–3152.
+[88] H. Huang, H. Ouyang, H. Gao, L. Guo, D. Li, J. Wen, A feature extraction method for vibration signal of bearing incipient degradation, Meas. Sci. Rev. 16
+(2016) 149–159.
+[89] A. Soualhi, H. Razik, G. Clerc, D. Doan, Prognosis of bearing failures using hidden Markov models and the adaptive neuro-fuzzy inference system, IEEE
+Trans. Industr. Electron. 61 (2014) 2864–2874.
+[90] J.B. Ali, B. Chebel-Morello, L. Saidi, S. Malinowski, F. Fnaiech, Accurate bearing remaining useful life prediction based on Weibull distribution and
+artificial neural network, Mech. Syst. Signal Process. 56 (2015) 150–172.
+[91] A.K. Mahamad, S. Saon, T. Hiyama, Predicting remaining useful life of rotating machinery based artificial neural network, Comput. Math. Appl. 60
+(2010) 1078–1087.
+[92] H. Liao, W. Zhao, H. Guo, Predicting remaining useful life of an individual unit using proportional hazards model and logistic regression model, in:
+Reliability and Maintainability Symposium, IEEE, 2006, pp. 127–132.
+[93] A. Widodo, B.-S. Yang, Application of relevance vector machine and survival probability to machine degradation assessment, Expert Syst. Appl. 38
+(2011) 2592–2599.
+[94] Q. Li, S.Y. Liang, J. Yang, B. Li, Long range dependence prognostics for bearing vibration intensity chaotic time series, Entropy 18 (2016) 23.
+[95] Y. Qian, R. Yan, R.X. Gao, A multi-time scale approach to remaining useful life prediction in rolling bearing, Mech. Syst. Signal Process. 83 (2017) 549–
+567.
+[96] A. Agogino, K. Goebel, BEST lab, UC Berkeley. ‘‘Milling Data Set”, NASA Ames Prognostics Data Repository NASA Ames Research Center, Moffett Field,
+CA, 2007.
+[97] K. Goebel, Management of Uncertainty in Sensor Validation, Sensor Fusion, and Diagnosis of Mechanical Systems Using Soft Computing Techniques,
+Department of Mechanical Engineering, University of California at Berkeley, 1996.
+[98] D.D. Zhang, An adaptive procedure for tool life prediction in face milling, Proc. Inst. Mech. Eng., Part J: J. Eng. Tribol. 225 (2011) 1130–1136.
+[99] M. Wei, M. Chen, D. Zhou, Multi-sensor information based remaining useful life prediction with anticipated performance, IEEE Trans. Reliab. 62
+(2013) 183–198.
+[100] J. Yu, Machine tool condition monitoring based on an adaptive Gaussian mixture model, J. Manuf. Sci. Eng. 134 (2012) 1–13.
+[101] J.S. Rad, Y. Zhang, C. Chen, A novel local time-frequency domain feature extraction method for tool condition monitoring using S-transform and
+genetic algorithm, in: The 19th World Congress of the International Federation of Automatic Control, Cape Town, South Africa, 2014, pp. 1–6.
+[102] J. Coble, J.W. Hines, Incorporating prior belief in the general path model: A comparison of information sources, Nucl. Eng. Technol. 46 (2014) 773–782.
+[103] 2010 PHM Society Conference Data Challenge. Available: <https://www.phmsociety.org/competition/phm/10>.
+[104] W.Q. Meeker, L.A. Escobar, Statistical Methods for Reliability Data, John Wiley & Sons, New York, 1998, pp. 639.
+[105] R. Huang, L. Xi, X. Li, C. Richard Liu, H. Qiu, J. Lee, Residual life predictions for ball bearings based on self-organizing map and back propagation neural
+network methods, Mech. Syst. Signal Process. 21 (2007) 193–207.
+[106] M. Gašperin, Ð. Juricˇic´, P. Boškoski, J. Vizˇintin, Model-based prognostics of gear health using stochastic dynamical models, Mech. Syst. Signal Process.
+25 (2011) 537–548.
+[107] Z. Shen, Z. He, X. Chen, C. Sun, Z. Liu, A monotonic degradation assessment index of rolling bearings using fuzzy support vector data description and
+running time, Sensors 12 (2012) 10109–10135.
+[108] PHM Society-Conference. Available: <http://www.phmsociety.org/conferences>.
+[109] IEEE Reliability Society-Events & Conferences. Available: <http://rs.ieee.org/events-and-conferences.html>.
+[110] J. Zhu, T. Nostrand, C. Spiegel, B. Morton, Survey of condition indicators for condition monitoring systems, in: Annual Conference of the Prognostic and
+Health Management Society, Fort Worth, Texas, United States, 2014, pp. 1–13.
+[111] P. Vecˇerˇ, M. Kreidl, R. Šmíd, Condition indicators for gearbox condition monitoring systems, Acta Polytechnica 45 (2005) 35–43.
+[112] Z.Y. Huang, X. Zheng Guo, W.H. Wang, Y.X. Sun, Remaining useful life prediction for a nonlinear heterogeneous wiener process model with an
+adaptive drift, IEEE Trans. Reliab. 64 (2015) 687–700.
+[113] A. Malhi, R.Q. Yan, R.X. Gao, Prognosis of defect propagation based on recurrent neural networks, IEEE Trans. Instrum. Meas. 60 (2011) 703–711.
+[114] H. Liao, Z. Tian, A framework for predicting the remaining useful life of a single unit under time-varying operating conditions, IIE Trans. 45 (2013)
+964–980.
+[115] L. Hu, N.-Q. Hu, B. Fan, F.-S. Gu, X.-Y. Zhang, Modeling the relationship between vibration features and condition parameters using relevance vector
+machines for health monitoring of rolling element bearings under varying operation conditions, Math. Probl. Eng. 2015 (2015) 1–10.
+[116] Z.X. Zhang, X.S. Si, C.H. Hu, An age- and state-dependent nonlinear prognostic model for degrading systems, IEEE Trans. Reliab. 64 (2015) 1214–1228.
+[117] N. Gebraeel, M. Lawley, R. Liu, V. Parmeshwaran, Residual life predictions from vibration-based degradation signals: a neural network approach, IEEE
+Trans. Industr. Electron. 51 (2004) 694–700.
+[118] A.H. Elwany, N.Z. Gebraeel, Sensor-driven prognostic models for equipment replacement and spare parts inventory, IIE Trans. 40 (2008) 629–639.
+[119] J. Hu, P.W. Tse, A relevance vector machine-based approach with application to oil sand pump prognostics, Sensors 13 (2013) 12663–12686.
+[120] D. Lin, M. Wiseman, D. Banjevic, A.K.S. Jardine, An approach to signal processing and condition-based maintenance for gearboxes subject to tooth
+failure, Mech. Syst. Signal Process. 18 (2004) 993–1007.
+[121] H. Hanachi, J. Liu, A. Banerjee, Y. Chen, A. Koul, A physics-based modeling approach for performance monitoring in gas turbine engines, IEEE Trans.
+Reliab. 64 (2015) 197–205.
+[122] H. Li, Y. Wang, B. Wang, J. Sun, Y. Li, The application of a general mathematical morphological particle as a novel indicator for the performance
+degradation assessment of a bearing, Mech. Syst. Signal Process. 82 (2016) 490–502.
+[123] R. Li, P. Sopon, D. He, Fault features extraction for bearing prognostics, J. Intell. Manuf. 23 (2012) 313–321.
+[124] Y. Qian, R. Yan, S. Hu, Bearing degradation evaluation using recurrence quantification analysis and Kalman filter, IEEE Trans. Instrum. Meas. 63 (2014)
+2599–2610.
+[125] W.D. Mark, J.A. Hines, Frequency-domain assessment of gear-tooth bending-fatigue damage-progression using the average-log-ratio, ALR, algorithm,
+Mech. Syst. Signal Process. 45 (2014) 479–487.
+[126] C. Hu, W.A. Smith, R.B. Randall, Z. Peng, Development of a gear vibration indicator and its application in gear wear monitoring, Mech. Syst. Signal
+Process. 76–77 (2016) 319–336.
+[127] D. Wang, P.W. Tse, Prognostics of slurry pumps based on a moving-average wear degradation index and a general sequential Monte Carlo method,
+Mech. Syst. Signal Process. 56–57 (2015) 213–229.
+[128] T. Benkedjouh, K. Medjaher, N. Zerhouni, S. Rechak, Health assessment and life prediction of cutting tools based on support vector regression, J. Intell.
+Manuf. 26 (2015) 213–223.
+[129] P.W. Tse, D. Wang, Enhancing the abilities in assessing slurry pumps’ performance degradation and estimating their remaining useful lives by using
+captured vibration signals, J. Vib. Control (2015) 1–13.
+[130] G. Niu, B.-S. Yang, Intelligent condition monitoring and prognostics system based on data-fusion strategy, Expert Syst. Appl. 37 (2010) 8831–8840.
+[131] N.P. Li, Y.G. Lei, Z.Y. Liu, J. Lin, A particle filtering-based approach for remaining useful life predication of rolling element bearings, in: IEEE
+International Conference on Prognostics and Health Management, IEEE, Cheney, WA, United states, 2014, pp. 1–8.
+[132] C. Lu, L. Tao, H. Fan, An intelligent approach to machine component health prognostics by utilizing only truncated histories, Mech. Syst. Signal
+Process. 42 (2014) 300–313.
+[133] H. Kumar, S.P. Pai, N. Sriram, G. Vijay, Rolling element bearing fault diagnostics: Development of health index, Proc. Inst. Mech. Eng., Part C: J. Mech.
+Eng. Sci. (2016) 1–17.
+[134] J.B. Yu, Health condition monitoring of machines based on hidden markov model and contribution analysis, IEEE Trans. Instrum. Meas. 61 (2012)
+2200–2211.
+[135] L. Liao, Discovering prognostic features using genetic programming in remaining useful life prediction, IEEE Trans. Industr. Electron. 61 (2014) 2464–
+2472.
+[136] H. Ocak, K.A. Loparo, F.M. Discenzo, Online tracking of bearing wear using wavelet packet decomposition and probabilistic modeling: a method for
+bearing prognostics, J. Sound Vib. 302 (2007) 951–961.
+[137] Y. Li, M. Xu, Y. Wei, W. Huang, Health condition monitoring and early fault diagnosis of bearings using SDF and intrinsic characteristic-scale
+decomposition, IEEE Trans. Instrum. Meas. 65 (2016) 2174–2189.
+[138] Y. Pan, J. Chen, X. Li, Bearing performance degradation assessment based on lifting wavelet packet decomposition and fuzzy C-means, Mech. Syst.
+Signal Process. 24 (2010) 559–566.
+[139] E. Bechhoefer, D.W. He, A process for data driven prognostics, in: Prognostics and Health Management Solutions Conference-PHM: Driving Efficient
+Operations and Maintenance, 2012, pp. 1–16.
+[140] Y. Liu, B. He, F. Liu, S. Lu, Y. Zhao, J. Zhao, Remaining useful life prediction of rolling bearings using PSR JADE, and extreme learning machine, Math.
+Probl. Eng. 2016 (2016) 1–13.
+[141] L. Guo, N. Li, F. Jia, Y. Lei, J. Lin, A recurrent neural network based health indicator for remaining useful life prediction of bearings, Neurocomputing
+240 (2017) 98–109.
+[142] F. Yang, M.S. Habibullah, T. Zhang, Z. Xu, P. Lim, S. Nadarajan, Health index-based prognostics for remaining useful life predictions in electrical
+machines, IEEE Trans. Industr. Electron. 63 (2016) 2633–2644.
+[143] J. Coble, J.W. Hines, Identifying optimal prognostic parameters from data: a genetic algorithms approach, in: Annual Conference of the Prognostics
+and Health Management Society, San Diego, CA, 2009, pp. 1–11.
+[144] F. Camci, K. Medjaher, N. Zerhounib, P. Nectouxb, Feature evaluation for effective bearing prognostics, Qual. Reliab. Eng. Int. 29 (2013) 477–486.
+[145] Q. Hu, W. Pan, L. Zhang, D. Zhang, Y. Song, M. Guo, D. Yu, Feature selection for monotonic classification, IEEE Trans. Fuzzy Syst. 20 (2012) 69–81.
+[146] Q. Hu, X. Che, L. Zhang, D. Zhang, M. Guo, D. Yu, Rank entropy-based decision trees for monotonic classification, IEEE Trans. Knowl. Data Eng. 24
+(2012) 2052–2064.
+[147] X. Zhao, M.J. Zuo, Z. Liu, M.R. Hoseini, Diagnosis of artificially created surface damage levels of planet gear teeth using ordinal ranking, Measurement
+46 (2013) 132–144.
+[148] T.-H. Lin, H.-T. Li, K.-C. Tsai, Implementing the Fisher’s discriminant ratio in a k-means clustering algorithm for feature selection and data set
+trimming, J. Chem. Inf. Comput. Sci. 44 (2004) 76–87.
+[149] J. Pellegrino, M. Justiniano, A. Raghunathan, B.A. Weiss, Measurement Science Roadmap for Prognostics and Health Management for Smart
+Manufacturing Systems, National Institute of Standards and Technology, U.S. Department of Commerce, 2016.
+[150] W. Wang, A model to predict the residual life of rolling element bearings given monitored condition information to date, IMA J. Manage. Math. 13
+(2002) 3–16.
+[151] A. Ginart, I. Barlas, J. Goldin, J.L. Dorrity, Automated feature selection for embeddable prognostic and health monitoring architectures, in: IEEE
+Autotestcon, IEEE, 2006, pp. 195–201.
+[152] B.-S.Y. Gang Niu, Accurate condition monitoring using data fusion and automatic alarm setting technique, in: 15th International Congress on Sound
+and Vibration, Daejeon, Korea, 2008, pp. 1–8.
+[153] B. Zhang, C. Sconyers, C. Byington, R. Patrick, M.E. Orchard, G. Vachtsevanos, A probabilistic fault detection approach: application to bearing fault
+detection, IEEE Trans. Industr. Electron. 58 (2011) 2011–2018.
+[154] A. Ajami, M. Daneshvar, Data driven approach for fault detection and diagnosis of turbine in thermal power plant using Independent Component
+Analysis (ICA), Int. J. Electr. Power Energy Syst. 43 (2012) 728–735.
+[155] R. Li, D. He, Rotational machine health monitoring and fault detection using EMD-based acoustic emission feature quantification, IEEE Trans. Instrum.
+Meas. 61 (2012) 990–1001.
+[156] S. Yin, G. Wang, H.R. Karimi, Data-driven design of robust fault detection system for wind turbines, Mechatronics 24 (2014) 298–306.
+[157] P. Shakya, M.S. Kulkarni, A.K. Darpe, A novel methodology for online detection of bearing health status for naturally progressing defect, J. Sound Vib.
+333 (2014) 5614–5629.
+[158] G. Georgoulas, T. Loutas, C.D. Stylios, V. Kostopoulos, Bearing fault detection based on hybrid ensemble detector and empirical mode decomposition,
+Mech. Syst. Signal Process. 41 (2013) 510–525.
+[159] A. Alkaya, _
+I. Eker, Variance sensitive adaptive threshold-based PCA method for fault detection with experimental application, ISA Trans. 50 (2011)
+287–302.
+[160] L. Hu, N. Hu, X. Zhang, F. Gu, M. Gao, Novelty detection methods for online health monitoring and post data analysis of turbopumps, J. Mech. Sci.
+Technol. 27 (2013) 1933–1942.
+[161] O. Fink, E. Zio, Ulrich Weidmann, A classification framework for predicting components’ remaining useful life based on discrete-Event diagnostic data,
+IEEE Trans. Reliab. 64 (2015) 1049–1056.
+[162] M. Schlechtingen, I.F. Santos, Comparative analysis of neural network and regression based condition monitoring approaches for wind turbine fault
+detection, Mech. Syst. Signal Process. 25 (2011) 1849–1875.
+[163] Y. Hu, H. Li, X. Liao, E. Song, H. Liu, Z. Chen, A probability evaluation method of early deterioration condition for the critical components of wind
+turbine generator systems, Mech. Syst. Signal Process. 76–77 (2016) 729–741.
+[164] P. Scanlon, D.F. Kavanagh, F.M. Boland, Residual life prediction of rotating machines using acoustic noise signals, IEEE Trans. Instrum. Meas. 62 (2013)
+95–108.
+[165] R.B. Chinnam, P. Baruah, Autonomous diagnostics and prognostics in machining processes through competitive learning-driven HMM-based
+clustering, Int. J. Prod. Res. 47 (2009) 6739–6758.
+[166] W. Wang, Modelling the probability assessment of system state prognosis using available condition monitoring information, IMA J. Manage. Math. 17
+(2005) 225–233.
+[167] Q. Liu, M. Dong, W. Lv, X. Geng, Y. Li, A novel method using adaptive hidden semi-Markov model for multi-sensor monitoring equipment health
+prognosis, Mech. Syst. Signal Process. 64 (2015) 217–232.
+[168] D. Tobon-Mejia, K. Medjaher, N. Zerhouni, CNC machine tool’s wear diagnostic and prognostic by using dynamic Bayesian networks, Mech. Syst.
+Signal Process. 28 (2012) 167–182.
+[169] C.K.R. Lim, D. Mba, Switching Kalman filter for failure prognostic, Mech. Syst. Signal Process. 52–53 (2015) 426–435.
+[170] X. Zhang, J. Kang, T. Jin, Degradation modeling and maintenance decisions based on Bayesian belief networks, IEEE Trans. Reliab. 63 (2014) 620–633.
+[171] H.-E. Kim, A.C.C. Tan, J. Mathew, B.-K. Choi, Bearing fault prognosis based on health state probability estimation, Expert Syst. Appl. 39 (2012) 5200–
+5213.
+[172] N.Z. Gebraeel, M.A. Lawley, R. Li, J.K. Ryan, Residual-life distributions from component degradation signals: A Bayesian approach, IIE Trans. 37 (2005)
+543–557.
+[173] X.S. Si, W.B. Wang, C.H. Hu, M.Y. Chen, D.H. Zhou, A Wiener-process-based degradation model with a recursive filter algorithm for remaining useful
+life estimation, Mech. Syst. Signal Process. 35 (2013) 219–237.
+[174] ISO 13381-1, Condition Monitoring and Diagnostics of Machines-Prognostics-Part 1: General Guidelines, 2015.
+[175] A. Cubillo, S. Perinpanayagam, M. Esperon-Miguez, A review of physics-based models in prognostics: application to gears and bearings of rotating
+machinery, Adv. Mech. Eng. 8 (2016) 1–21.
+[176] P.C. Paris, F. Erdogan, A critical analysis of crack propagation laws, J. Fluids Eng. 85 (1963) 528–533.
+[177] Y. Li, S. Billington, C. Zhang, T. Kurfess, S. Danyluk, S. Liang, Adaptive prognostics for rolling element bearing condition, Mech. Syst. Signal Process. 13
+(1999) 103–113.
+[178] E. Bechhoefer, A. Bernhard, D. He, Use of Paris law for prediction of component remaining life, in: IEEE Aerospace Conference, Big Sky, MT, USA, 2008,
+pp. 1–9.
+[179] F. Cadini, E. Zio, D. Avram, Monte Carlo-based filtering for fatigue crack growth estimation, Probab. Eng. Mech. 24 (2009) 367–373.
+[180] E. Zio, G. Peloni, Particle filtering prognostic estimation of the remaining useful life of nonlinear components, Reliab. Eng. Syst. Safety 96 (2011) 403–
+409.
+[181] M.E. Orchard, G.J. Vachtsevanos, A particle-filtering approach for on-line fault diagnosis and failure prognosis, Trans. Inst. Meas. Control 31 (2009)
+221–246.
+[182] B. Zhang, C. Sconyers, R. Patrick, G. Vachtsevanos, A multi-fault modeling approach for fault diagnosis and failure prognosis of engineering systems,
+in: Annual Conference of the Prognostics and Health Management Society, San Diego, CA, 2009, pp. 1–10.
+[183] D. Xu, Q. Zhu, X. Chen, Y. Xu, S. Wang, Residual fatigue life prediction of ball bearings based on Paris law and RMS, Chin. J. Mech. Eng. 25 (2012) 320–
+327.
+[184] F. Zhao, Z. Tian, Y. Zeng, Uncertainty quantification in gear remaining useful life prediction through an integrated prognostics method, IEEE Trans.
+Reliab. 62 (2013) 146–159.
+[185] J. Chiachío, M. Chiachío, S. Sankararaman, A. Saxena, K. Goebel, Condition-based prediction of time-dependent reliability in composites, Reliab. Eng.
+Syst. Safety 142 (2015) 134–147.
+[186] Fatigue Crack Growth Database for Damage Tolerance Analysis, Office of Aviation Research, Washington, D.C., 2005.
+[187] NASGRO Reference Manual, Version 4.02, NASA JS. Centre and Southwest Research Institute, 2002.
+[188] M. Corbetta, C. Sbarufatti, A. Manes, M. Giglio, Real-time prognosis of crack growth evolution using sequential Monte Carlo methods and statistical
+model parameters, IEEE Trans. Reliab. 64 (2015) 736–753.
+[189] M.A. Haile, J.C. Riddick, A.H. Assefa, Robust particle filters for fatigue crack growth estimation in rotorcraft structures, IEEE Trans. Reliab. 65 (2016)
+1438–1448.
+[190] J. Wang, R.X. Gao, Z. Yuan, Z. Fan, L. Zhang, A joint particle filter and expectation maximization approach to machine condition prognosis, J. Intell.
+Manuf. (2016) 1–17.
+[191] J. Sun, H. Zuo, W. Wang, M.G. Pecht, Prognostics uncertainty reduction by fusing on-line monitoring data based on a state-space-based degradation
+model, Mech. Syst. Signal Process. 45 (2014) 396–407.
+[192] C.H. Oppenheimer, K.A. Loparo, Physically based diagnosis and prognosis of cracked rotor shafts, in: Component and Systems Diagnostics,
+Prognostics, and Health Management II, Orlando, FL, 2002, pp. 1–11.
+[193] W. Ostachowicz, M. Krawczuk, Coupled torsional and bending vibrations of a rotor with an open crack, Arch. Appl. Mech. 62 (1992) 191–201.
+[194] P. Baraldi, F. Mangili, E. Zio, A Kalman filter-based ensemble approach with application to turbine creep prognostics, IEEE Trans. Reliab. 61 (2012)
+966–977.
+[195] P. Baraldi, F. Mangili, E. Zio, Investigation of uncertainty treatment capability of model-based and data-driven prognostic methods using simulated
+data, Reliab. Eng. Syst. Safety 112 (2013) 94–108.
+[196] Y. Hu, P. Baraldi, F.D. Maio, E. Zio, Online performance assessment method for a model-based prognostic approach, IEEE Trans. Reliab. 65 (2016) 718–
+735.
+[197] K.S. Chan, M.P. Enright, J.P. Moody, B. Hocking, S.H.K. Fitch, Life prediction for turbopropulsion systems under dwell fatigue conditions, J. Eng. Gas
+Turbines Power 134 (2012) 1–8.
+[198] K. El-Tawil, A.A. Jaoude, Stochastic and nonlinear-based prognostic model, Syst. Sci. Control Eng. 1 (2013) 66–81.
+[199] Z.S. Ye, M. Xie, Stochastic modelling and analysis of degradation for highly reliable products, Appl. Stoch. Models Bus. Ind. 31 (2015) 16–32.
+[200] D. Barraza-Barraza, V.G. Tercero-Gómez, M.G. Beruvides, J. Limón-Robles, An adaptive ARX model to estimate the RUL of aluminum plates based on its
+crack growth, Mech. Syst. Signal Process. 82 (2017) 519–536.
+[201] T. Escobet, J. Quevedo, V. Puig, A fault/anomaly system prognosis using a data-driven approach considering uncertainty, in: International Joint
+Conference on Neural Networks, IEEE, 2012, pp. 1–7.
+[202] Y. Qian, R. Yan, Remaining useful life prediction of rolling bearings using an enhanced particle filter, IEEE Trans. Instrum. Meas. 64 (2015) 2696–2707.
+[203] C.K. Pang, J.-H. Zhou, H.-C. Yan, PDF and breakdown time prediction for unobservable wear using enhanced particle filters in precognitive
+maintenance, IEEE Trans. Instrum. Meas. 64 (2015) 649–659.
+[204] W. Caesarendra, A. Widodo, P.H. Thom, B.-S. Yang, J.D. Setiawan, Combined probability approach and indirect data-driven method for bearing
+degradation prognostics, IEEE Trans. Reliab. 60 (2011) 14–20.
+[205] H.-C. Yan, C.K. Pang, J.-H. Zhou, Precognitive maintenance and probabilistic assessment of tool wear using particle filters, in: Industrial Electronics
+Society, IECON 2013-39th Annual Conference of the IEEE, IEEE, 2013, pp. 7382–7387.
+[206] M. Ibrahim, N.Y. Steiner, S. Jemei, D. Hissel, Wavelet-based approach for online fuel cell remaining useful lifetime prediction, IEEE Trans. Industr.
+Electron. 63 (2016) 5057–5068.
+[207] C.J. Lu, W.Q. Meeker, Using degradation measures to estimate a time-to-failure distribution, Technometrics (1993) 161–174.
+[208] W.Q. Meeker, L.A. Escobar, C.J. Lu, Accelerated degradation tests: modeling and analysis, Technometrics 40 (1998) 89–99.
+[209] N. Gebraeel, A. Elwany, J. Pan, Residual life predictions in the absence of prior degradation knowledge, IEEE Trans. Reliab. 58 (2009) 106–117.
+[210] N. Gebraeel, J. Pan, Prognostic degradation models for computing and updating residual life distributions in a time-varying environment, IEEE Trans.
+Reliab. 57 (2008) 539–550.
+[211] M.A. Zaidan, A.R. Mills, R.F. Harrison, Towards enhanced prognostics with advanced data-driven modelling, in: The 8th International Conference on
+Condition Monitoring and Machinery Failure Prevention Technologies, Cardiff, 2011, pp. 1–11.
+[212] N. Chen, K.L. Tsui, Condition monitoring and remaining useful life prediction using degradation signals: revisited, IIE Trans. 45 (2013) 939–952.
+[213] O.F. Eker, F. Camci, A. Guclu, H. Yilboga, M. Sevkli, S. Baskan, A simple state-based prognostic model for railway turnout systems, IEEE Trans. Industr.
+Electron. 58 (2011) 1718–1726.
+[214] D. Wang, F. Yang, K.-L. Tsui, Q. Zhou, S.J. Bae, Remaining useful life prediction of lithium-ion batteries based on spherical cubature particle filter, IEEE
+Trans. Instrum. Meas. 65 (2016) 1282–1291.
+[215] Y. Wang, C. Deng, J. Wu, Y. Xiong, Failure time prediction for mechanical device based on the degradation sequence, J. Intell. Manuf. 26 (2015) 1181–
+1199.
+[216] R. Zhou, N. Gebraeel, N. Serban, Degradation modeling and monitoring of truncated degradation signals, IIE Trans. 44 (2012) 793–803.
+[217] W. Wang, B. Hussin, T. Jefferis, A case study of condition based maintenance modelling based upon the oil analysis data of marine diesel engines using
+stochastic filtering, Int. J. Prod. Econ. 136 (2012) 84–92.
+[218] W. Wang, A two-stage prognosis model in condition based maintenance, Eur. J. Oper. Res. 182 (2007) 1177–1187.
+[219] M.J. Carr, W. Wang, Modeling failure modes for residual life prediction using stochastic filtering theory, IEEE Trans. Reliab. 59 (2010) 346–355.
+[220] M.J. Carr, W. Wang, An approximate algorithm for prognostic modelling using condition monitoring information, Eur. J. Oper. Res. 211 (2011) 90–96.
+[221] J.I. Park, S.J. Bae, Direct prediction methods on lifetime distribution of organic light-emitting diodes from accelerated degradation tests, IEEE Trans.
+Reliab. 59 (2010) 74–90.
+[222] M. Daigle, B. Saha, K. Goebel, A comparison of filter-based approaches for model-based prognostics, in: IEEE Aerospace Conference, IEEE, 2012, pp. 1–
+10.
+[223] D. An, J.H. Choi, N.H. Kim, Prognostics 101: A tutorial for particle filter-based prognostics algorithm using Matlab, Reliab. Eng. Syst. Safety 115 (2013)
+161–169.
+[224] W. He, N. Williard, M. Osterman, M. Pecht, Prognostics of lithium-ion batteries based on Dempster-Shafer theory and the Bayesian Monte Carlo
+method, J. Power Sources 196 (2011) 10314–10321.
+[225] M. Orchard, F. Tobar, G. Vachtsevanos, Outer feedback correction loops in particle filtering-based prognostic algorithms: statistical performance
+comparison, Stud. Inform. Control 18 (2009) 295–304.
+[226] M.E. Orchard, B. Wu, G. Vachtsevanos, A particle filtering framework for failure prognosis, in: World Tribology Congress III, American Society of
+Mechanical Engineers, 2005, pp. 883–884.
+[227] E. Rabiei, E.L. Droguett, M. Modarres, A prognostics approach based on the evolution of damage precursors using dynamic Bayesian networks, Adv.
+Mech. Eng. 8 (2016) 1–19.
+[228] M. Pandey, X.-X. Yuan, J. Van Noortwijk, The influence of temporal uncertainty of deterioration on life-cycle management of structures, Struct. Inf.
+Eng. 5 (2009) 145–156.
+[229] K.A. Doksum, A. Hbyland, Models for variable-stress accelerated life testing experiments based on Wener processes and the inverse Gaussian
+distribution, Technometrics 34 (1992) 74–82.
+[230] G.A. Whitmore, F. Schenkelberg, Modelling accelerated degradation data using Wiener diffusion with a time scale transformation, Lifetime Data Anal.
+3 (1997) 27–45.
+[231] S.-T. Tseng, J. Tang, I.-H. Ku, Determination of burn-in parameters and residual life for highly reliable products, Naval Res. Logist. 50 (2003) 1–14.
+[232] S.-T. Tseng, C.-Y. Peng, Optimal burn-in policy by using an integrated Wiener process, IIE Trans. 36 (2004) 1161–1170.
+[233] C. Park, W.J. Padgett, Accelerated degradation models for failure based on geometric Brownian motion and gamma processes, Lifetime Data Anal. 11
+(2005) 511–527.
+[234] C. Park, W.J. Padgett, New cumulative damage models for failure using stochastic processes as initial damage, IEEE Trans. Reliab. 54 (2005) 530–540.
+[235] C. Park, W.J. Padgett, Stochastic degradation models with several accelerating variables, IEEE Trans. Reliab. 55 (2006) 379–390.
+[236] J. Tang, T.-S. Su, Estimating failure time distribution and its parameters based on intermediate data from a Wiener degradation model, Naval Res.
+Logist. 55 (2008) 265–276.
+[237] C.-Y. Peng, S.-T. Tseng, Mis-specification analysis of linear degradation models, IEEE Trans. Reliab. 58 (2009) 444–455.
+[238] C.-Y. Peng, S.-T. Tseng, Statistical lifetime inference with skew-wiener linear degradation models, IEEE Trans. Reliab. 62 (2013) 338–350.
+[239] W.B. Wang, M. Carr, W.J. Xu, K. Kobbacy, A model for residual life prediction based on Brownian motion with an adaptive drift, Microelectron. Reliab.
+51 (2011) 285–293.
+[240] L. Hao, L. Bian, N. Gebraeel, J. Shi, Residual life prediction of multistage manufacturing processes with interaction between tool wear and product
+quality degradation, IEEE Trans. Autom. Sci. Eng. (2016), In Press.
+[241] S. Liu, Y. Hu, C. Liu, H. Zhang, Real-time reliability self-assessment in milling tools operation, Qual. Reliab. Eng. Int. 32 (2015) 2245–2252.
+[242] K.A. Kaiser, N.Z. Gebraeel, Predictive maintenance management using sensor-based degradation models, IEEE Trans. Syst. Man Cybern. Part A Syst.
+Hum. 39 (2009) 840–849.
+[243] L. Hao, N. Gebraeel, J. Shi, Simultaneous signal separation and prognostics of multi-component systems: the case of identical components, IIE Trans.
+47 (2014) 487–504.
+[244] M.-Y. You, F. Liu, W. Wang, G. Meng, Statistically planned and individually improved predictive maintenance management for continuously
+monitored degrading systems, IEEE Trans. Reliab. 59 (2010) 744–753.
+[245] X.S. Si, W. Wang, M.Y. Chen, C.H. Hu, D.H. Zhou, A degradation path-dependent approach for remaining useful life estimation with an exact and
+closed-form solution, Eur. J. Oper. Res. 226 (2013) 53–66.
+[246] X.S. Si, W.B. Wang, C.H. Hu, D.H. Zhou, M.G. Pecht, Remaining useful life estimation based on a nonlinear diffusion degradation process, IEEE Trans.
+Reliab. 61 (2012) 50–67.
+[247] K. Le Son, M. Fouladirad, A. Barros, E. Levrat, B. Iung, Remaining useful life estimation based on stochastic deterioration models: A comparative study,
+Reliab. Eng. Syst. Safety 112 (2013) 165–175.
+[248] X.S. Si, C.H. Hu, X.Y. Kong, D.H. Zhou, A residual storage life prediction approach for systems with operation state switches, IEEE Trans. Industr.
+Electron. (2014) 6304–6315.
+[249] L. Feng, H.L. Wang, X.S. Si, H.X. Zou, A state-space-based prognostic model for hidden and age-dependent nonlinear degradation process, IEEE Trans.
+Autom. Sci. Eng. 10 (2013) 1072–1086.
+[250] Z.S. Ye, Y. Wang, K.-L. Tsui, M. Pecht, Degradation data analysis using Wiener processes with measurement errors, IEEE Trans. Reliab. 62 (2013) 772–
+780.
+[251] X.S. Si, W.B. Wang, C.H. Hu, D.H. Zhou, Estimating remaining useful life with three-source variability in degradation modeling, IEEE Trans. Reliab. 63
+(2014) 167–190.
+[252] X.-S. Si, M.-Y. Chen, W. Wang, C.-H. Hu, D.-H. Zhou, Specifying measurement errors for required lifetime estimation performance, Eur. J. Oper. Res. 231
+(2013) 631–644.
+[253] X. Wang, N. Balakrishnan, B. Guo, Residual life estimation based on a generalized Wiener degradation process, Reliab. Eng. Syst. Safety 124 (2014) 13–
+23.
+[254] F. Sun, L. Liu, X. Li, H. Liao, Stochastic modeling and analysis of multiple nonlinear accelerated degradation processes through information fusion,
+Sensors 16 (2016) 1242.
+[255] Z. Zhang, C. Hu, X. Si, J. Zhang, J. Zheng, Stochastic degradation process modeling and remaining useful life estimation with flexible random-effects, J.
+Franklin Inst. 354 (2017) 2477–2499.
+[256] L. Cui, J. Huang, Y. Li, Degradation models with Wiener diffusion processes under calibrations, IEEE Trans. Reliab. 65 (2016) 613–623
+[257] N. Li, Y. Lei, L. Guo, T. Yan, J. Lin, Remaining useful life prediction based on a general expression of stochastic process models, IEEE Trans. Industr.
+Electron. 64 (2017) 5709–5718.
+[258] L. Bian, N. Gebraeel, Stochastic modeling and real-time prognostics for multi-component systems with degradation rate interactions, IIE Trans. 46
+(2014) 470–482.
+[259] X. Fang, R. Zhou, N. Gebraeel, An adaptive functional regression-based prognostic model for applications with missing data, Reliab. Eng. Syst. Safety
+133 (2015) 266–274.
+[260] C. Paroissin, Inference for the Wiener process with random initiation time, IEEE Trans. Reliab. 65 (2016) 147–157.
+[261] J. Van Noortwijk, A survey of the application of gamma processes in maintenance, Reliab. Eng. Syst. Safety 94 (2009) 2–21.
+[262] S.P. Kuniewski, J.A. van der Weide, J.M. van Noortwijk, Sampling inspection for the evaluation of time-dependent reliability of deteriorating systems
+under imperfect defect detection, Reliab. Eng. Syst. Safety 94 (2009) 1480–1490.
+[263] V. Bagdonavicius, M.S. Nikulin, Estimation in degradation models with explanatory variables, Lifetime Data Anal. 7 (2001) 85–103.
+[264] J. Lawless, M. Crowder, Covariates and random effects in a gamma process model with application to degradation and failure, Lifetime Data Anal. 10
+(2004) 213–227.
+[265] S. Chakraborty, N. Gebraeel, M. Lawley, H. Wan, Residual-life estimation for components with non-symmetric priors, IIE Trans. 41 (2009) 372–387.
+[266] C.-C. Tsai, S.-T. Tseng, N. Balakrishnan, Optimal burn-in policy for highly reliable products using gamma degradation process, IEEE Trans. Reliab. 60
+(2011) 234–245.
+[267] C.-C. Tsai, S.-T. Tseng, N. Balakrishnan, Mis-specification analyses of gamma and Wiener degradation processes, J. Stat. Plan. Infer. 141 (2011) 3725–
+3735.
+[268] C.-C. Tsai, S.-T. Tseng, N. Balakrishnan, Optimal design for degradation tests based on gamma processes with random effects, IEEE Trans. Reliab. 61
+(2012) 604–613.
+[269] K.L. Son, M. Fouladirad, A. Barros, Remaining useful life estimation on the non-homogenous gamma with noise deterioration based on Gibbs filtering:
+a case study, in: IEEE International Conference on Prognostics and Health Management, Denver, CO, USA, 2012, pp. 1–6.
+[270] X. Wang, N. Balakrishnan, B. Guo, P. Jiang, Residual life estimation based on bivariate non-stationary gamma degradation process, J. Stat. Comput.
+Simul. 85 (2013) 405–421.
+[271] W. Peng, Y.-F. Li, Y.-J. Yang, J.H. Mi, H.-Z. Huang, Leveraging degradation testing and condition monitoring for field reliability analysis with timevarying operating missions, IEEE Trans. Reliab. 64 (2015) 1367–1382.
+[272] H.-K. Wang, H.-Z. Huang, Y.-F. Li, Y.-J. Yang, Condition-based maintenance with scheduling threshold and maintenance threshold, IEEE Trans. Reliab.
+65 (2016) 513–524.
+[273] H.-C. Yan, J.-H. Zhou, C.K. Pang, Gamma process with recursive MLE for wear PDF prediction in precognitive maintenance under aperiodic monitoring,
+Mechatronics 31 (2015) 68–77.
+[274] X. Wang, D. Xu, An inverse Gaussian process model for degradation data, Technometrics 52 (2010) 188–197.
+[275] Z.-S. Ye, N. Chen, The inverse Gaussian process as a degradation model, Technometrics 56 (2014) 302–311.
+[276] Z.-S. Ye, L.-P. Chen, L.C. Tang, M. Xie, Accelerated degradation test planning using the inverse Gaussian process, IEEE Trans. Reliab. 63 (2014) 750–763.
+[277] N. Chen, Z.-S. Ye, Y. Xiang, L. Zhang, Condition-based maintenance using the inverse Gaussian degradation model, Eur. J. Oper. Res. 243 (2015) 190–
+199.
+[278] H. Qin, S. Zhang, W. Zhou, Inverse Gaussian process-based corrosion growth modeling and its application in the reliability analysis for energy
+pipelines, Front. Struct. Civil Eng. 7 (2013) 276–287.
+[279] S. Zhang, W. Zhou, H. Qin, Inverse Gaussian process-based corrosion growth model for energy pipelines considering the sizing error in inspection
+data, Corros. Sci. 73 (2013) 309–320.
+[280] C.-Y. Peng, Inverse Gaussian processes with random effects and explanatory variables for degradation data, Technometrics 57 (2015) 100–111.
+[281] Z. Liu, X. Ma, J. Yang, Y. Zhao, Reliability modeling for systems with multiple degradation processes using inverse Gaussian process and copulas, Math.
+Probl Eng. 2014 (2014) 1–10.
+[282] W. Peng, Y.-F. Li, Y.-J. Yang, S.-P. Zhu, H.-Z. Huang, Bivariate analysis of incomplete degradation observations based on inverse Gaussian processes and
+copulas, IEEE Trans. Reliab. 65 (2016) 624–639.
+[283] G. Giner, G.K. Smyth, statmod: Probability calculations for the inverse gaussian distribution, The R J. 8 (2016) 1–18.
+[284] D. Pan, J.-B. Liu, J. Cao, Remaining useful life estimation using an inverse Gaussian degradation model, Neurocomputing 185 (2016) 64–72.
+[285] J.P. Kharoufeh, Explicit results for wear processes in a Markovian environment, Oper. Res. Lett. 31 (2003) 237–244.
+[286] J.P. Kharoufeh, S.M. Cox, Stochastic models for degradation-based reliability, IIE Trans. 37 (2005) 533–542.
+[287] J.P. Kharoufeh, C.J. Solo, M.Y. Ulukus, Semi-Markov models for degradation-based reliability, IIE Trans. 42 (2010) 599–612.
+[288] M. Kurt, J.P. Kharoufeh, Optimally maintaining a Markovian deteriorating system with limited imperfect repairs, Eur. J. Oper. Res. 205 (2010) 368–
+380.
+[289] M. Giorgio, M. Guida, G. Pulcini, An age- and state-dependent Markov model for degradation processes, IIE Trans. 43 (2011) 621–632.
+[290] Y. Liu, M.J. Zuo, Y.-F. Li, H.-Z. Huang, Dynamic reliability assessment for multi-state systems utilizing system-level inspection data, IEEE Trans. Reliab.
+64 (2015) 1287–1299.
+[291] C. Bunks, D. McCarthy, T. Al-Ani, Condition-based maintenance of machines using hidden Markov models, Mech. Syst. Signal Process. 14 (2000) 597–
+612.
+[292] D. Lin, V. Makis, Recursive filters for a partially observable system subject to random failure, Adv. Appl. Probab. 35 (2003) 207–227.
+[293] F. Camci, R.B. Chinnam, Health-state estimation and prognostics in machining processes, IEEE Trans. Automat. Sci. Eng. 7 (2010) 581–597.
+[294] S.S.H. Zaidi, S. Aviyente, M. Salman, K.-K. Shin, E.G. Strangas, Prognosis of gear failures in DC starter motors using hidden Markov models, IEEE Trans.
+Industr. Electron. 58 (2011) 1695–1706.
+[295] S.-Z. Yu, Hidden semi-Markov models, Artif. Intell. 174 (2010) 215–243.
+[296] M. Dong, D. He, Hidden semi-Markov model-based methodology for multi-sensor equipment health diagnosis and prognosis, Eur. J. Oper. Res. 178
+(2007) 858–878.
+[297] M. Dong, D. He, A segmental hidden semi-Markov model (HSMM)-based diagnostics and prognostics framework and methodology, Mech. Syst. Signal
+Process. 21 (2007) 2248–2266.
+[298] K. Medjaher, D.A. Tobon-Mejia, N. Zerhouni, Remaining useful life estimation of critical components with application to bearings, IEEE Trans. Reliab.
+61 (2012) 292–302.
+[299] D.A. Tobon-Mejia, K. Medjaher, N. Zerhouni, G. Tripot, A data-driven failure prognostics method based on mixture of gaussians hidden Markov
+models, IEEE Trans. Reliab. 61 (2012) 491–503.
+[300] Y. Peng, M. Dong, A prognosis method using age-dependent hidden semi-Markov model for equipment health prediction, Mech. Syst. Signal Process.
+25 (2011) 237–252.
+[301] D. Cox, Regression models and life-tables, J. Roy. Stat. Soc. 34 (1972) 187–220.
+[302] V. Makis, A.K. Jardine, Optimal replacement in the proportional hazards model, INFOR: Inform. Syst. Oper. Res. 30 (1992) 172–183.
+[303] V. Makis, X. Jiang, Optimal replacement under partial observations, Math. Oper. Res. 28 (2003) 382–394.
+[304] D. Kumar, B. Klefsjö, Proportional hazards model: a review, Reliab. Eng. Syst. Safety 44 (1994) 177–188.
+[305] A. Jardine, D. Banjevic, V. Makis, Optimal replacement policy and the structure of software for condition-based maintenance, J. Qual. Maint. Eng. 3
+(1997) 109–119.
+[306] D. Banjevic, A. Jardine, V. Makis, M. Ennis, A control-limit policy and software for condition-based maintenance optimization, INFOR: Inform. Syst.
+Oper. Res. 39 (2001) 32–50.
+
+
+
+
+[307] P. Vlok, J. Coetzee, D. Banjevic, A. Jardine, V. Makis, Optimal component replacement decisions using vibration monitoring and the proportionalhazards model, J. Oper. Res. Soc. 53 (2002) 193–202.
+[308] D. Banjevic, A. Jardine, Calculation of reliability function and remaining useful life for a Markov failure time process, IMA J. Manage. Math. 17 (2006)
+115–130.
+[309] E.A. Elsayed, H. Zhang, Design of PH-based accelerated life testing plans under multiple-stress-type, Reliab. Eng. Syst. Safety 92 (2007) 286–292.
+[310] D. Lugtigheid, A.K. Jardine, X. Jiang, Optimizing the performance of a repairable system under a maintenance and repair contract, Qual. Reliab. Eng.
+Int. 23 (2007) 943–960.
+[311] D. Banjevic, Remaining useful life in theory and practice, Metrika 69 (2009) 337–349.
+[312] A. Ghasemi, S. Yacout, M.-S. Ouali, Evaluating the reliability function and the mean residual life for equipment with unobservable states, IEEE Trans.
+Reliab. 59 (2010) 45–54.
+[313] X. Wu, S.M. Ryan, Optimal peplacement in the proportional hazards model with semi-Markovian covariate process and continuous monitoring, IEEE
+Trans. Reliab. 60 (2011) 580–589.
+[314] M.Y. You, G. Meng, Updated proportional hazards model for equipment residual life prediction, Int. J. Qual. Reliab. Manage. 28 (2011) 781–795.
+[315] L. Li, Z. Sun, X. Xu, K. Zhang, Multi-zone proportional hazard model for a multi-stage degradation process, in: ASME 2013 International Manufacturing
+Science and Engineering Conference collocated with the 41st North American Manufacturing Research Conference, American Society of Mechanical
+Engineers, Madison, Wisconsin, USA, 2013, pp. 1–8.
+[316] H.T. Pham, B.-S. Yang, T.T. Nguyen, Machine performance degradation assessment and remaining useful life prediction using proportional hazard
+model and support vector machine, Mech. Syst. Signal Process. 32 (2012) 320–330.
+[317] N.Z. Gebraeel, M.A. Lawley, A neural network degradation model for computing and updating residual life distributions, IEEE Trans. Autom. Sci. Eng. 5
+(2008) 154–163.
+[318] S.-J. Wu, N. Gebraeel, M.A. Lawley, Y. Yih, A neural network integrated decision support system for condition-based optimal predictive maintenance
+policy, IEEE Trans. Syst. Man Cybern – Part A: Syst. Hum. 37 (2007) 226–236.
+[319] Z. Tian, An artificial neural network method for remaining useful life prediction of equipment subject to condition monitoring, J. Intell. Manuf. 23
+(2012) 227–237.
+[320] Z. Tian, A neural network approach for remaining useful life prediction utilizing both failure and suspension data, in: Reliability and Maintainability
+Symposium, IEEE, 2010, pp. 1–6.
+[321] M. Elforjani, Estimation of remaining useful life of slow speed bearings using acoustic emission signals, J. Nondestr. Eval. 35 (2016) 32–62.
+[322] C. Sbarufatti, M. Corbetta, A. Manes, M. Giglio, Sequential Monte-Carlo sampling based on a committee of artificial neural networks for posterior state
+estimation and residual lifetime prediction, Int. J. Fatigue 83 (2016) 10–23.
+[323] R. Zemouri, D. Racoceanu, N. Zerhouni, Recurrent radial basis function network for time-series prediction, Eng. Appl. Artif. Intell. 16 (2003) 453–463.
+[324] D. Liu, W. Xie, H. Liao, Y. Peng, An integrated probabilistic approach to lithium-ion battery remaining useful life estimation, IEEE Trans. Instrum. Meas.
+64 (2014) 660–670.
+[325] D. Li, W. Wang, F. Ismail, Fuzzy neural network technique for system state forecasting, IEEE Trans. Cybern. 43 (2013) 1484–1494.
+[326] K. Javed, R. Gouriveau, N. Zerhouni, SW-ELM: A summation wavelet extreme learning machine algorithm with a priori parameter initialization,
+Neurocomputing 123 (2014) 299–307.
+[327] Y. Lei, Z. He, Y. Zi, Q. Hu, Fault diagnosis of rotating machinery based on multiple ANFIS combination with GAS, Mech. Syst. Signal Process. 21 (2007)
+2280–2294.
+[328] J.-S.R. Jang, C.-T. Sun, Neuro-Fuzzy and Soft Computing, Prentice-Hall Inc, Englewood Cliffs, NJ, 1997.
+[329] W. Wang, M.F. Golnaraghi, F. Ismail, Prognosis of machine health condition using neuro-fuzzy systems, Mech. Syst. Signal Process. 18 (2004) 813–
+831.
+[330] W. Wang, An adaptive predictor for dynamic system forecasting, Mech. Syst. Signal Process. 21 (2007) 809–823.
+[331] W. Wang, J. Vrbanek, An evolving fuzzy predictor for industrial applications, IEEE Trans. Fuzzy Syst. 16 (2008) 1439–1449.
+[332] J. Liu, W. Wang, F. Golnaraghi, A multi-step predictor with a variable input pattern for system state forecasting, Mech. Syst. Signal Process. 23 (2009)
+1586–1599.
+[333] Z. Fagang, C. Jin, G. Lei, L. Xinglin, Neuro-fuzzy based condition prediction of bearing health, J. Vib. Control 15 (2009) 1079–1091.
+[334] V.T. Tran, B.-S. Yang, A.C.C. Tan, Multi-step ahead direct prediction for the machine condition prognosis using regression trees and neuro-fuzzy
+systems, Expert Syst. Appl. 36 (2009) 9378–9387.
+[335] C. Chen, B. Zhang, G. Vachtsevanos, M. Orchard, Machine condition prediction based on adaptive neuro–fuzzy and high-order particle filtering, IEEE
+Trans. Industr. Electron. 58 (2011) 4353–4364.
+[336] C. Chen, G. Vachtsevanos, M.E. Orchard, Machine remaining useful life prediction: An integrated adaptive neuro-fuzzy and high-order particle
+filtering approach, Mech. Syst. Signal Process. 28 (2012) 597–607.
+[337] S. Hussain, H.A. Gabbar, Vibration analysis and time series prediction for wind turbine gearbox prognostics, IJPHM Spec. Issue Wind Turbine PHM 1
+(2013) 69–80.
+[338] V.N. Vapnik, An overview of statistical learning theory, IEEE Trans. Neural Networks 10 (1999) 988–999.
+[339] A. Widodo, B.-S. Yang, Machine health prognostics using survival probability and support vector machine, Expert Syst. Appl. 38 (2011) 8430–8437.
+[340] V.T. Tran, B.-S. Yang, An intelligent condition-based maintenance platform for rotating machinery, Expert Syst. Appl. 39 (2012) 2977–2988.
+[341] J. Liu, V. Vitelli, E. Zio, R. Seraoui, A novel dynamic-weighted probabilistic support vector regression-based ensemble for prognostics of time series
+data, IEEE Trans. Reliab. 64 (2015) 1203–1213.
+[342] J. Liu, E. Zio, An adaptive online learning approach for support vector regression: Online-SVR-FID, Mech. Syst. Signal Process. 76–77 (2016) 796–809.
+[343] W. Zhao, T. Tao, E. Zio, W. Wang, A novel hybrid method of parameters tuning in support vector regression for reliability prediction: Particle swarm
+optimization combined with analytical selection, IEEE Trans. Reliab. (2016) 1–13.
+[344] C.M. Bishop, M.E. Tipping, Variational relevance vector machines, in: 16th Conference on Uncertainty in Artificial Intelligence, Morgan Kaufmann
+Publishers Inc., 2000, pp. 46–53.
+[345] M.E. Tipping, Sparse Bayesian learning and the relevance vector machine, J. Mach. Learn. Res. 1 (2001) 211–244.
+[346] W.J. Padgett, M.A. Tomlinson, Inference from accelerated degradation and failure data based on Gaussian process models, Lifetime Data Anal. 10
+(2004) 191–206.
+[347] C.E. Rasmussen, Gaussian processes in machine learning, Advanced Lectures on Machine Learning, Springer, 2004, pp. 63-71.
+[348] K. Goebel, B. Saha, A. Saxena, N. Mct, N. Riacs, A comparison of three data-driven techniques for prognostics, in: 62nd Meeting of the Society For
+Machinery Failure Prevention Technology, 2008, pp. 119–131.
+[349] S. Saha, B. Saha, A. Saxena, K. Goebel, Distributed prognostic health management with Gaussian process regression, in: IEEE Aerospace Conference,
+IEEE, 2010, pp. 1–8.
+[350] M.F. Huber, Recursive Gaussian process: on-line regression and learning, Pattern Recogn. Lett. 45 (2014) 85–91.
+[351] D. Liu, J. Pang, J. Zhou, Y. Peng, M. Pecht, Prognostics for state of health estimation of lithium-ion batteries based on combination Gaussian process
+functional regression, Microelectron. Reliab. 53 (2013) 832–839.
+[352] S. Aye, P. Heyns, An integrated Gaussian process regression for prediction of remaining useful life of slow speed bearings based on acoustic emission,
+Mech. Syst. Signal Process. 84 (2017) 485–498.
+[353] B. Saha, K. Goebel, S. Poll, J. Christophersen, Prognostics methods for battery health monitoring using a Bayesian framework, IEEE Trans. Instrum.
+Meas. 58 (2009) 291–296.
+[354] J. Liu, W. Wang, F. Ma, Y.B. Yang, C.S. Yang, A data-model-fusion prognostic framework for dynamic system state forecasting, Eng. Appl. Artif. Intell. 25
+(2012) 814–823.
+[355] P. Baraldi, M. Compare, S. Sauco, E. Zio, Ensemble neural network-based particle filtering for prognostics, Mech. Syst. Signal Process. 41 (2013) 288–
+300.
+[356] G. Bai, P. Wang, Prognostics using an adaptive self-cognizant dynamic system approach, IEEE Trans. Reliab. 65 (2016) 1427–1437.
+[357] J. Yu, Machine health prognostics using the Bayesian-inference-based probabilistic indication and high-order particle filtering framework, J. Sound
+Vib. 358 (2015) 97–110.
+[358] D.E. Acuña, M.E. Orchard, Particle-filtering-based failure prognosis via sigma-points: Application to Lithium-Ion battery State-of-Charge monitoring,
+Mech. Syst. Signal Process. 85 (2017) 827–848.
+[359] S. Du, J. Lv, L. Xi, Degradation process prediction for rotational machinery based on hybrid intelligent model, Robotics Comput.-Integr. Manuf. 28
+(2012) 190–207.
+[360] F. Di Maio, K.L. Tsui, E. Zio, Combining relevance vector machines and exponential regression for bearing residual life estimation, Mech. Syst. Signal
+Process. 31 (2012) 405–427.
+[361] E. Zio, F. Di Maio, Fatigue crack growth estimation by relevance vector machine, Expert Syst. Appl. 39 (2012) 10681–10692.
+[362] C. Sankavaram, B. Pattipati, A. Kodali, K. Pattipati, M. Azam, S. Kumar, M. Pecht, Model-based and data-driven prognosis of automotive and electronic
+systems, in: IEEE International Conference on Automation Science and Engineering, IEEE, 2009, pp. 96–101.
+[363] L.X. Liao, F. Kottig, Review of hybrid prognostics approaches for remaining useful life prediction of engineered systems, and an application to battery
+life prediction, IEEE Trans. Reliab. 63 (2014) 191–207.
+[364] A. Saxena, J. Celaya, B. Saha, S. Saha, K. Goebel, Metrics for offline evaluation of prognostic performance, Int. J. Prog. Health Manage. 1 (2010) 1–20.
+[365] X.S. Si, An adaptive prognostic approach via nonlinear degradation modeling: Application to battery data, IEEE Trans. Industr. Electron. 62 (2015)
+5082–5095.
+[366] X.S. Si, C.H. Hu, W.B. Wang, M.Y. Chen, An adaptive and nonlinear drift-based wiener process for remaining useful life estimation, in: Prognostics and
+System Health Management Conference, IEEE, Shenzhen, 2011, pp. 1–5.
+[367] M. Jouin, R. Gouriveau, D. Hissel, M.-C. Péra, N. Zerhouni, Particle filter-based prognostics: Review, discussion and perspectives, Mech. Syst. Signal
+Process. 72–73 (2016) 2–31.
+[368] W.Q. Meeker, Y. Hong, Reliability meets big data: Opportunities and challenges, Qual. Eng. 26 (2013) 102–116.
+[369] F. Jia, Y. Lei, J. Lin, X. Zhou, N. Lu, Deep neural networks: A promising tool for fault characteristic mining and intelligent diagnosis of rotating
+machinery with massive data, Mech. Syst. Signal Process. 72–73 (2016) 303–315.
+[370] S.J. Pan, Q. Yang, A survey on transfer learning, IEEE Trans. Knowl. Data Eng. 22 (2010) 1345–1359.
+[371] S. Wu, M.J. Zuo, A. Parey, Simulation of spur gear dynamics and estimation of fault growth, J. Sound Vib. 317 (2008) 608–624.
+[372] Y. Lei, Z. Liu, J. Lin, F. Lu, Phenomenological models of vibration signals for condition monitoring and fault diagnosis of epicyclic gearboxes, J. Sound
+Vib. 369 (2016) 266–281.
+[373] X. Fang, K. Paynabar, N. Gebraeel, Multistream sensor fusion-based prognostics model for systems with single failure modes, Reliab. Eng. Syst. Safety
+159 (2016) 322–331.
+[374] Y. Cao, Y. Xie, N. Gebraeel, Multi-sensor slope change detection, Ann. Oper. Res. (2016) 1–27
+
+

@@ -1,0 +1,73 @@
+# config.yaml - exp008_feature_visualization
+# Parametros tecnicos del experimento. Contenido humano (hallazgos,
+# decisiones) va en notes.md; este archivo es solo configuracion.
+
+experiment_id: exp008_feature_visualization
+
+paths:
+  features_dir: "results/exp007_time_features/features"
+  input_files:
+    learning_set: "tabla_maestra_learning_set.parquet"
+    full_test_set: "tabla_maestra_full_test_set.parquet"
+  output_dir: "results/exp008_feature_visualization"
+  log_file: "results/exp008_feature_visualization/logs/exp008_feature_visualization.log"
+
+time_column:
+  source: "timestamp_sec"
+  derived: "tiempo_horas"
+  conversion_factor: 3600.0  # segundos -> horas
+
+features:
+  - h_crest_factor
+  - h_kurtosis
+  - h_mean
+  - h_peak
+  - h_peak_to_peak
+  - h_rms
+  - h_skewness
+  - h_std
+  - v_crest_factor
+  - v_kurtosis
+  - v_mean
+  - v_peak
+  - v_peak_to_peak
+  - v_rms
+  - v_skewness
+  - v_std
+
+grouping:
+  # Los bearings se agrupan segun dataset de origen, preservando el
+  # orden original (primera aparicion) sin reordenar ni mezclar.
+  learning_set:
+    expected_count: 6
+    image: "img1_learning_set.png"
+    grid: [2, 3]
+  full_test_set_a:
+    expected_count: 6
+    image: "img2_full_test_set_a.png"
+    grid: [2, 3]
+    source: "full_test_set"
+    slice: "first_6"
+  full_test_set_b:
+    expected_count: 5
+    image: "img3_full_test_set_b.png"
+    grid: [2, 3]
+    source: "full_test_set"
+    slice: "remaining"
+
+plot:
+  type: "time_series"
+  x_axis: "tiempo_horas"
+  y_scale: "linear"
+  y_axis_scope: "global_per_feature"  # min/max global entre los 17 bearings manda
+  dpi: 120
+
+validation:
+  required_columns:
+    - data_set
+    - bearing_id
+    - file_id
+    - acc_filename
+    - timestamp_sec
+    - condition
+  expected_total_bearings: 17

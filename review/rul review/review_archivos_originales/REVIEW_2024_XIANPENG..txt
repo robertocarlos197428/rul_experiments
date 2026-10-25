@@ -1,0 +1,402 @@
+1. Shukri FAA, Jusoh RM, Ramlan A, Anuar MSM (2013) An
+Overview of Fleet Maintenance and operating cost: Key Components and methods. Int J Commer Bus Manage 2(6):443–452
+2. Mobley RK (2002) An introduction to predictive maintenance,
+2nd edn. Butterworth-Heinemann, Amsterdam; New York
+3. Lei Y (2017) Intelligent fault diagnosis and remaining useful life
+prediction of rotating machinery. Butterworth-Heinemann Ltd,
+Xi’an Jiaotong University Press, Oxford, United Kingdom
+4. Zerhouni N (2016) From prognostics and health systems management to predictive maintenance 1: monitoring and prognostics.
+ISTE Ltd/John Wiley and Sons Inc, Hoboken, NJ
+5. Ferreira C, Gonçalves G (2022) Remaining useful life prediction
+and challenges: a literature review on the use of machine learning
+methods. J Manuf Syst 63:550–562. https://doi.org/10.1016/j.
+jmsy.2022.05.010
+6. Tao H, Shi H, Qiu J et al (2024) Planetary gearbox fault diagnosis based on FDKNN-DGAT with few labeled data. Meas Sci
+Technol 35:025036. https://doi.org/10.1088/1361-6501/ad0f6d
+7. Yu W, Kim IY, Mechefske C (2019) Remaining useful life estimation using a bidirectional recurrent neural network based
+autoencoder scheme. Mech Syst Signal Process 129:764–780.
+https://doi.org/10.1016/j.ymssp.2019.05.005
+8. Lei J, Zhang W, Jiang Z, Gao Z (2022) A review: Prediction Method
+for the remaining useful life of the Mechanical System. J Fail Anal
+Prev 22:2119–2137. https://doi.org/10.1007/s11668-022-01532-4
+9. Zhang Y, Fang L, Qi Z, Deng H (2023) A review of remaining
+useful life prediction approaches for Mechanical Equipment.
+IEEE Sens J 23:29991–30006. https://doi.org/10.1109/JSEN.
+2023.3326487
+10. Chen J, Huang R, Chen Z et al (2023) Transfer learning algorithms for bearing remaining useful life prediction: a comprehensive review from an industrial application perspective. Mech
+Syst Signal Process 193:110239. https://doi.org/10.1016/j.ymssp.
+2023.110239
+11. Li H, Zhang Z, Li T, Si X (2024) A review on physics-informed
+data-driven remaining useful life prediction: challenges and
+opportunities. Mech Syst Signal Process 209:111120. https://
+doi.org/10.1016/j.ymssp.2024.111120
+12. Lei Y, Li N, Guo L et al (2018) Machinery health prognostics: a
+systematic review from data acquisition to RUL prediction. Mech
+Syst Signal Process 104:799–834. https://doi.org/10.1016/j.
+ymssp.2017.11.016
+13. Reza MS, Mannan M, Mansor M et al (2024) Recent advancement of remaining useful life prediction of lithium-ion battery in electric vehicle applications: a review of modelling
+mechanisms, network configurations, factors, and outstanding
+issues. Energy Rep 11:4824–4848. https://doi.org/10.1016/j.
+egyr.2024.04.039
+14. Li X, Yu D, Søren Byg V, Daniel Ioan S (2023) The development
+of machine learning-based remaining useful life prediction for
+lithium-ion batteries. J Energy Chem 82:103–121. https://doi.
+org/10.1016/j.jechem.2023.03.026
+15. Song K, Hu D, Tong Y, Yue X (2023) Remaining life prediction of lithium-ion batteries based on health management: a review. J Energy
+Storage 57:106193. https://doi.org/10.1016/j.est.2022.106193
+16. Kim E, Kim M, Kim J et al (2023) Data-Driven methods for
+Predicting the State of Health, State of Charge, and remaining
+useful life of Li-Ion batteries: a Comprehensive Review. Int J
+Precis Eng Manuf. https://doi.org/10.1007/s12541-023-00832-5
+17. Vollert S, Theissler A (2021) Challenges of machine learningbased RUL prognosis: a review on NASA’s C-MAPSS data set.
+In: 2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Vasteras, Sweden, pp
+1–8. https://doi.org/10.1109/ETFA45728.2021.9613682
+18. Frederick DK, DeCastro JA, Litt JS (2007) User’s guide for
+the commercial modular aero-propulsion system simulation
+(C-MAPSS). NASA/ARL, Technical Manual/TM-2007-215026.
+https://ntrs.nasa.gov/citations/20070034949
+19. Saxena A, Goebel K, Simon D, Eklund N (2008) Damage propagation modeling for aircraft engine run-to-failure simulation. In:
+2008 international conference on prognostics and health management. IEEE, Denver, CO, USA, pp 1–9. https://doi.org/10.1109/
+PHM.2008.4711414
+20. Chao MA, Kulkarni C, Goebel K, Fink O (2020) Aircraft
+engine run-to-failure data set under real flight conditions. Other
+– CMAPSS Data Set on the PCOE website. https://ti.arc.nasa.
+gov/tech/dash/groups/pcoe/prognosticdata-repository/
+21. Zhang C, Lim P, Qin AK, Tan KC (2017) Multiobjective Deep
+Belief Networks Ensemble for remaining useful life estimation in
+Prognostics. IEEE Trans Neural Netw Learn Syst 28:2306–2318.
+https://doi.org/10.1109/TNNLS.2016.2582798
+22. Kefalas M, Baratchi M, Apostolidis A et al (2021) Automated machine
+learning for remaining useful life estimation of aircraft engines.
+2021 IEEE international conference on prognostics and health management (ICPHM). IEEE, Detroit (Romulus), MI, USA, pp 1–9.
+https://doi.org/10.1109/ICPHM51084.2021.9486549
+23. Kumar Mp P, Gao Z-J, Chen K-C (2023) Time Series-based sensor selection and lightweight neural Architecture search for RUL
+Estimation in Future Industry 4.0. IEEE J Emerg Sel Top Circuits
+Syst 13:514–523. https://doi.org/10.1109/JETCAS.2023.3248642
+24. Zhou Z, Yang L, Wang Z, Yao Y (2022) Remaining useful life prediction of aero-engine using CNN-LSTM and mRMR feature selection.
+In: 2022 4th International Conference on System Reliability and
+Safety Engineering (SRSE). IEEE, Guangzhou, China, pp 41–45.
+https://doi.org/10.1109/SRSE56746.2022.10067318
+25. Koutroulis G, Mutlu B, Kern R (2022) Constructing robust health
+indicators from complex engineered systems via anticausal learning. Eng Appl Artif Intell 113:104926. https://doi.org/10.1016/j.
+engappai.2022.104926
+26. Nectoux P, Gouriveau R, Medjaher K, Ramasso E, ChebelMorello B, Zerhouni N, Varnier C (2012) PRONOSTIA: An
+experimental platform for bearings accelerated degradation
+tests. In: Proceedings of the IEEE international conference on
+prognostics and health management, Denver, CO, USA, pp 1–8.
+https://doi.org/10.1109/PHM.2012.6227845
+27. Yaguo L, Tianyu H, Biao W et al (2019) XJTU-SY Rolling element Bearing Accelerated Life Test datasets: a Tutorial. J Mech
+Eng 55:1. https://doi.org/10.3901/JME.2019.16.001
+28. Qiu H, Lee J, Lin J, Yu G (2006) Wavelet filter-based weak signature detection method and its application on rolling element
+bearing prognostics. J Sound Vib 289:1066–1090. https://doi.
+org/10.1016/j.jsv.2005.03.007
+29. Li Y, Wang H, Li J, Tan J (2022) A 2-D Long Short-Term Memory Fusion Networks for bearing remaining useful life prediction.
+IEEE Sens J 22:21806–21815. https://doi.org/10.1109/JSEN.
+2022.3202606
+30. Wu J-Y, Wu M, Chen Z et al (2021) Degradation-aware remaining
+useful life Prediction with LSTM Autoencoder. IEEE Trans Instrum
+Meas 70:1–10. https://doi.org/10.1109/TIM.2021.3055788
+31. Xue B, Xu H, Huang X et al (2022) Similarity-based prediction method for machinery remaining useful life: a review. Int
+J Adv Manuf Technol 121:1501–1531. https://doi.org/10.1007/
+s00170-022-09280-3
+32. Mathew V, Toby T, Singh V, Rao BM, Kumar MG (2017) Prediction of remaining useful lifetime (RUL) of turbofan engine using
+machine learning. In: 2017 IEEE International Conference on
+Circuits and Systems (ICCS). IEEE, Thiruvananthapuram, pp
+306–331. https://doi.org/10.1109/ICCS1.2017.8326010
+33. Berghout T, Mouss LH, Kadri O, Hadjidj N (2020) Regularized
+length changeable extreme learning machine with incremental
+learning enhancements for remaining useful life prediction of
+aircraft engines. In: 2020 1st International Conference on Communications, Control Systems and Signal Processing (CCSSP).
+IEEE, EL OUED, Algeria, pp 358–363. https://doi.org/10.1109/
+CCSSP49278.2020.9151607
+34. De Pater I, Mitici M (2022) Novel Metrics to evaluate probabilistic remaining useful life prognostics with applications to Turbofan engines. PHM Soc Eur Conf 7:96–109. https://doi.org/10.
+36001/phme.2022.v7i1.3320
+35. De Pater I, Reijns A, Mitici M (2022) Alarm-based predictive maintenance scheduling for aircraft engines with imperfect remaining useful life prognostics. Reliab Eng Syst Saf
+221:108341. https://doi.org/10.1016/j.ress.2022.108341
+36. Lövberg A (2021) Remaining useful life prediction of aircraft
+engines with variable length input sequences. Annu Conf PHM
+Soc. https://doi.org/10.36001/phmconf.2021.v13i1.3108. 13:
+37. Liu L, Wang L, Yu Z (2021) Remaining useful life estimation of
+aircraft engines based on deep convolution neural network and
+LightGBM combination model. Int J Comput Intell Syst 14:165.
+https://doi.org/10.1007/s44196-021-00020-1
+38. Li X, Ding Q, Sun J-Q (2018) Remaining useful life estimation in
+prognostics using deep convolution neural networks. Reliab Eng
+Syst Saf 172:1–11. https://doi.org/10.1016/j.ress.2017.11.021
+39. Lan G, Li Q, Cheng N (2018) Remaining useful life estimation
+of turbofan engine using LSTM neural networks. In: 2018 IEEE
+CSAA Guidance, Navigation and Control Conference (CGNCC).
+IEEE, Xiamen, China, pp 1–5. https://doi.org/10.1109/GNCC4
+2960.2018.9019107
+40. Athanasakis G, Filios G, Katsidimas I et al (2022) TinyML-based
+approach for remaining useful life prediction of turbofan engines.
+In: 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, Stuttgart, Germany, pp 1–8. https://doi.org/10.1109/ETFA52439.2022.9921629
+41. Sohaidan FNB, Muneer A, Taib SM (2021) Remaining useful life prediction of turbofan engine using long-short term memory. In: 2021
+international conference on innovation and intelligence for informatics, computing, and technologies (3ICT). IEEE, Zallaq, Bahrain, pp
+1–6. https://doi.org/10.1109/3ICT53449.2021.9581576
+42. Liu J, Lei F, Pan C et al (2021) Prediction of remaining useful life of
+multi-stage aero-engine based on clustering and LSTM fusion. Reliab
+Eng Syst Saf 214:107807. https://doi.org/10.1016/j.ress.2021.107807
+43. Zheng S, Ristovski K, Farahat A, Gupta C (2017) Long shortterm memory network for remaining useful life estimation.
+In: 2017 IEEE International Conference on Prognostics and
+Health Management (ICPHM). IEEE, Dallas, TX, USA, pp
+88–95. https://doi.org/10.1109/ICPHM.2017.7998311
+44. Ruan D, Wu Y, Yan J (2021) Remaining useful life prediction for
+aero-engine based on LSTM and CNN. In: 2021 33rd Chinese control and decision conference (CCDC). IEEE, Kunming, China, pp
+6706–6712. https://doi.org/10.1109/CCDC52312.2021.9601773
+45. Montoya Herrera LF (2020) LSTM Neural Networks for Remaining Useful Life Estimation of Turbofan Engines. Tecnologico de
+monterrey, Mexico
+46. Maulana F, Starr A, Ompusunggu AP (2023) Explainable DataDriven Method combined with bayesian filtering for remaining useful lifetime prediction of aircraft engines using NASA
+CMAPSS datasets. Machines 11:163. https://doi.org/10.3390/
+machines11020163
+47. Xinxin X, Qing L, Nong C (2016) Remaining useful life prognostics of aircraft engine based on fusion algorithm. In: 2016
+IEEE Chinese Guidance, Navigation and Control Conference
+(CGNCC). IEEE, Nanjing, China, pp 628–633. https://doi.org/
+10.1109/CGNCC.2016.7828859
+48. Fu X, Xia X, Zhong S et al (2021) A novel label correction method for
+remaining useful life prediction of turbofan engines. In: 2021 IEEE
+International Conference on Sensing, Diagnostics, Prognostics, and
+Control (SDPC). IEEE, Weihai, China, pp 74–80. https://doi.org/10.
+1109/SDPC52933.2021.9563358
+49. Asif O, Haider SA, Naqvi SR et al (2022) A deep learning model
+for remaining useful life prediction of Aircraft Turbofan Engine
+on C-MAPSS dataset. IEEE Access 10:95425–95440. https://doi.
+org/10.1109/ACCESS.2022.3203406
+50. Bi J-X, Fan W-Z, Wang S-B (2021) Remaining life prediction
+for aircraft turbine engines based on LSTM-RNN - HMM –
+APPROACH. IOP Conf Ser Mater Sci Eng 1043:022033. https://
+doi.org/10.1088/1757-899X/1043/2/022033
+51. Tang J, Xiao L (2020) The improvement of remaining useful life
+prediction for aero-engines by classification and deep learning. In:
+2020 11th International Conference on Prognostics and System
+Health Management (PHM-2020 Jinan). IEEE, Jinan, China, pp
+130–136. https://doi.org/10.1109/PHM-Jinan48558.2020.00030
+52. Zhang Y, Xin Y, Liu Z et al (2022) Health status assessment and
+remaining useful life prediction of aero-engine based on BiGRU
+and MMoE. Reliab Eng Syst Saf 220:108263. https://doi.org/10.
+1016/j.ress.2021.108263
+53. Coursey A (2022) Data-driven models for remaining useful life
+estimation of aircraft engines and hard disk drives. Murray State
+University. Austin Coursey
+54. Yang C, Wang T, Li Y (2022) A prediction model of turbofan
+engine remaining life based on improved algorithm. In: 2022
+IEEE 6th Information Technology and Mechatronics Engineering Conference (ITOEC). IEEE, Chongqing, China, pp 309–
+314. https://doi.org/10.1109/ITOEC53115.2022.9734691
+55. Cohen J, Huan X, Ni J (2023) Fault Prognosis of Turbofan
+engines: eventual failure prediction and remaining useful life
+estimation. Int J Prognostics Health Manage (IJPHM). https://
+doi.org/10.48550/arXiv.2303.12982
+56. Chen J, Jing H, Chang Y, Liu Q (2019) Gated recurrent unit
+based recurrent neural network for remaining useful life prediction of nonlinear deterioration process. Reliab Eng Syst Saf
+185:372–382. https://doi.org/10.1016/j.ress.2019.01.006
+57. Sun H, Li Y, Hou Y (2021) Remaining useful life prediction
+of turbofan engine based on probabilistic principal components
+analysis and gated recurrent unit. In: 2021 CAA symposium on
+fault detection, supervision, and safety for technical processes
+(SAFEPROCESS). IEEE, Chengdu, China, pp 1–5. https://doi.
+org/10.1109/SAFEPROCESS52771.2021.9693652
+58. Banda T, Farid AA, Li C et al (2022) Application of machine
+vision for tool condition monitoring and tool performance optimization–a review. Int J Adv Manuf Technol 121:7057–7086.
+https://doi.org/10.1007/s00170-022-09696-x
+59. Listou Ellefsen A, Bjørlykhaug E, Æsøy V et al (2019) Remaining useful life predictions for turbofan engine degradation using
+semi-supervised deep architecture. Reliab Eng Syst Saf 183:240–
+251. https://doi.org/10.1016/j.ress.2018.11.027
+60. Zhang Y, Tang X, Zhang X (2022) Remaining useful life predictions for turbofan engine using semi-supervised DBN-LSTM
+joint training model. In: 2022 8th International Conference
+on Control, Decision and Information Technologies (CoDIT).
+IEEE, Istanbul, Turkey, pp 94–99. https://doi.org/10.1109/CoDIT
+55151.2022.9804032
+61. Li J, Jia Y, Niu M et al (2023) Remaining useful life prediction of
+Turbofan engines using CNN-LSTM-SAM Approach. IEEE Sens
+J 23:10241–10251. https://doi.org/10.1109/JSEN.2023.3261874
+62. Solis-Martin D, Galan-Paez J, Borrego-Diaz J (2021) A stacked
+deep convolutional neural network to predict the remaining useful life of a turbofan engine. In: Annual conference of the PHM
+society 13(1). https://doi.org/10.36001/phmconf.2021.v13i1.3110
+63. Li H, Wang Z, Li Z (2022) An enhanced CNN-LSTM remaining
+useful life prediction model for aircraft engine with attention
+mechanism. PeerJ Comput Sci 8:e1084. https://doi.org/10.7717/
+peerj-cs.1084
+64. Muneer A, Taib SM, Fati SM, Alhussian H (2021) Deep-learning
+based Prognosis Approach for remaining useful life prediction
+of Turbofan Engine. Symmetry 13:1861. https://doi.org/10.3390/
+sym13101861
+65. Peng C, Wu J, Tang Z et al (2022) A spatio-temporal attention
+mechanism based Approach for remaining useful life prediction
+of Turbofan Engine. Comput Intell Neurosci 2022:1–15. https://
+doi.org/10.1155/2022/9707940
+66. Yu J, Peng Y, Deng Q (2021) Remaining useful life prediction based
+on multi-scale residual convolutional network for aero-engine. In:
+2021 IEEE International Conference on Prognostics and Health
+Management (ICPHM). IEEE, Detroit (2021) (Romulus), MI, USA,
+pp 1–6. https://doi.org/10.1109/ICPHM51084.2021.9486524
+67. Wang M, Li Y, Zhang Y, Jia L (2021) Spatio-temporal graph
+convolutional neural network for remaining useful life estimation
+of aircraft engines. Aerosp Syst 4:29–36. https://doi.org/10.1007/
+s42401-020-00070-x
+68. Zhao K, Jia Z, Jia F, Shao H (2023) Multi-scale integrated deep
+self-attention network for predicting remaining useful life of
+aero-engine. Eng Appl Artif Intell 120:105860. https://doi.org/
+10.1016/j.engappai.2023.105860
+69. Liu Y, Zhang X, Guo W, Bian H, He Y, Liu Z (2021) Prediction of
+remaining useful life of turbofan engine based on optimized model.
+In: 2021 IEEE 20th International Conference on Trust, Security
+and Privacy in Computing and Communications (TrustCom), Shenyang, China, pp 1473–1477. https://doi.org/10.1109/TrustCom53
+373.2021.00210
+70. De Beaulieu MH, Jha MS, Garnier H, Cerbah F (2022) Unsupervised remaining useful life prediction through long range
+health index estimation based on encoders-decoders. IFAC-Pap
+55:718–723. https://doi.org/10.1016/j.ifacol.2022.07.212
+71. Hervé de Beaulieu M, Jha MS, Garnier H, Cerbah F (2022) Unsupervised prognostics based on deep virtual health index prediction. In: 7th PHM society European conference, pp 193–199.
+https://doi.org/10.36001/phme.2022.v7i1.3359
+72. Malhotra P, TV V, Ramakrishnan A, et al (2016) Multi-sensor
+prognostics using an unsupervised health index based on LSTM
+encoder-decoder. arXiv preprint. https://doi.org/10.48550/arXiv.
+1608.06154
+73. Ellefsen AL, Bjørlykhaug E, Æsøy V et al (2019) Remaining useful life predictions for turbofan engine degradation using semisupervised deep architecture. Reliab Eng Syst Saf 183:240–251.
+https://doi.org/10.1016/j.ress.2018.11.027
+74. Muneer A, Taib SM, Fati SM, Alhussian H (2021) Deep-learning
+based Prognosis Approach for remaining useful life prediction
+of Turbofan Engine. Symmetry 13:1861. https://doi.org/10.3390/
+sym13101861
+75. Tian H, Yang L, Ju B (2023) Spatial correlation and temporal
+attention-based LSTM for remaining useful life prediction of
+turbofan engine. Measurement 214:112816. https://doi.org/10.
+1016/j.measurement.2023.112816
+76. Boujamza A, Lissane Elhaq S (2022) Attention-based LSTM for
+remaining useful life estimation of aircraft engines. IFAC-Pap
+55:450–455. https://doi.org/10.1016/j.ifacol.2022.07.353
+77. Muneer A, Taib SM, Naseer S et al (2021) Data-Driven Deep
+Learning-based attention mechanism for remaining useful life
+prediction: case study application to Turbofan Engine Analysis.
+Electronics 10:2453. https://doi.org/10.3390/electronics10202453
+78. Costa PRDOD, Akcay A, Zhang Y, Kaymak U (2023) Attention
+and long short-term memory network for remaining useful lifetime predictions of turbofan engine degradation. Int J Progn Health
+Manag 10(4). https://doi.org/10.36001/ijphm.2019.v10i4.2623
+79. Zhao S, Pang Y, Chen J, Liu J (2022) Predication of remaining useful life of aircraft engines based on multi-head attention
+and LSTM. In: 2022 IEEE 6th Information Technology and
+Mechatronics Engineering Conference (ITOEC). IEEE, Chongqing, China, pp 1530–1534. https://doi.org/10.1109/ITOEC
+53115.2022.9734660
+80. Xiang S, Qin Y, Luo J et al (2021) Multicellular LSTM-based
+deep learning model for aero-engine remaining useful life prediction. Reliab Eng Syst Saf 216:107927. https://doi.org/10.1016/j.
+ress.2021.107927
+81. Hong CW, Lee C, Lee K et al (2020) Explainable artificial intelligence for the remaining useful life prognosis of the turbofan
+engines. In: 2020 3rd IEEE International Conference on Knowledge Innovation and Invention (ICKII). IEEE, Kaohsiung, Taiwan,
+pp 144–147. https://doi.org/10.1109/ICKII50300.2020.9318912
+82. Zhao D, Zhao J (2022) Remaining life prediction of turbofan
+engine based on multi-path feature fusion. In: 4th International
+Conference on Information Science, Electrical, and Automation
+Engineering (ISEAE 2022), Guangzhou, pp 1011–1021
+83. Peng C, Chen Y, Gui W et al (2022) Remaining useful life
+prognosis of turbofan engines based on deep feature extraction and fusion. Sci Rep 12:6491. https://doi.org/10.1038/
+s41598-022-10191-2
+84. Su C, Li L, Wen Z (2020) Remaining useful life prediction via
+a variational autoencoder and a time-window‐based sequence
+neural network. Qual Reliab Eng Int 36:1639–1656. https://doi.
+org/10.1002/qre.2651
+85. Ma J, Su H, Zhao W, Liu B (2018) Predicting the remaining useful life of an aircraft Engine using a stacked sparse autoencoder
+with Multilayer Self-Learning. Complexity 2018:1–13. https://
+doi.org/10.1155/2018/3813029
+86. Chao MA, Murugan R (2018) Semi-supervised learning for
+remaining useful lifetime estimation of Turbofan engines.
+CS229: machine learning - fall 2018 - project work by. Zurich
+university of applied science
+87. Zhang Y, Liu X (2021) Remaining useful life prediction for
+turbofan engine using SAE-TCN model. In: 2021 40th Chinese
+Control Conference (CCC). IEEE, Shanghai, pp 8280–8285.
+https://doi.org/10.23919/CCC52363.2021.9549698
+88. Berghout T, Mouss L-H, Kadri O et al (2020) Aircraft engines
+remaining useful life prediction with an adaptive denoising online
+sequential Extreme Learning Machine. Eng Appl Artif Intell
+96:103936. https://doi.org/10.1016/j.engappai.2020.103936
+89. Ragab M, Chen Z, Wu M et al (2020) Adversarial transfer learning for
+machine remaining useful life prediction. In: 2020 IEEE International
+Conference on Prognostics and Health Management (ICPHM), pp
+1–7. https://doi.org/10.1109/ICPHM49022.2020.9187053
+90. Fu S, Zhong S, Lin L, Zhao M (2021) A Novel Time-Series Memory Auto-Encoder with sequentially updated reconstructions for
+remaining useful life prediction. IEEE Trans Neural Netw Learn
+Syst 33:7114–7125. https://doi.org/10.1109/TNNLS.2021.3084249
+91. Liu H, Liu Z, Jia W, Lin X (2019) A novel deep learning-based
+encoder-decoder model for remaining useful life prediction.
+In: 2019 International Joint Conference on Neural Networks
+(IJCNN). IEEE, Budapest, Hungary, pp 1–8. https://doi.org/10.
+1109/IJCNN.2019.8852129
+92. Yu W, Kim I, Mechefske C (2021) Analysis of different RNN
+autoencoder variants for time series classification and machine
+prognostics. Mech Syst Signal Process 149:107322. https://doi.
+org/10.1016/j.ymssp.2020.107322
+93. Rathore MS, Harsha SP (2022) An attention-based stacked BiLSTM framework for predicting remaining useful life of rolling
+bearings. Appl Soft Comput 131:109765. https://doi.org/10.
+1016/j.asoc.2022.109765
+94. Zeng F, Li Y, Jiang Y, Song G (2021) An online transfer learning-based remaining useful life prediction method of ball bearings. Measurement 176:109201. https://doi.org/10.1016/j.measu
+rement.2021.109201
+95. Zhuang J, Cao Y, Jia M et al (2023) Remaining useful life prediction of bearings using multi-source adversarial online regression
+under online unknown conditions. Expert Syst Appl 227:120276.
+https://doi.org/10.1016/j.eswa.2023.120276
+96. Ahmad W, Khan SA, Islam MMM, Kim J-M (2019) A reliable
+technique for remaining useful life estimation of rolling element
+bearings using dynamic regression models. Reliab Eng Syst Saf
+184:67–76. https://doi.org/10.1016/j.ress.2018.02.003
+97. Ren L, Cui J, Sun Y, Cheng X (2017) Multi-bearing remaining useful life collaborative prediction: a deep learning approach. J Manuf
+Syst 43:248–256. https://doi.org/10.1016/j.jmsy.2017.02.013
+98. Que Z, Jin X, Xu Z (2021) Remaining useful life prediction for
+Bearings based on a gated recurrent unit. IEEE Trans Instrum
+Meas 70:1–11. https://doi.org/10.1109/TIM.2021.3054025
+99. Hu T, Guo Y, Gu L et al (2022) Remaining useful life prediction
+of bearings under different working conditions using a deep feature disentanglement based transfer learning method. Reliab Eng
+Syst Saf 219:108265. https://doi.org/10.1016/j.ress.2021.108265
+100. Wang W, Zhao J, Ding G (2022) RUL prediction of rolling bearings based on improved empirical wavelet transform and convolutional neural network. Adv Mech Eng 14:168781322211066.
+https://doi.org/10.1177/16878132221106609
+101. Zhao H, Liu H, Jin Y et al (2021) Feature extraction for Data-Driven
+remaining useful life prediction of Rolling Bearings. IEEE Trans
+Instrum Meas 70:1–10. https://doi.org/10.1109/TIM.2021.3059500
+102. Liu H, Song W, Zhang Y, Kudreyko A (2021) Generalized Cauchy
+Degradation Model with Long-Range Dependence and Maximum
+Lyapunov Exponent for remaining useful life. IEEE Trans Instrum
+Meas 70:1–12. https://doi.org/10.1109/TIM.2021.3063749
+103. Guo L, Lei Y, Li N et al (2018) Machinery health indicator construction based on convolutional neural networks considering
+trend burr. Neurocomputing 292:142–150. https://doi.org/10.
+1016/j.neucom.2018.02.083
+104. Cao Y, Ding Y, Jia M, Tian R (2021) A novel temporal convolutional network with residual self-attention mechanism for
+remaining useful life prediction of rolling bearings. Reliab Eng
+Syst Saf 215:107813. https://doi.org/10.1016/j.ress.2021.107813
+105. Liu X, Zhou Q, Zhao J et al (2019) Fault Diagnosis of Rotating Machinery under Noisy Environment conditions based on a
+1-D Convolutional Autoencoder and 1-D convolutional neural
+network. Sensors 19:972. https://doi.org/10.3390/s19040972
+106. Ding Y, Ding P, Jia M (2021) A novel remaining useful life Prediction Method of Rolling Bearings based on deep transfer autoencoder. IEEE Trans Instrum Meas 70:1–12. https://doi.org/10.
+1109/TIM.2021.3072670
+107. Fu B, Yuan W, Cui X et al (2021) Correlation analysis and augmentation of samples for a bidirectional gate recurrent Unit Network
+for the remaining useful life prediction of Bearings. IEEE Sens J
+21:7989–8001. https://doi.org/10.1109/JSEN.2020.3046653
+108. Dong S, Xiao J, Hu X et al (2023) Deep transfer learning based
+on Bi-LSTM and attention for remaining useful life prediction
+of rolling bearing. Reliab Eng Syst Saf 230:108914. https://doi.
+org/10.1016/j.ress.2022.108914
+109. Zhou J, Qin Y, Chen D et al (2022) Remaining useful life prediction of bearings by a new reinforced memory GRU network. Adv
+Eng Inf 53:101682. https://doi.org/10.1016/j.aei.2022.101682
+110. Qiu H, Niu Y, Shang J et al (2023) A piecewise method for bearing remaining useful life estimation using temporal convolutional
+networks. J Manuf Syst 68:227–241. https://doi.org/10.1016/j.
+jmsy.2023.04.002
+111. Cheng Z, Cai B (2018) Predicting the remaining useful life
+of rolling element bearings using locally linear fusion regression. J Intell Fuzzy Syst 34:3735–3746. https://doi.org/10.3233/
+JIFS-169547
+112. Wang T (2012) Bearing life prediction based on vibration signals:
+A case study and lessons learned. In: 2012 IEEE conference on
+prognostics and health management. IEEE, Denver, CO, USA, pp
+1–7. https://doi.org/10.1109/ICPHM.2012.6299547
+113. Ning Y, Wang G, Yu J, Jiang H (2018) A feature selection Algorithm based on variable correlation and time correlation for Predicting remaining useful life of Equipment using RNN. 2018 Condition
+monitoring and diagnosis (CMD). IEEE, Perth, WA, pp 1–6
+114. Liu X, Song P, Yang C et al (2018) Prognostics and Health Management of Bearings based on logarithmic Linear recursive least-squares
+and recursive maximum likelihood estimation. IEEE Trans Ind Electron 65:1549–1558. https://doi.org/10.1109/TIE.2017.2733469
+115. Liao L, Jin W, Pavel R (2016) Enhanced restricted Boltzmann
+Machine with Prognosability regularization for Prognostics and
+Health Assessment. IEEE Trans Ind Electron 63:7076–7083.
+https://doi.org/10.1109/TIE.2016.2586442
+116. Xia M, Li T, Shu T et al (2019) A two-stage Approach for the
+remaining useful life prediction of Bearings using deep neural
+networks. IEEE Trans Ind Inf 15:3703–3711. https://doi.org/10.
+1109/TII.2018.2868687
+117. Wu C, Sun H, Lin S, Gao S (2021) Remaining useful life prediction of bearings with different failure types based on multifeature and deep convolution transfer learning. Eksploat Niezawodn – Maint Reliab 23(4):685–694. https://doi.org/10.17531/
+ein.2021.4.11
+118. She D, Jia M (2019) Health indicator construction of rolling
+bearings based on deep convolutional neural network considering phase degradation. In: 2019 Prognostics and System Health
+Management Conference (PHM-Paris). IEEE, Paris, France, pp
+373–378. https://doi.org/10.1109/PHM-Paris.2019.00070

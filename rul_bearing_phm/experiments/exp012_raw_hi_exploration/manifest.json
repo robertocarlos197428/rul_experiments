@@ -1,0 +1,19 @@
+{
+  "experiment_name": "exp012_raw_hi_exploration",
+  "timestamp": "2026-08-30T09:41:02.102118",
+  "input_parquets": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ],
+  "outputs": [
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta",
+    "escribe aqui tu ruta"
+  ]
+}

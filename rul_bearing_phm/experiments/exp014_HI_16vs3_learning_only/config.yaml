@@ -1,0 +1,34 @@
+experiment_name: exp014_HI_16vs3_learning_only
+script: 014_HI_16vs3_learning_only.py
+type: exploracion_informal_capa_1_learning_only
+input_parquet: escribe aqui tu ruta
+bearings_order:
+- Bearing1_1
+- Bearing1_2
+- Bearing2_1
+- Bearing2_2
+- Bearing3_1
+- Bearing3_2
+bearings_count: 6
+decision_scope: Learning_set only - es el unico valido para toma de decisiones
+hi16_features:
+- rms
+- std
+- peak
+- peak_to_peak
+- mean
+- skewness
+- kurtosis
+- crest_factor
+hi3_features:
+- rms
+- std
+- peak
+healthy_window_fraction: 0.1
+percentile_max: 99
+clip_range:
+- 0
+- 1
+cummax_applied: false
+outlier_filtering_applied: false
+grid_layout: '3x4, 6 bearings en 1 imagen (cada bearing: col HI16 + col HI3)'

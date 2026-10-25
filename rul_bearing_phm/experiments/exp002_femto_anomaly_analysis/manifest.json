@@ -1,0 +1,19 @@
+{
+  "experiment": "exp002_femto_anomaly_analysis",
+  "status": "completed",
+  "inputs": {
+    "metadata_dir": "escribe aqui tu ruta",
+    "raw_data_dir": "escribe aqui tu ruta",
+    "total_files_input": 43592
+  },
+  "outputs": {
+    "anomalies_csv": "escribe aqui tu ruta",
+    "anomaly_counts_csv": "escribe aqui tu ruta",
+    "bearing_summary_csv": "escribe aqui tu ruta",
+    "files_needing_review_csv": "escribe aqui tu ruta",
+    "summary_markdown": "escribe aqui tu ruta"
+  },
+  "metrics": {
+    "total_anomalies_detected": 4284
+  }
+}

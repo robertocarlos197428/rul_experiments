@@ -1,0 +1,12 @@
+{
+    "experiment_id": "exp010_piecewise_labels",
+    "status": "completed",
+    "inputs": [
+        "results\\exp007_time_features\\features\\tabla_maestra_learning_set.parquet",
+        "results\\exp009_fpt_baseline\\fpt_por_bearing.parquet"
+    ],
+    "outputs": [
+        "results\\exp010_piecewise_labels\\tabla_maestra_learning_set_etiquetada.parquet",
+        "results\\exp010_piecewise_labels\\tabla_maestra_learning_set_etiquetada.csv"
+    ]
+}

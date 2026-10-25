@@ -1,0 +1,40 @@
+experiment_name: exp011_feature_zoom_for_HI
+script: 011_feature_zoom_for_HI.py
+input_parquet: escribe aqui tu ruta
+bearings:
+- Bearing1_1
+- Bearing1_2
+- Bearing2_1
+- Bearing2_2
+- Bearing3_1
+- Bearing3_2
+features:
+  rms:
+    col_h: h_rms
+    col_v: v_rms
+    ylim:
+    - 0
+    - 5
+  std:
+    col_h: h_std
+    col_v: v_std
+    ylim:
+    - 0
+    - 4
+  skewness:
+    col_h: h_skewness
+    col_v: v_skewness
+    ylim:
+    - 0
+    - 2
+  kurtosis:
+    col_h: h_kurtosis
+    col_v: v_kurtosis
+    ylim:
+    - 0
+    - 50
+channels:
+- H
+- V
+x_axis: timestamp_sec / 3600 (horas)
+grid_layout: 3x2, orden izquierda-derecha / arriba-abajo

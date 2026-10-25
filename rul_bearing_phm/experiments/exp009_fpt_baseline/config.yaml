@@ -1,0 +1,13 @@
+experiment_id: exp009_fpt_baseline
+description: Detección de FPT basado en RMS (canales H y V) usando ventana sana inicial
+  y criterio de sostenimiento.
+parameters:
+  healthy_window_pct: 0.1
+  std_multiplier: 3.0
+  sustain_windows: 10
+  channels:
+  - h_rms
+  - v_rms
+paths:
+  input_table: results\exp007_time_features\features\tabla_maestra_learning_set.parquet
+  output_dir: results\exp009_fpt_baseline

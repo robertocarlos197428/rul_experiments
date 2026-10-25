@@ -1,0 +1,15 @@
+experiment: EXP005
+name: timestamp_fix
+bearing: Bearing1_1
+input_directory: escribe aqui tu ruta
+output_directory: escribe aqui tu ruta
+files_corrected:
+- acc_02121.csv
+- acc_02122.csv
+reference_files:
+- acc_02120.csv
+- acc_02123.csv
+file_interval_seconds: 10
+sample_rate_hz: 25600
+modify_acceleration: false
+modify_raw: false

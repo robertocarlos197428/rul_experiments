@@ -1,0 +1,8 @@
+description: Revisión teórica y propuesta de acciones para las anomalías detectadas
+  en EXP002, garantizando cero modificaciones en data/raw.
+experiment: exp003_anomaly_review
+raw_data_modification_allowed: false
+review_criteria:
+- Identificación de duplicados
+- Evaluación de archivos corruptos o con columnas inválidas
+- Propuesta de reglas de interpolación/corrección para etapas intermitentes

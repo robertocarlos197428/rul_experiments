@@ -1,0 +1,242 @@
+1. 1856 IS (2017) IEEE standard framework for prognostics and
+health management of electronic systems. Institute of Electrical
+and Electronics Engineers
+2. Akinyemi O (2010) Development of equipment maintenance
+strategy for critical equipment. Pac J Sci Technol 11:328–342
+3. Al-Saedi IR, Mohammed FM, Obayes SS (2017) Cnc machine
+based on embedded wireless and internet of things for workshop
+development. In: 2017 international conference on control, automation and diagnosis (ICCAD), IEEE, pp 439–444
+4. Allal Z, Noura HN, Chahine K (2024) Efficient health indicators
+for the prediction of the remaining useful life of proton exchange
+membrane fuel cells. Energy Conv Manag X 21:100503. https://doi.org/10.1016/j.ecmx.2023.100503 (https://www.sciencedirect.c
+om/science/article/pii/S2590174523001599)
+5. Barakat M, Saeed RA, Edam S (2023) A comparative study on
+cloud and edgeb computing: a survey on current research activities and applications. In: 2023 IEEE 3rd international maghreb
+meeting of the conference on sciences and techniques of automatic control and computer engineering (MI-STA), pp 679–684,
+https://doi.org/10.1109/MI-STA57575.2023.10169821
+6. Behera S, Misra R, Sillitti A (2023) Gan-based multi-task learning approach for prognostics and health management of iiot.
+IEEE Trans Autom Sci Eng. https://doi.org/10.1109/TASE.2023
+.3267860
+7. Bezerra BGdS (2018) Iot baseada em phm aplicada a centrais
+condicionadoras de ar. Master’s thesis, Universidade Federal
+Rural do Semi-árido
+8. Biggio L, Kastanis I (2020) Prognostics and health management
+of industrial assets: current progress and road ahead. Front Artif
+Intell 3:578613
+9. Booyse W, Wilke DN, Heyns S (2020) Deep digital twins for
+detection, diagnostics and prognostics. Mech Syst Signal Process
+140:106612. https://doi.org/10.1016/j.ymssp.2019.106612 (https
+://www.sciencedirect.com/science/article/pii/S08883270193083
+37)
+10. Boulzazen H, Douzi C, Joubert E et al (2022) Phm method for
+detecting degradation of gan hemt on resistance, application to
+power converter. e-Prime - Advances in Electrical Engineering.
+Electr Energy 2:100060. https://doi.org/10.1016/j.prime.2022.10
+0060 (https://www.sciencedirect.com/science/article/pii/S27726
+71122000328)
+11. Cabrera D, Villacís M, Cerrada M et al (2023) Adversarial fault
+detector guided by one-class learning for a multistage centrifugal
+pump. IEEE/ASME Trans Mechatron 28(3):1395–1403. https://d
+oi.org/10.1109/TMECH.2022.3226347
+12. Chalifoux A, Baird (1999) Reliability centered maintenance
+(RCM) guide: operating a more effective maintenance program.
+AD-a367 999, US Army Corps of Engineers, Construction Engineering Research Laboratory
+13. Che C, Wang H, Fu Q et al (2019) Combining multiple deep
+learning algorithms for prognostic and health management of aircraft. Aerosp Sci Technol 94:105423. https://doi.org/10.1016/j.as
+t.2019.105423 (https://www.sciencedirect.com/science/article/pii
+/S1270963819301452)
+14. Chen J, Ran X (2019) Deep learning with edge computing: a
+review. Proc IEEE 107(8):1655–1674. https://doi.org/10.1109/JP
+ROC.2019.2921977
+15. Coelho PMN (2016) Rumo à indústria 4.0. Dissertação de mestrado, Faculdade de Ciências e Tecnologia, Universidade de
+Coimbra, Coimbra. https://doi.org/10.1111/j.1540-6261.1993.tb0
+4022.xhttps://estudogeral.uc.pt/handle/10316/36992
+16. Committee IIASPSE, Board ISS (1998) IEEE guide for maintenance, operation, and safety of industrial and commercial power
+systems. IEEE (std.), IEEE
+17. Compare M, Bellani L, Zio E (2017) Reliability model of a
+component equipped with phm capabilities. Reliab Eng Syst Saf
+168:4–11. https://doi.org/10.1016/j.ress.2017.05.024
+18. Crespo Marquez A, De la Fuente CA, Marcos J et al (2020)
+Designing cbm plans, based on predictive analytics and big data
+tools, for train wheel bearings. Comput Ind 122:103292. https://d
+oi.org/10.1016/j.compind.2020.103292
+19. Das S, Dey A, Pal A et al (2015) Applications of artificial intelligence in machine learning: review and prospect. Int J Comput
+Appl 115(9)
+20. de Almeida Júnior JC, Parra RB (2018) Predictive and detective
+maintenance: effective tools in the management of aeronautical
+products. In: Proceedings of the 2018 international conference on
+maintenance in aeronautics (ICMA), https://api.semanticscholar.
+org/CorpusID:234777549, accessed on May 2025
+21. Ferenhof H, Fernandes E (2016) Desmistificando a revisão de
+literatura como base para redação científica: método ssf. Revista
+ACB Biblioteconomia em Santa Catarina 21(3):550–563 (https://
+revista.acbsc.org.br/racb/article/view/1194)
+22. Gandhare BS, Akarte M (2012) Maintenance strategy selection.
+In: Ninth AIMS international conference on management. AIMS
+International Maharashtra, India, pp 1330–1336
+23. Gits C (1992) Design of maintenance concepts. Int J Prod Econ
+24(3):217–226. https://doi.org/10.1016/0925-5273(92)90133-R
+24. Goel A, Ganesh L, Kaur A (2019) Sustainability integration in the
+management of construction projects: a morphological analysis of
+over two decades’ research literature. J Clean Prod 236:117676. h
+ttps://doi.org/10.1016/j.jclepro.2019.117676
+25. Gu J, Wang Z, Kuen J et al (2018) Recent advances in convolutional neural networks. Pattern Recogn 77:354–377. https://doi.o
+rg/10.1016/j.patcog.2017.10.013
+26. Horner RMW, El-Haram MA, Munns AK (1997) Building maintenance strategy: a new management approach. J Qual Maint Eng
+3:273–280
+27. Hua Z, Zheng Z, Pahon E et al (2021) Remaining useful life prediction of pemfc systems under dynamic operating conditions.
+Energy Convers Manage 231:113825. https://doi.org/10.1016/j.e
+nconman.2021.113825
+28. Iaksch JS (2023) Modelo sistêmico para tratamento de dados no
+contexto da manutenção de equipamentos agrícolas em uma usina
+de cana-de-açúcar como apoio à implantação de sistemas de agricultura 4.0. Tese de doutorado, Universidade Tecnológica Federal
+do Paraná, Curitiba, PR, Brasil, https://repositorio.utfpr.edu.br/js
+pui/handle/1/31536
+29. Ippolito M, Nikolakis N, Cerquitelli T et al (2021) Industrial digitisation and maintenance: present and future, pp 3–18. https://doi
+.org/10.1007/978-981-16-2940-2_1
+30. Jakhar D, Kaur I (2020) Artificial intelligence, machine learning
+and deep learning: definitions and differences. Clin Exp Dermatol
+45(1):131–132. https://doi.org/10.1111/ced.14029
+31. Jensen MC (1993) The modern industrial revolution, exit, and the
+failure of internal control systems. J Financ 48(3):831–880. https
+://doi.org/10.1111/j.1540-6261.1993.tb04022.x
+32. Jonge B, Teunter R, Tinga T (2017) The influence of practical
+factors on the benefits of condition-based maintenance over timebased maintenance. Reliab Eng Syst Saf 158:21–30. https://doi.o
+rg/10.1016/j.ress.2016.10.002
+33. Josebeck G, Gowtham A (2022) Demystifying the p-f curve and
+augmenting machine learning for maintenance optimization. In:
+2022 annual reliability and maintainability symposium (RAMS).
+IEEE Press, pp 1–5, https://doi.org/10.1109/RAMS51457.2022.9
+893991
+34. Ketu S, Mishra PK (2022) Cloud, fog and mist computing in
+iot: an indication of emerging opportunities. IETE Tech Rev
+39(3):713–724. https://doi.org/10.1080/02564602.2021.1898482
+35. Khanzode KCA, Sarode RD (2020) Advantages and disadvantages of artificial intelligence and machine learning: a literature
+review. Int J Libr Inform Sci (IJLIS) 9(1):3
+36. Kwon D, Hodkiewicz MR, Fan J et al (2016) Iot-based prognostics and systems health management for industrial applications.
+IEEE Access 4:3659–3670. https://doi.org/10.1109/ACCESS.20
+16.2587754
+37. Li Y, Zou L, Jiang L et al (2019) Fault diagnosis of rotating
+machinery based on combination of deep belief network and
+one-dimensional convolutional neural network. IEEE Access
+7:165710–165723. https://doi.org/10.1109/ACCESS.2019.2953490
+38. Lin J, Chen SC, Shih YT et al (2009) A study on remote on-line
+diagnostic system for vehicles by integrating the technology of
+obd, gps, and 3g. Int J Human Soc Sci 3(8):1705–1711
+39. Lüttenberg H, Bartelheimer C, Beverungen D (2018) Designing
+predictive maintenance for agricultural machines. In: Proceedings of the 26th European conference on information systems
+(ECIS), Portsmouth, United Kingdom, accessed on May 2025
+40. Ma M, Sun C, Chen X (2017) Discriminative deep belief networks with ant colony optimization for health status assessment
+of machine. IEEE Trans Instrum Meas 66(12):3115–3125. https:/
+/doi.org/10.1109/TIM.2017.2735661
+41. Minerva R, Biru A, Rotondi D (2015) Towards a definition of the
+internet of things (iot). IEEE Int Init 1(1):1–86
+42. Mobley RK (2002) An introduction to predictive maintenance.
+Elsevier, Amsterdam
+43. Mohsen A (2017) Condition based maintenance. Int J Eng Techn
+Res (IJETR) 7(5):68–70. https://www.erpublication.org/publishe
+d_paper/IJETR071589.pdf, Accessed on May 2025
+44. Moubray J (2001) Reliability-centered maintenance. G-reference,
+information and interdisciplinary subjects series. Industrial Press
+45. Nadj M, Jegadeesan H, Maedche A et al (2016) A situation awareness driven design for predictive maintenance systems: the case
+of oil and gas pipeline operations. In: Proceedings of the 24th
+European conference on information systems, Istanbul, Turkey,
+June 12–15, 2016, pp 1–10
+46. Nasteski V (2017) An overview of the supervised machine learning methods. HORIZONSB 4:51–62. https://doi.org/10.20544/H
+ORIZONS.B.04.1.17.P05
+47. Nowlan F, Heap H (1978) Reliability-centered maintenance.
+Dolby Access Press
+48. Ortiz JH (2020) Industry 4.0. IntechOpen, Rijeka, https://doi.org/
+10.5772/intechopen.86000
+49. Pecht M (2009) Prognostics and health management of electronics. Encyclopedia of structural health monitoring
+50. Periyasam M, Dhanasekaran R (2013) Electromagnetic interference on critical medical equipments by rf devices. In: 2013 international conference on communication and signal processing, pp
+78–82, https://doi.org/10.1109/iccsp.2013.6577019
+51. Poór P, Ženíšek D, Basl J (2019) Historical overview of maintenance management strategies: development from breakdown
+maintenance to predictive maintenance in accordance with four
+industrial revolutions. In: Proceedings of the international conference on industrial engineering and operations management,
+Pilsen, Czech Republic, pp 23–26
+52. Premsankar G, Di Francesco M, Taleb T (2018) Edge computing for the internet of things: a case study. IEEE Int Things J
+5(2):1275–1284. https://doi.org/10.1109/JIOT.2018.2805263
+53. Qu J, Liu F, Ma Y et al (2019) A neural-network-based method
+for rul prediction and soh monitoring of lithium-ion battery. IEEE
+Access 7:87178–87191. https://doi.org/10.1109/ACCESS.2019.2
+925468
+54. Raheja D, Llinas J, Nagi R et al (2006) Data fusion/data miningbased architecture for condition-based maintenance. Int J Prod
+Res 44:2869–2887. https://doi.org/10.1080/00207540600654509
+55. Reddy Y, Viswanath P, Reddy BE (2018) Semi-supervised learning: a brief review. Int J Eng Technol 7(1.8):81
+56. Ren L, Liu Y, Wang X et al (2021) Cloud–edge-based lightweight
+temporal convolutional networks for remaining useful life prediction in iiot. IEEE Int Things J 8(16):12578–12587. https://doi.org
+/10.1109/JIOT.2020.3008170
+57. Ritchey T (2013) Wicked problems. Acta Morphol Gen 2(1)
+58. Salkin C, Oner M, Ustundag A et al (2018) A conceptual framework for industry 4.0, Springer International Publishing, Cham,
+pp 3–23. https://doi.org/10.1007/978-3-319-57870-5_1
+59. Samuel AL (1967) Some studies in machine learning using the
+game of checkers. IBM J Res Dev 44:206–227
+60. Sanders A, Elangeswaran C, Wulfsberg J (2016) Industry 4.0
+implies lean manufacturing: research activities in industry 4.0
+function as enablers for lean manufacturing. J Ind Eng Manag
+9:811. https://doi.org/10.3926/jiem.1940
+61. Sergi B, Popkova E, Bogoviz A et al (2019) Understanding industry 4.0: AI, the internet of things, and the future of work. Emerald
+Publishing Limited
+62. Sherstinsky A (2020) Fundamentals of recurrent neural network (rnn) and long short-term memory (lstm) network. Phys D
+404:132306. https://doi.org/10.1016/j.physd.2019.132306
+63. Shrestha A, Mahmood A (2019) Review of deep learning algorithms and architectures. IEEE Access 7:53040–53065. https://do
+i.org/10.1109/ACCESS.2019.2912200
+64. Sisinni E, Saifullah A, Han S et al (2018) Industrial internet of
+things: challenges, opportunities, and directions. IEEE Trans
+Industr Inf 14(11):4724–4734. https://doi.org/10.1109/TII.2018.
+2852491
+65. Soualhi A, Razik H, Clerc G et al (2014) Prognosis of bearing
+failures using hidden Markov models and the adaptive neurofuzzy inference system. IEEE Trans Industr Electron 61(6):2864–
+2874. https://doi.org/10.1109/TIE.2013.2274415
+66. Soualhi M, Nguyen KT, Soualhi A et al (2019) Health monitoring of bearing and gear faults by using a new health indicator
+extracted from current signals. Measurement 141:37–51. https://d
+oi.org/10.1016/j.measurement.2019.03.065
+67. Spear B (2008) James Watt: the steam engine and the commercialization of patents. World Patent Inf 30(1):53–58. https://doi.o
+rg/10.1016/j.wpi.2007.05.009
+68. Stuart R, Peter N (2010) Artificial intelligence a modern approach
+third edition
+69. Sullivan G, Pugh R, Melendez AP et al (2010) Operations and
+maintenance best practices-a guide to achieving operational efficiency (release 3). Technical report, Pacific Northwest National
+Lab. (PNNL), Richland, WA (United States)
+70. Sutton RS, Barto AG (1999) Reinforcement learning: an introduction. Robotica 17(2):229–235
+71. Tank B, Gandhi V (2023) A comparative study on cloud computing, edge computing and fog computing. Adv Transdisc Eng
+32(1):2023
+72. Teixeira HN, Lopes I, Braga AC (2020) Condition-based maintenance implementation: a literature review. Proc Manuf 51:228–
+235. https://doi.org/10.1016/j.promfg.2020.10.033
+73. Tyagi A, Abraham A (2022) Recurrent neural networks: concepts
+and applications. CRC Press, https://books.google.com.br/books
+?id=5phxEAAAQBAJ
+74. Tyagi K, Rane C, Sriram R et al (2022) Unsupervised learning.
+In: Artificial intelligence and machine learning for edge computing. Elsevier, pp 33–52
+75. US-DoD (1998) Electronic reliability design handbook. In: of
+Defense D (ed) Handbook, b edn. No. MIL-HDBK-338B in
+Military Handbook, Department of Defense, Washington, DC, pp
+1–100
+76. Venkataraman V (2007) Maintenance engineering and management. PHI learning
+77. Wang H, Yang J, Wang R et al (2023) Remaining useful life prediction of bearings based on convolution attention mechanism and
+temporal convolution network. IEEE Access 11:24407–24419. ht
+tps://doi.org/10.1109/ACCESS.2023.3255891
+78. Wang X, Yang LT, Xie X et al (2017) A cloud-edge computing
+framework for cyber-physical-social services. IEEE Commun
+Mag 55(11):80–85. https://doi.org/10.1109/MCOM.2017.17003
+60
+79. Wolfert S, Ge L, Verdouw C et al (2017) Big data in smart farming—a review. Agric Syst 153:69–80. https://doi.org/10.1016/j.a
+gsy.2017.01.023
+80. Wu M, Ye Q, Mu J et al (2023) Remaining useful life prediction
+via a data-driven deep learning fusion model-calap. IEEE Access
+11:112085–112096. https://doi.org/10.1109/ACCESS.2023.3322
+733
+81. Xu T, Han G, Zhu H et al (2024) Multi-resolution lstm-based
+prediction model for remaining useful life of aero-engine. IEEE
+Trans Veh Technol 73(2):1931–1941. https://doi.org/10.1109/TV
+T.2023.3319377
+82. Zhang Y, Wang X, Wang Y et al (2020) Aiot: when artificial intelligence meets the internet of things. Futur Gener Comput Syst
+102:987–1000
+83. Zheng X, Chen L, Yu C et al (2023) Gearbox compound fault
+diagnosis in edge-iot based on legendre multiwavelet transform
+and convolutional neural network. Sensors 23(21):8669. https://d
+oi.org/10.3390/s23218669
+84. Zwicky F (1969) Discovery, invention, research through the morphological approach. Macmillan
+
+

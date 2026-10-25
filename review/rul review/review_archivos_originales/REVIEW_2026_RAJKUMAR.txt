@@ -1,0 +1,272 @@
+[1] R. Palaniappan, “Predictive manufacturing: State
+of the art, design standards, limitations, 
+challenges, and future perspectives,” 2024, p.
+020004. doi: 10.1063/5.0235999.
+[2] Y. Lei, N. Li, L. Guo, N. Li, T. Yan, and J. Lin,
+“Machinery health prognostics: A systematic
+review from data acquisition to RUL prediction,”
+Mech Syst Signal Process, vol. 104, pp. 799–834,
+2018, doi:
+https://doi.org/10.1016/j.ymssp.2017.11.016.
+[3] I. Nejjar, F. Geissmann, M. Zhao, C. Taal, and O.
+Fink, “Domain adaptation via alignment of
+operation profile for Remaining Useful Lifetime
+prediction,” Reliab Eng Syst Saf, vol. 242, p.
+109718, 2024, doi:
+https://doi.org/10.1016/j.ress.2023.109718.
+[4] Z. Zhao, Bin Liang, X. Wang, and W. Lu,
+“Remaining useful life prediction of aircraft
+engine based on degradation pattern learning,”
+Reliab Eng Syst Saf, vol. 164, pp. 74–83, 2017,
+doi: https://doi.org/10.1016/j.ress.2017.02.007.
+[5] L. Guo, N. Li, F. Jia, Y. Lei, and J. Lin, “A
+recurrent neural network based health indicator
+for remaining useful life prediction of bearings,”
+Neurocomputing, vol. 240, pp. 98–109, 2017, doi:
+https://doi.org/10.1016/j.neucom.2017.02.045.
+[6] C. Ferreira and G. Gonçalves, “Remaining Useful
+Life prediction and challenges: A literature review
+on the use of Machine Learning Methods,” J
+Manuf Syst, vol. 63, pp. 550–562, 2022, doi:
+https://doi.org/10.1016/j.jmsy.2022.05.010.
+[7] L. Zhang, Z. Mu, and C. Sun, “Remaining Useful
+Life Prediction for Lithium-Ion Batteries Based
+on Exponential Model and Particle Filter,” IEEE
+Access, vol. 6, pp. 17729–17740, 2018, doi:
+10.1109/ACCESS.2018.2816684.
+[8] Y. Fan, S. Nowaczyk, and T. Rögnvaldsson,
+“Transfer learning for remaining useful life
+prediction based on consensus self-organizing
+models,” Reliab Eng Syst Saf, vol. 203, p. 107098,
+Nov. 2020, doi: 10.1016/j.ress.2020.107098.
+[9] M. Yan, X. Wang, B. Wang, M. Chang, and I.
+Muhammad, “Bearing remaining useful life
+prediction using support vector machine and
+hybrid degradation tracking model,” ISA Trans,
+vol. 98, pp. 471–482, Mar. 2020, doi:
+10.1016/j.isatra.2019.08.058.
+[10] M. Baptista, E. M. P. Henriques, I. P. de Medeiros,
+J. P. Malere, C. L. Nascimento, and H. Prendinger,
+“Remaining useful life estimation in aeronautics:
+Combining data-driven and Kalman filtering,”
+Reliab Eng Syst Saf, vol. 184, pp. 228–239, Apr.
+2019, doi: 10.1016/j.ress.2018.01.017.
+[11] Z. Chen, Y. Li, T. Xia, and E. Pan, “Hidden
+Markov model with auto-correlated observations
+for remaining useful life prediction and optimal
+maintenance policy,” Reliab Eng Syst Saf, vol.
+184, pp. 123–136, 2019, doi:
+https://doi.org/10.1016/j.ress.2017.09.002.
+[12] M. Elmahallawy, T. Elfouly, A. Alouani, and A.
+M. Massoud, “A Comprehensive Review of
+Lithium-Ion Batteries Modeling, and State of
+Health and Remaining Useful Lifetime
+Prediction,” IEEE Access, vol. 10, pp. 119040–
+119070, 2022, doi:
+10.1109/ACCESS.2022.3221137.
+[13] M. S. Rathore and S. P. Harsha, “Prognostic
+Analysis of High-Speed Cylindrical Roller
+Bearing Using Weibull Distribution and k -
+Nearest Neighbor,” J Nondestruct Eval Diagn
+Progn Eng Syst, vol. 5, no. 1, Feb. 2022, doi:
+10.1115/1.4051314.
+[14] Y. Zhou, M. Huang, and M. Pecht, “Remaining
+useful life estimation of lithium-ion cells based on
+k-nearest neighbor regression with differential
+evolution optimization,” J Clean Prod, vol. 249,
+p. 119409, 2020, doi:
+https://doi.org/10.1016/j.jclepro.2019.119409.
+[15] R. and N. S. K. and N. N. M. and V. V. and N. F.
+G. Abdalla Muhamed Abdelhamed Bakhet and
+Palaniappan, “An Overview of Industry 5.0: Key
+Features, Advantages, Limitations and Future
+Directions,” in Tech Fusion in Business and
+Society : Harnessing Big Data, IoT, and
+Sustainability in Business: Volume 1, R. K.
+Hamdan, Ed., Cham: Springer Nature
+Switzerland, 2025, pp. 633–643. doi:
+10.1007/978-3-031-84628-1_53.
+[16] S. Khan, T. Yairi, S. Tsutsumi, and S. Nakasuka,
+“A review of physics-based learning for system
+health management,” Annu Rev Control, vol. 57,
+p. 100932, 2024, doi:
+https://doi.org/10.1016/j.arcontrol.2024.100932.
+[17] R. Palaniappan, “Cyber-Physical Systems: Design
+Standards, Applications, Limitations, Challenges,
+and Future Perspectives,” 2025, pp. 17–30. doi:
+10.1007/978-3-031-77078-4_2.
+[18] R. Huang, L. Xi, X. Li, C. Richard Liu, H. Qiu,
+and J. Lee, “Residual life predictions for ball
+bearings based on self-organizing map and back
+propagation neural network methods,” Mech Syst
+Signal Process, vol. 21, no. 1, pp. 193–207, Jan.
+2007, doi: 10.1016/j.ymssp.2005.11.008.
+[19] S. L. Chen, M. Craig, R. Callan, H. Powrie, and
+R. Wood, “Use of Artificial Intelligence Methods
+for Advanced Bearing Health Diagnostics and
+Prognostics,” in 2008 IEEE Aerospace
+Conference, IEEE, Mar. 2008, pp. 1–9. doi:
+10.1109/AERO.2008.4526604.
+[20] C. Castejón, O. Lara, and J. C. García-Prada,
+“Automated diagnosis of rolling bearings using
+MRA and neural networks,” Mech Syst Signal
+Process, vol. 24, no. 1, pp. 289–299, Jan. 2010,
+doi: 10.1016/j.ymssp.2009.06.004.
+[21] C. Sun, Z. Zhang, and Z. He, “Research on
+bearing life prediction based on support vector
+machine and its application,” J Phys Conf Ser, vol.
+305, p. 012028, Jul. 2011, doi: 10.1088/1742-
+6596/305/1/012028.
+[22] H.-E. Kim, A. C. C. Tan, J. Mathew, and B.-K.
+Choi, “Bearing fault prognosis based on health
+state probability estimation,” Expert Syst Appl,
+vol. 39, no. 5, pp. 5200–5213, Apr. 2012, doi:
+10.1016/j.eswa.2011.11.019.
+[23] Z. Tian, “An artificial neural network method for
+remaining useful life prediction of equipment
+subject to condition monitoring,” J Intell Manuf,
+vol. 23, no. 2, pp. 227–237, Apr. 2012, doi:
+10.1007/s10845-009-0356-9.
+[24] K. Medjaher, D. A. Tobon-Mejia, and N.
+Zerhouni, “Remaining Useful Life Estimation of
+Critical Components With Application to
+Bearings,” IEEE Trans Reliab, vol. 61, no. 2, pp.
+292–302, Jun. 2012, doi:
+10.1109/TR.2012.2194175.
+[25] X. Chen, Z. Shen, Z. He, C. Sun, and Z. Liu,
+“Remaining life prognostics of rolling bearing
+based on relative features and multivariable
+support vector machine,” Proc Inst Mech Eng C J
+Mech Eng Sci, vol. 227, no. 12, pp. 2849–2860,
+Dec. 2013, doi: 10.1177/0954406212474395.
+[26] A. Soualhi, K. Medjaher, and N. Zerhouni,
+“Bearing Health Monitoring Based on Hilbert–
+Huang Transform, Support Vector Machine, and
+Regression,” IEEE Trans Instrum Meas, vol. 64,
+no. 1, pp. 52–62, Jan. 2015, doi:
+10.1109/TIM.2014.2330494.
+[27] J. Ben Ali, B. Chebel-Morello, L. Saidi, S.
+Malinowski, and F. Fnaiech, “Accurate bearing
+remaining useful life prediction based on Weibull
+distribution and artificial neural network,” Mech
+Syst Signal Process, vol. 56–57, pp. 150–172,
+May 2015, doi: 10.1016/j.ymssp.2014.10.014.
+[28] P. Bangalore and L. B. Tjernberg, “An Artificial
+Neural Network Approach for Early Fault
+Detection of Gearbox Bearings,” IEEE Trans
+Smart Grid, vol. 6, no. 2, pp. 980–987, Mar. 2015,
+doi: 10.1109/TSG.2014.2386305.
+[29] M. Elforjani, “Estimation of Remaining Useful
+Life of Slow Speed Bearings Using Acoustic
+Emission Signals,” J Nondestr Eval, vol. 35, no.
+4, p. 62, Dec. 2016, doi: 10.1007/s10921-016-
+0378-0.
+[30] L. Ren, J. Cui, Y. Sun, and X. Cheng, “Multibearing remaining useful life collaborative
+prediction: A deep learning approach,” J Manuf
+Syst, vol. 43, pp. 248–256, Apr. 2017, doi:
+10.1016/j.jmsy.2017.02.013.
+[31] J. Deutsch and D. He, “Using Deep LearningBased Approach to Predict Remaining Useful Life
+of Rotating Components,” IEEE Trans Syst Man
+Cybern Syst, vol. 48, no. 1, pp. 11–20, Jan. 2018,
+doi: 10.1109/TSMC.2017.2697842.
+[32] L. Ren, Y. Sun, H. Wang, and L. Zhang,
+“Prediction of Bearing Remaining Useful Life
+With Deep Convolution Neural Network,” IEEE
+Access, vol. 6, pp. 13041–13049, 2018, doi:
+10.1109/ACCESS.2018.2804930.
+[33] H. O. Omoregbee, M. U. Olanipekun, and A. B.
+Edward, “Non Coding of Big Dataset and the use
+of Neural Network Regression Artificial
+Intelligence Model in Azure for Predicting the
+Remaining Useful Life (RUL) of Bearing,” in
+2019 IEEE AFRICON, IEEE, Sep. 2019, pp. 1–7.
+doi: 10.1109/AFRICON46755.2019.9133738.
+[34] C. Cheng et al., “A Deep Learning-Based
+Remaining Useful Life Prediction Approach for
+Bearings,” IEEE/ASME Transactions on
+Mechatronics, vol. 25, no. 3, pp. 1243–1254, Jun.
+2020, doi: 10.1109/TMECH.2020.2971503.
+[35] B.-L. Lu, Z.-H. Liu, H.-L. Wei, L. Chen, H.
+Zhang, and X.-H. Li, “A Deep Adversarial
+Learning Prognostics Model for Remaining
+Useful Life Prediction of Rolling Bearing,” IEEE
+Transactions on Artificial Intelligence, vol. 2, no.
+4, pp. 329–340, Aug. 2021, doi:
+10.1109/TAI.2021.3097311.
+[36] H. Ding, L. Yang, Z. Cheng, and Z. Yang, “A
+remaining useful life prediction method for
+bearing based on deep neural networks,”
+Measurement, vol. 172, p. 108878, Feb. 2021, doi:
+10.1016/j.measurement.2020.108878.
+[37] Q. Wang, S. Wang, B. Wei, W. Chen, and Y.
+Zhang, “Weighted K-NN Classification Method
+of Bearings Fault Diagnosis With MultiDimensional Sensitive Features,” IEEE Access,
+vol. 9, pp. 45428–45440, 2021, doi:
+10.1109/ACCESS.2021.3066489.
+[38] J. A. de Leon, X. Batiller, K. C. Fernandez, M. M.
+Vaay, C. R. Renosa, and R. Concepcion,
+“Remaining Useful Life Estimation for Roller
+Bearings through a Takagi-Sugeno Fuzzy Logic
+Model with Convolutional Neural Networks
+Consequents,” in 2022 IEEE 14th International
+Conference on Humanoid, Nanotechnology,
+Information Technology, Communication and
+Control, Environment, and Management
+(HNICEM), IEEE, Dec. 2022, pp. 1–6. doi:
+10.1109/HNICEM57413.2022.10109404.
+[39] H. S. Kumar and G. Upadhyaya, “Fault diagnosis
+of rolling element bearing using continuous
+wavelet transform and K- nearest neighbour,”
+Mater Today Proc, vol. 92, pp. 56–60, 2023, doi:
+https://doi.org/10.1016/j.matpr.2023.03.618.
+[40] M. Motahari-Nezhad and S. M. Jafari,
+“Comparison of MLP and RBF neural networks
+for bearing remaining useful life prediction based
+on acoustic emission,” Proceedings of the
+Institution of Mechanical Engineers, Part J:
+Journal of Engineering Tribology, vol. 237, no. 1,
+pp. 129–148, Jan. 2023, doi:
+10.1177/13506501221106556.
+[41] R. Palaniappan, “Comparative Analysis of
+Support Vector Machine, Random Forest and kNearest Neighbor Classifiers for Predicting
+Remaining Usage Life of Roller Bearings,”
+Informatica, vol. 48, no. 7, Apr. 2024, doi:
+10.31449/inf.v48i7.5726.
+[42] L. Magadán, J. C. Granda, and F. J. Suárez,
+“Robust prediction of remaining useful lifetime of
+bearings using deep learning,” Eng Appl Artif
+Intell, vol. 130, p. 107690, Apr. 2024, doi:
+10.1016/j.engappai.2023.107690.
+[43] Y. Ma, “Bearing Life Prediction Model for
+Electromechanical Equipment by Integrating
+Deep Neural Network and K-Nearest Neighbor 
+Algorithm and Its Application,” Journal of
+Theoretical and Applied Mechanics, vol. 62, no.
+4, pp. 721
+–735, Oct. 2024, doi: 10.15632/jtam-pl/194237.
+[44] U. Farooq, M. Ademola, and A. Shaalan,
+“Comparative Analysis of Machine Learning
+Models for Predictive Maintenance of Ball
+Bearing Systems,” Electronics (Basel), vol. 13,
+no. 2, p. 438, Jan. 2024, doi:
+10.3390/electronics13020438.
+[45] K. Bharatheedasan, T. Maity, L. A.
+Kumaraswamidhas, and M. Durairaj, “Enhanced
+fault diagnosis and remaining useful life
+prediction of rolling bearings using a hybrid
+multilayer perceptron and LSTM network
+model,” Alexandria Engineering Journal, vol.
+115, pp. 355
+–369, Mar. 2025, doi:
+10.1016/j.aej.2024.12.007.
+[46] V. I. Vlachou et al., “Intelligent Fault Diagnosis
+of Ball Bearing Induction Motors for Predictive
+Maintenance Industrial Applications,” Machines,
+vol. 13, no. 10, p. 902, Oct. 2025, doi:
+10.3390/machines13100902.
+[47] Y. Jin, D. Liu, Y. Xiao, and L. Cui, “Dual
+-channel
+dynamic spline graph convolutional network for
+bearing remaining useful life prediction,” Reliab
+Eng Syst Saf, vol. 266, p. 111731, Feb. 2026, doi:
+10.1016/j.ress.2025.111731

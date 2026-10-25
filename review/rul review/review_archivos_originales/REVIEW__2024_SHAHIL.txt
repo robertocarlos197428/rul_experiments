@@ -1,0 +1,362 @@
+1. Souza, R.; Sperandio Nascimento, E.G.; Miranda, U.; Silva, W.; Lepikson, H. Deep learning for diagnosis and classification of
+faults in industrial rotating machinery. Comput. Ind. Eng. 2020, 153, 107060. [CrossRef]
+2. Gr ˛adzki, R.; Bartoszewicz, B.; Martínez, J.E. Bearing Fault Diagnostics Based on the Square of the Amplitude Gains Method.
+Appl. Sci. 2023, 13, 2160. [CrossRef]
+3. Vishwakarma, M.; Purohit, R.; Harshlata, V.; Rajput, P. Vibration Analysis & Condition Monitoring for Rotating Machines: A
+Review. Mater. Today Proc. 2017, 4, 2659–2664. [CrossRef]
+4. Peng, H.; Zhang, H.; Fan, Y.; Shangguan, L.; Yang, Y. A Review of Research on Wind Turbine Bearings&rsquo; Failure Analysis
+and Fault Diagnosis. Lubricants 2023, 11, 14. [CrossRef]
+5. Qin, A.; Zhang, Q.; Hu, Q.; Sun, G.; He, J.; Lin, S. Remaining useful life prediction for rotating machinery based on optimal
+degradation indicator. Shock Vib. 2017, 2017, 6754968. [CrossRef]
+6. Wang, D.; Tsui, K.L.; Miao, Q. Prognostics and Health Management: A Review of Vibration Based Bearing and Gear Health
+Indicators. IEEE Access 2018, 6, 665–676. [CrossRef]
+7. Lei, Y.; Li, N.; Guo, L.; Li, N.; Yan, T.; Lin, J. Machinery health prognostics: A systematic review from data acquisition to RUL
+prediction. Mech. Syst. Signal Process. 2018, 104, 799–834. [CrossRef]
+8. Heng, A.; Zhang, S.; Tan, A.C.; Mathew, J. Rotating machinery prognostics: State of the art, challenges and opportunities. Mech.
+Syst. Signal Process. 2009, 23, 724–739. [CrossRef]
+9. Sikorska, J.Z.; Hodkiewicz, M.; Ma, L. Prognostic modelling options for remaining useful life estimation by industry. Mech. Syst.
+Signal Process. 2011, 25, 1803–1836. [CrossRef]
+10. Kan, M.S.; Tan, A.C.; Mathew, J. A review on prognostic techniques for non-stationary and non-linear rotating systems. Mech.
+Syst. Signal Process. 2015, 62, 1–20. [CrossRef]
+11. Si, X.S.; Wang, W.; Hu, C.H.; Zhou, D.H. Remaining useful life estimation—A review on the statistical data driven approaches.
+Eur. J. Oper. Res. 2011, 213, 1–14. [CrossRef]
+12. Lee, J.; Wu, F.; Zhao, W.; Ghaffari, M.; Liao, L.; Siegel, D. Prognostics and health management design for rotary machinery
+systems—Reviews, methodology and applications. Mech. Syst. Signal Process. 2014, 42, 314–334. [CrossRef]
+13. Zhang, Z.; Si, X.; Hu, C.; Lei, Y. Degradation data analysis and remaining useful life estimation: A review on Wiener-process-based
+methods. Eur. J. Oper. Res. 2018, 271, 775–796. [CrossRef]
+14. Zio, E. Prognostics and Health Management (PHM): Where are we and where do we (need to) go in theory and practice. Reliab.
+Eng. Syst. Saf. 2022, 218, 108119. [CrossRef]
+15. Liang, H.; Cao, J.; Zhao, X. Multibranch and Multiscale Dynamic Convolutional Network for Small Sample Fault Diagnosis of
+Rotating Machinery. IEEE Sens. J. 2023, 23, 8973–8988. [CrossRef]
+16. Rajabi, S.; Azari, M.S.; Santini, S.; Flammini, F. Fault diagnosis in industrial rotating equipment based on permutation entropy,
+signal processing and multi-output neuro-fuzzy classifier. Expert Syst. Appl. 2022, 206, 117754. [CrossRef]
+17. Singleton, R.K.; Strangas, E.G.; Aviyente, S. The use of bearing currents and vibrations in lifetime estimation of bearings. IEEE
+Trans. Ind. Inform. 2016, 13, 1301–1309. [CrossRef]
+18. Guo, D.; Cao, Z.; Fu, H.; Li, Z. Remaining Useful Life Estimation for Rolling Bearings Using MSGCNN-TR. IEEE Sens. J. 2022,
+22, 24333–24343. [CrossRef]
+19. Ahmad, W.; Khan, S.A.; Kim, J.M. A hybrid prognostics technique for rolling element bearings using adaptive predictive models.
+IEEE Trans. Ind. Electron. 2017, 65, 1577–1584. [CrossRef]
+20. Jin, X.; Zhou, W.; Ma, J.; Su, H.; Liu, S.; Gao, B. Analysis on the vibration signals of a novel double-disc crack rotor-bearing system
+with single defect in inner race. J. Sound Vib. 2024, 595, 118729. [CrossRef]
+21. Peng, B.; Bi, Y.; Xue, B.; Zhang, M.; Wan, S. A Survey on Fault Diagnosis of Rolling Bearings. Algorithms 2022, 15, 347. [CrossRef]
+22. Wu, G.; Yan, T.; Yang, G.; Chai, H.; Cao, C. A review on rolling bearing fault signal detection methods based on different sensors.
+Sensors 2022, 22, 8330. [CrossRef] [PubMed]
+23. Liu, S.; Xie, J.; Shen, C.; Shang, X.; Wang, D.; Zhu, Z. Bearing fault diagnosis based on improved convolutional deep belief
+network. Appl. Sci. 2020, 10, 6359. [CrossRef]
+24. Ren, H.; Dai, Z.; Zhou, B.; Zhang, B.; Yin, A.; Pei, L.; Cao, Q. Vibration Monitoring and Semisupervised Multivariate Invertible
+Deep Probabilistic Learning for Gearbox Faults Identification. IEEE Sens. J. 2022, 22, 22020–22029. [CrossRef]
+25. Cirrincione, G.; Kumar, R.R.; Mohammadi, A.; Kia, S.H.; Barbiero, P.; Ferretti, J. Shallow versus deep neural networks in gear
+fault diagnosis. IEEE Trans. Energy Convers. 2020, 35, 1338–1347. [CrossRef]
+26. Li, Q.; Ji, X.; Liang, S.Y. Incipient fault feature extraction for rotating machinery based on improved AR-minimum entropy
+deconvolution combined with variational mode decomposition approach. Entropy 2017, 19, 317. [CrossRef]
+27. Li, J.; Yao, X.; Wang, H.; Zhang, J. Periodic impulses extraction based on improved adaptive VMD and sparse code shrinkage
+denoising and its application in rotating machinery fault diagnosis. Mech. Syst. Signal Process. 2019, 126, 568–589. [CrossRef]
+28. Shao, H.; Lin, J.; Zhang, L.; Galar, D.; Kumar, U. A novel approach of multisensory fusion to collaborative fault diagnosis in
+maintenance. Inf. Fusion 2021, 74, 65–76. [CrossRef]
+29. Guo, Y.; Jiang, S.; Yang, Y.; Jin, X.; Wei, Y. Gearbox fault diagnosis based on improved variational mode extraction. Sensors 2022,
+22, 1779. [CrossRef]
+30. Kumar, S.; Raj, K.K.; Cirrincione, M.; Cirrincione, G.; Kumar, R.R. Gear Degradation Study using Statistical Time Features and
+Shallow Neural Networks. IEEE Access 2024, 12, 111411–111421. [CrossRef]
+31. Nguyen, C.D.; Prosvirin, A.; Kim, J.M. A reliable fault diagnosis method for a gearbox system with varying rotational speeds.
+Sensors 2020, 20, 3105. [CrossRef] [PubMed]
+32. Jiao, J.; Zhao, M.; Lin, J.; Zhao, J. A multivariate encoder information based convolutional neural network for intelligent fault
+diagnosis of planetary gearboxes. Knowl.-Based Syst. 2018, 160, 237–250. [CrossRef]
+33. Gurav, S.; Waquas, K.; Yusuf, K.; Akash, J.; Meiraj, B.; Mumbai, N.; Ospanova, A. Analysis of Study of Effect of Misalignment on
+Rotating Shaft. Int. J. Innov. Res. Sci. Eng. Technol. 2022, 11, 3877–3880.
+34. Ab Ghani, A.F.; Razali, M.; Zainal, Z.; Febrian, I. Detection of Shaft Misalignment Using Machinery Fault Simulator (MFS). J. Adv.
+Res. Appl. Sci. Eng. Technol. 2016, 4, 47–57.
+35. Zhou, W.; Jin, X.; Ding, L.; Ma, J.; Su, H.; Zhao, A. Research on vibration signal decomposition of cracked rotor-bearing system
+with double-disk based on CEEMDAN-CWT. Appl. Acoust. 2025, 227, 110254. [CrossRef]
+36. Ferreira, C.; Gonçalves, G. Remaining Useful Life prediction and challenges: A literature review on the use of Machine Learning
+Methods. J. Manuf. Syst. 2022, 63, 550–562. [CrossRef]
+37. Li, H.; Li, Y.; Yu, H. A novel health indicator based on cointegration for rolling bearings’ run-to-failure process. Sensors 2019,
+19, 2151. [CrossRef] [PubMed]
+38. Hendriks, J.; Dumond, P.; Knox, D. Towards better benchmarking using the CWRU bearing fault dataset. Mech. Syst. Signal
+Process. 2022, 169, 108732. [CrossRef]
+39. Qiu, H.; Lee, J.; Lin, J.; Yu, G. Wavelet filter-based weak signature detection method and its application on rolling element bearing
+prognostics. J. Sound Vib. 2006, 289, 1066–1090. [CrossRef]
+40. Deutsch, J.; He, M.; He, D. Remaining useful life prediction of hybrid ceramic bearings using an integrated deep learning and
+particle filter approach. Appl. Sci. 2017, 7, 649. [CrossRef]
+41. Saxena, A.; Goebel, K.; Simon, D.; Eklund, N. Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation.
+In Proceedings of the 1st International Conference on Prognostics and Health Management (PHM08), Denver, CO, USA, 6–9
+October 2008. [CrossRef]
+42. Dempsey, P.J.; Wade, D.R.; Antolick, L.J.; Thomas, J. Investigation of Spiral Bevel Gear Condition Indicator Validation via AC-29-2C
+Using Fielded Rotorcraft HUMS Data; Technical Report; NASA: Pasadena, CA, USA, 2014.
+43. Li-Ion Battery Aging Datasets|NASA Open Data Portal—data.nasa.gov. Available online: https://data.nasa.gov/dataset/Liion-Battery-Aging-Datasets/uj5r-zjdb?category=dataset&view_name=Li-ion-Battery-Aging-Datasets (accessed on 20 September 2024).
+44. Nectoux, P.; Gouriveau, R.; Medjaher, K.; Ramasso, E.; Chebel-Morello, B.; Zerhouni, N.; Varnier, C. PRONOSTIA: An
+experimental platform for bearings accelerated degradation tests. In Proceedings of the PHM’12—IEEE International Conference
+on Prognostics and Health Management, Denver, CO, USA, 18–21 June 2012; pp. 1–8.
+45. Wang, B.; Lei, Y.; Li, N.; Li, N. A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings.
+IEEE Trans. Reliab. 2020, 69, 401–412. [CrossRef]
+46. Jiao, R.; Peng, K.; Dong, J.; Zhang, K.; Zhang, C. A Health Indicator Construction Method based on Deep Belief Network
+for Remaining Useful Life Prediction. In Proceedings of the 2019 Prognostics and System Health Management Conference
+(PHM-Qingdao), Qingdao, China, 25–27 October 2019; pp. 1–6. [CrossRef]
+47. Duong, B.P.; Khan, S.A.; Shon, D.; Im, K.; Park, J.; Lim, D.S.; Jang, B.; Kim, J.M. A reliable health indicator for fault prognosis of
+bearings. Sensors 2018, 18, 3740. [CrossRef] [PubMed]
+48. Li, Q.; Liang, S.Y. Intelligent prognostics of degradation trajectories for rotating machinery based on asymmetric penalty sparse
+decomposition model. Symmetry 2018, 10, 214. [CrossRef]
+49. LeCun, Y.; Bengio, Y.; Hinton, G. Deep learning. Nature 2015, 521, 436–444. [CrossRef]
+50. González-Muñiz, A.; Díaz, I.; Cuadrado, A.A.; García-Pérez, D. Health indicator for machine condition monitoring built in the
+latent space of a deep autoencoder. Reliab. Eng. Syst. Saf. 2022, 224, 108482. [CrossRef]
+51. Goebel, K.; Celaya, J.; Sankararaman, S.; Roychoudhury, I.; Daigle, M.; Saxena, A. Prognostics: The Science of Making Predictions;
+CreateSpace Independent Publishing Platform: North Charleston, SC, USA, 2017.
+52. Wu, B.; Li, W.; Qiu, M.q. Remaining useful life prediction of bearing with vibration signals based on a novel indicator. Shock Vib.
+2017, 2017, 8927937. [CrossRef]
+53. Du, W.; Hou, X.; Wang, H. Time-varying degradation model for remaining useful life prediction of rolling bearings under variable
+rotational speed. Appl. Sci. 2022, 12, 4044. [CrossRef]
+54. Borghesani, P.; Pennacchi, P.; Chatterton, S. The relationship between kurtosis-and envelope-based indexes for the diagnostic of
+rolling element bearings. Mech. Syst. Signal Process. 2014, 43, 25–43. [CrossRef]
+55. Liu, Q.; Zhang, Y.; Si, X.; Fan, Z. DLVR-NWP: A Novel Data-Driven Bearing Degradation Model for RUL Estimation. IEEE Trans.
+Instrum. Meas. 2023, 72, 3508309. [CrossRef]
+56. Lu, B.L.; Liu, Z.H.; Wei, H.L.; Chen, L.; Zhang, H.; Li, X.H. A Deep Adversarial Learning Prognostics Model for Remaining
+Useful Life Prediction of Rolling Bearing. IEEE Trans. Artif. Intell. 2021, 2, 329–340. [CrossRef]
+57. Tse, P.W.; Wang, D. State space formulation of nonlinear vibration responses collected from a dynamic rotor-bearing system: An
+extension of bearing diagnostics to bearing prognostics. Sensors 2017, 17, 369. [CrossRef] [PubMed]
+58. Lei, Y.; Li, N.; Lin, J. A New Method Based on Stochastic Process Models for Machine Remaining Useful Life Prediction. IEEE
+Trans. Instrum. Meas. 2016, 65, 2671–2684. [CrossRef]
+59. Kosasih, B.Y.; Caesarendra, W.; Tieu, K.; Widodo, A.; Moodie, C.A.; Tieu, A.K. Degradation trend estimation and prognosis of
+large low speed slewing bearing lifetime. Appl. Mech. Mater. 2014, 493, 343–348. [CrossRef]
+60. Wu, J.; Wu, C.; Cao, S.; Or, S.W.; Deng, C.; Shao, X. Degradation Data-Driven Time-To-Failure Prognostics Approach for Rolling
+Element Bearings in Electrical Machines. IEEE Trans. Ind. Electron. 2019, 66, 529–539. [CrossRef]
+61. He, M.; Guo, W. An Integrated Approach for Bearing Health Indicator and Stage Division Using Improved Gaussian Mixture
+Model and Confidence Value. IEEE Trans. Ind. Inform. 2022, 18, 5219–5230. [CrossRef]
+62. Liu, Y.; Wang, F.; Chang, Y.; Gao, F.; He, D. Performance-relevant kernel independent component analysis based operating
+performance assessment for nonlinear and non-Gaussian industrial processes. Chem. Eng. Sci. 2019, 209, 115167. [CrossRef]
+63. Yang, C.; Ma, J.; Wang, X.; Li, X.; Li, Z.; Luo, T. A novel based-performance degradation indicator RUL prediction model and its
+application in rolling bearing. ISA Trans. 2022, 121, 349–364. [CrossRef]
+64. Singleton, R.K.; Strangas, E.G.; Aviyente, S. Extended Kalman Filtering for Remaining-Useful-Life Estimation of Bearings. IEEE
+Trans. Ind. Electron. 2015, 62, 1781–1790. [CrossRef]
+65. Wang, X.; Wang, T.; Ming, A.; Zhang, W.; Li, A.; Chu, F. Cross-Operating Condition Degradation Knowledge Learning for
+Remaining Useful Life Estimation of Bearings. IEEE Trans. Instrum. Meas. 2021, 70, 1–11. [CrossRef]
+66. Ferretti, J.; Barbiero, P.; Randazzo, V.; Cirrincione, G.; Pasero, E. Towards Uncovering Feature Extraction From Temporal Signals
+in Deep CNN: The ECG Case Study. In Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN),
+Glasgow, UK, 19–24 July 2020; pp. 1–7. [CrossRef]
+67. Kumar, S.; Buksh, N.; Raj, K.K.; Kumar, R.R. A Comparative Classification Study for Broken Rotor Bar Fault and its Severity
+Analysis using Machine Learning Approaches in Rotating Machines. In Proceedings of the 2023 IEEE International Conference
+on Energy Technologies for Future Grids (ETFG), Wollongong, Australia, 3–6 December 2023; IEEE: New York, NY, USA, 2023;
+pp. 1–6. [CrossRef]
+68. Antonino-Daviu, J.; Riera-Guasp, M.; Pons-Llinares, J.; Park, J.; Lee, S.B.; Yoo, J.; Kral, C. Detection of Broken Outer-Cage Bars for
+Double-Cage Induction Motors Under the Startup Transient. IEEE Trans. Ind. Appl. 2012, 48, 1539–1548. [CrossRef]
+69. Yang, T.; Pen, H.; Wang, Z.; Chang, C.S. Feature Knowledge Based Fault Detection of Induction Motors Through the Analysis of
+Stator Current Data. IEEE Trans. Instrum. Meas. 2016, 65, 549–558. [CrossRef]
+70. Maruthi, G.S.; Hegde, V. Application of MEMS Accelerometer for Detection and Diagnosis of Multiple Faults in the Roller
+Element Bearings of Three Phase Induction Motor. IEEE Sens. J. 2016, 16, 145–152. [CrossRef]
+71. Kumar, R.R.; Andriollo, M.; Cirrincione, G.; Cirrincione, M.; Tortella, A. A comprehensive review of conventional and intelligencebased approaches for the fault diagnosis and condition monitoring of induction motors. Energies 2022, 15, 8938. [CrossRef]
+72. Karmakar, S.; Chattopadhyay, S.; Mitra, M.; Sengupta, S.; Karmakar, S.; Chattopadhyay, S.; Mitra, M.; Sengupta, S. Induction
+Motor and Faults; Springer: New York, NY, USA, 2016. [CrossRef]
+73. Gawde, S.; Patil, S.; Kumar, S.; Kamat, P.; Kotecha, K.; Abraham, A. Multi-fault diagnosis of Industrial Rotating Machines using
+Data-driven approach: A review of two decades of research. Eng. Appl. Artif. Intell. 2023, 123, 106139. [CrossRef]
+74. Cheng, C.; Ma, G.; Zhang, Y.; Sun, M.; Teng, F.; Ding, H.; Yuan, Y. A Deep Learning-Based Remaining Useful Life Prediction
+Approach for Bearings. IEEE/ASME Trans. Mechatron. 2020, 25, 1243–1254. [CrossRef]
+75. Rezamand, M.; Kordestani, M.; Carriveau, R.; Ting, D.S.K.; Saif, M. An Integrated Feature-Based Failure Prognosis Method for
+Wind Turbine Bearings. IEEE/ASME Trans. Mechatron. 2020, 25, 1468–1478. [CrossRef]
+76. Soualhi, A.; Medjaher, K.; Zerhouni, N. Bearing Health Monitoring Based on Hilbert–Huang Transform, Support Vector Machine,
+and Regression. IEEE Trans. Instrum. Meas. 2015, 64, 52–62. [CrossRef]
+77. Gao, Z.; Cecati, C.; Ding, S.X. A survey of fault diagnosis and fault-tolerant techniques—Part I: Fault diagnosis with model-based
+and signal-based approaches. IEEE Trans. Ind. Electron. 2015, 62, 3757–3767. [CrossRef]
+78. Lu, C.; Chen, J.; Hong, R.; Feng, Y.; Li, Y. Degradation trend estimation of slewing bearing based on LSSVM model. Mech. Syst.
+Signal Process. 2016, 76, 353–366. [CrossRef]
+79. Shi, H.; Guo, J.; Bai, X.; Guo, L.; Liu, Z.; Sun, J. Gearbox Incipient Fault Detection Based on Deep Recursive Dynamic Principal
+Component Analysis. IEEE Access 2020, 8, 57646–57660. [CrossRef]
+80. Zhao, M.; Tang, B.; Tan, Q. Bearing remaining useful life estimation based on time–frequency representation and supervised
+dimensionality reduction. Measurement 2016, 86, 41–55. [CrossRef]
+81. Wang, Y.; Peng, Y.; Zi, Y.; Jin, X.; Tsui, K.L. A Two-Stage Data-Driven-Based Prognostic Approach for Bearing Degradation
+Problem. IEEE Trans. Ind. Inform. 2016, 12, 924–932. [CrossRef]
+82. Jin, X.; Ma, E.; Cheng, L.; Pecht, M. Health Monitoring of Cooling Fans Based on Mahalanobis Distance With mRMR Feature
+Selection. IEEE Trans. Instrum. Meas. 2012, 61, 2222–2229. [CrossRef]
+83. Si, Y.; Chen, Z.; Sun, J.; Zhang, D.; Qian, P. A Data-Driven Fault Detection Framework Using Mahalanobis Distance Based
+Dynamic Time Warping. IEEE Access 2020, 8, 108359–108370. [CrossRef]
+84. Jin, X.; Wang, Y.; Chow, T.; Sun, Y. Mahalanobis Distance Based Approaches for System Health Monitoring: A Review. IET Sci.
+Meas. Technol. 2017, 11, 371–379. [CrossRef]
+85. Shakya, P.; Kulkarni, M.; Darpe, A. Bearing diagnosis based on Mahalanobis-Taguchi-Gram-Schmidt method. J. Sound Vib. 2014,
+337, 342–362. [CrossRef]
+86. Wang, Z.; Lu, C.; Wang, Z.; Liu, H.; Fan, H. Fault diagnosis and health assessment for bearings using the Mahalanobis—Taguchi
+system based on EMD-SVD. Trans. Inst. Meas. Control 2013, 35, 798–807. [CrossRef]
+87. Guo, L.; Li, N.; Jia, F.; Lei, Y.; Lin, J. A recurrent neural network based health indicator for remaining useful life prediction of
+bearings. Neurocomputing 2017, 240, 98–109. [CrossRef]
+88. Zhou, H.; Huang, X.; Wen, G.; Lei, Z.; Dong, S.; Zhang, P.; Chen, X. Construction of health indicators for condition monitoring of
+rotating machinery: A review of the research. Expert Syst. Appl. 2022, 203, 117297. [CrossRef]
+89. Jiang, G.; Xie, P.; He, H.; Yan, J. Wind Turbine Fault Detection Using a Denoising Autoencoder With Temporal Information.
+IEEE/ASME Trans. Mechatron. 2018, 23, 89–100. [CrossRef]
+90. Chen, P.; Li, Y.; Wang, K.; Zuo, M.; Heyns, S.; Baggerohr, S. A threshold self-setting condition monitoring scheme for wind turbine
+generator bearings based on deep convolutional generative adversarial networks. Measurement 2020, 167, 108234. [CrossRef]
+91. ISO 20816-3:2022; Mechanical Vibration—Measurement and Evaluation of Machine Vibration, Part 3: Industrial Machinery
+with a Power Rating Above 15 kW and Operating Speeds Between 120 r/min and 30,000 r/min. International Organization
+for Standardization: Geneva, Switzerland, 2022. Available online: https://www.iso.org/standard/78311.html (accessed on 29
+October 2024).
+92. ISO 10816-8:2014; Mechanical Vibration—Evaluation of Machine Vibration by Measurements on Non-Rotating Parts—Part 8:
+Reciprocating Compressor Systems. International Organization for Standardization: Geneva, Switzerland, 2014. Available online:
+https://www.iso.org/standard/18866.html (accessed on 29 October 2024).
+93. Qin, Y.; Chen, D.; Xiang, S.; Zhu, C. Gated Dual Attention Unit Neural Networks for Remaining Useful Life Prediction of Rolling
+Bearings. IEEE Trans. Ind. Inform. 2021, 17, 6438–6447. [CrossRef]
+94. Behzad, M.; Feizhoseini, S.; Arghand, H.A.; Davoodabadi, A.; Mba, D. Failure threshold determination of rolling element bearings
+using vibration fluctuation and failure modes. Appl. Sci. 2020, 11, 160. [CrossRef]
+95. Wang, X.; Wang, T.; Ming, A.; Han, Q.; Chu, F.; Zhang, W.; Li, A. Deep spatiotemporal convolutional-neural-network-based
+remaining useful life estimation of bearings. Chin. J. Mech. Eng. 2021, 34, 62. [CrossRef]
+96. Yang, S.; Tang, B.; Wang, W.; Yang, Q.; Hu, C. Physics-informed multi-state temporal frequency network for RUL prediction of
+rolling bearings. Reliab. Eng. Syst. Saf. 2024, 242, 109716. [CrossRef]
+97. Ding, Y.; Jia, M.; Cao, Y. Remaining Useful Life Estimation Under Multiple Operating Conditions via Deep Subdomain Adaptation.
+IEEE Trans. Instrum. Meas. 2021, 70, 1–11. [CrossRef]
+98. Jiang, F.; Ding, K.; He, G.; Lin, H.; Chen, Z.; Li, W. Dual-Attention-Based Multiscale Convolutional Neural Network With Stage
+Division for Remaining Useful Life Prediction of Rolling Bearings. IEEE Trans. Instrum. Meas. 2022, 71, 3525410. [CrossRef]
+99. Meng, Z.; Li, J.; Yin, N.; Pan, Z. Remaining useful life prediction of rolling bearing using fractal theory. Measurement 2020,
+156, 107572. [CrossRef]
+100. Shi, Y.; Zhu, W.; Xiang, Y.; Feng, Q. Condition-based maintenance optimization for multi-component systems subject to a system
+reliability requirement. Reliab. Eng. Syst. Saf. 2020, 202, 107042. [CrossRef]
+101. Diyin, T.; Jinrong, C.; Jinsong, Y. Remaining useful life prediction for engineering systems under dynamic operational conditions:
+A semi-Markov decision process-based approach. Chin. J. Aeronaut. 2019, 32, 627–638. [CrossRef]
+102. Liu, D.; Zhou, J.; Liao, H.; Peng, Y.; Peng, X. A Health Indicator Extraction and Optimization Framework for Lithium-Ion Battery
+Degradation Modeling and Prognostics. IEEE Trans. Syst. Man Cybern. Syst. 2015, 45, 915–928. [CrossRef]
+103. Tischmacher, H.; Tsoumas, I.P.; Gattermann, S. Probability model for discharge activities in bearings of converter-fed electric
+motors. In Proceedings of the 2014 International Conference on Electrical Machines (ICEM), Berlin, Germany, 2–5 September
+2014; pp. 1818–1824. [CrossRef]
+104. Ao, Y.; Laghrouche, S.; Depernet, D.; Chen, K. Proton Exchange Membrane Fuel Cell Prognosis Based on Frequency-Domain
+Kalman Filter. IEEE Trans. Transp. Electrif. 2021, 7, 2332–2343. [CrossRef]
+105. Wang, X.; Al Imran, M.N.; Ali, M.; Zhang, B. Interdigital Capacitor Sensor-Based Cable Health Monitoring. IEEE Trans. Ind.
+Electron. 2023, 70, 7301–7309. [CrossRef]
+106. Teng, W.; Han, C.; Hu, Y.; Cheng, X.; Song, L.; Liu, Y. A Robust Model-Based Approach for Bearing Remaining Useful Life
+Prognosis in Wind Turbines. IEEE Access 2020, 8, 47133–47143. [CrossRef]
+107. Zhang, Z.X.; Si, X.S.; Hu, C.H. An Age- and State-Dependent Nonlinear Prognostic Model for Degrading Systems. IEEE Trans.
+Reliab. 2015, 64, 1214–1228. [CrossRef]
+108. Li, N.; Lei, Y.; Yan, T.; Li, N.; Han, T. A Wiener-Process-Model-Based Method for Remaining Useful Life Prediction Considering
+Unit-to-Unit Variability. IEEE Trans. Ind. Electron. 2019, 66, 2092–2101. [CrossRef]
+109. Zhai, Q.; Ye, Z.S. RUL Prediction of Deteriorating Products Using an Adaptive Wiener Process Model. IEEE Trans. Ind. Inform.
+2017, 13, 2911–2921. [CrossRef]
+110. Zhang, S.; Zhai, Q.; Shi, X.; Liu, X. A Wiener Process Model With Dynamic Covariate for Degradation Modeling and Remaining
+Useful Life Prediction. IEEE Trans. Reliab. 2023, 72, 214–223. [CrossRef]
+111. Li, T.; Pei, H.; Pang, Z.; Si, X.; Zheng, J. A Sequential Bayesian Updated Wiener Process Model for Remaining Useful Life
+Prediction. IEEE Access 2020, 8, 5471–5480. [CrossRef]
+112. Wang, C.; Yang, J.; Jie, H.; Tian, B.; Zhao, Z.; Chang, Y. An uncertainty perception metric network for machinery fault diagnosis
+under limited noisy source domain and scarce noisy unknown domain. Adv. Eng. Inform. 2024, 62, 102682. [CrossRef]
+113. Jin, X.; Sun, Y.; Que, Z.; Wang, Y.; Chow, T.W.S. Anomaly Detection and Fault Prognosis for Bearings. IEEE Trans. Instrum. Meas.
+2016, 65, 2046–2054. [CrossRef]
+114. Cui, L.; Li, W.; Liu, D.; Wang, H. A novel robust dual unscented particle filter method for remaining useful life prediction of
+rolling bearings. IEEE Trans. Instrum. Meas. 2024, 73, 3509009. [CrossRef]
+115. Li, G.; Wei, J.; He, J.; Yang, H.; Meng, F. Implicit Kalman filtering method for remaining useful life prediction of rolling bearing
+with adaptive detection of degradation stage transition point. Reliab. Eng. Syst. Saf. 2023, 235, 109269. [CrossRef]
+116. Cui, J.; Cao, L.; Zhang, T. A two-stage Gaussian process regression model for remaining useful prediction of bearings. Proc. Inst.
+Mech. Eng. Part O J. Risk Reliab. 2024, 238, 333–348. [CrossRef]
+117. Lu, Y.; Tang, D.; Zhu, D.; Gao, Q.; Zhao, D.; Lyu, J. Remaining useful life prediction for bearing based on coupled diffusion
+process and temporal attention. IEEE Trans. Instrum. Meas. 2024, 73, 3510310. [CrossRef]
+118. Ye, Z.; Zhang, Q.; Shao, S.; Niu, T.; Zhao, Y. Rolling bearing health indicator extraction and RUL prediction based on multi-scale
+convolutional autoencoder. Appl. Sci. 2022, 12, 5747. [CrossRef]
+119. Ren, L.; Sun, Y.; Cui, J.; Zhang, L. Bearing remaining useful life prediction based on deep autoencoder and deep neural networks.
+J. Manuf. Syst. 2018, 48, 71–77. [CrossRef]
+120. de Pater, I.; Mitici, M. Developing health indicators and RUL prognostics for systems with few failure instances and varying
+operating conditions using a LSTM autoencoder. Eng. Appl. Artif. Intell. 2023, 117, 105582. [CrossRef]
+121. Tao, L.; Yang, C.; Cheng, Y.; Lu, C.; Ragulskis, M. Machine component health prognostics with only truncated histories using
+geometrical metric approach. Mech. Syst. Signal Process. 2018, 113, 168–179. [CrossRef]
+122. Yang, F.; Habibullah, M.S.; Zhang, T.; Xu, Z.; Lim, P.; Nadarajan, S. Health index-based prognostics for remaining useful life
+predictions in electrical machines. IEEE Trans. Ind. Electron. 2016, 63, 2633–2644. [CrossRef]
+123. Hochreiter, S.; Schmidhuber, J. Long Short-Term Memory. Neural Comput. 1997, 9, 1735–1780. [CrossRef] [PubMed]
+124. Xiang, S.; Qin, Y.; Zhu, C.; Wang, Y.; Chen, H. Long short-term memory neural network with weight amplification and its
+application into gear remaining useful life prediction. Eng. Appl. Artif. Intell. 2020, 91, 103587. [CrossRef]
+125. Gupta, J.; Pathak, S.; Kumar, G. Deep learning (CNN) and transfer learning: A review. J. Physics: Conf. Ser. 2022, 2273, 012029.
+[CrossRef]
+126. Park, K.; Choi, Y.; Choi, W.J.; Ryu, H.Y.; Kim, H. LSTM-Based Battery Remaining Useful Life Prediction with Multi-Channel
+Charging Profiles. IEEE Access 2020, 8, 20786–20798. [CrossRef]
+127. Shi, Z.; Chehade, A. A dual-LSTM framework combining change point detection and remaining useful life prediction. Reliab.
+Eng. Syst. Saf. 2021, 205, 107257. [CrossRef]
+128. de Pater, I.; Mitici, M. Novel metrics to evaluate probabilistic remaining useful life prognostics with applications to turbofan
+engines. In Proceedings of the PHM Society European Conference, Turin, Italy, 6–8 July 2022; Volume 7, pp. 96–109. [CrossRef]
+129. de Pater, I.; Reijns, A.; Mitici, M. Alarm-based predictive maintenance scheduling for aircraft engines with imperfect Remaining
+Useful Life prognostics. Reliab. Eng. Syst. Saf. 2022, 221, 108341. [CrossRef]
+130. Li, X.; Ding, Q.; Sun, J.Q. Remaining useful life estimation in prognostics using deep convolution neural networks. Reliab. Eng.
+Syst. Saf. 2018, 172, 1–11. [CrossRef]
+131. Berghout, T.; Benbouzid, M. A systematic guide for predicting remaining useful life with machine learning. Electronics 2022,
+11, 1125. [CrossRef]
+132. Chen, Z.; Li, W. Multisensor Feature Fusion for Bearing Fault Diagnosis Using Sparse Autoencoder and Deep Belief Network.
+IEEE Trans. Instrum. Meas. 2017, 66, 1693–1702. [CrossRef]
+133. Zeng, L.; Zheng, J.; Yao, L.; Ge, Z. Dynamic Bayesian Networks for Feature Learning and Transfer Applications in Remaining
+Useful Life Estimation. IEEE Trans. Instrum. Meas. 2023, 72, 3500312. [CrossRef]
+134. Hu, C.H.; Pei, H.; Si, X.S.; Du, D.B.; Pang, Z.N.; Wang, X. A Prognostic Model Based on DBN and Diffusion Process for Degrading
+Bearing. IEEE Trans. Ind. Electron. 2020, 67, 8767–8777. [CrossRef]
+135. Al-Khazraji, H.; Nasser, A.R.; Hasan, A.M.; Al Mhdawi, A.K.; Al-Raweshidy, H.; Humaidi, A.J. Aircraft Engines Remaining
+Useful Life Prediction Based on A Hybrid Model of Autoencoder and Deep Belief Network. IEEE Access 2022, 10, 82156–82163.
+[CrossRef]
+136. Zhang, C.; Lim, P.; Qin, A.K.; Tan, K.C. Multiobjective Deep Belief Networks Ensemble for Remaining Useful Life Estimation in
+Prognostics. IEEE Trans. Neural Netw. Learn. Syst. 2017, 28, 2306–2318. [CrossRef]
+137. Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A.N.; Kaiser, Ł.; Polosukhin, I. Attention is all you need.
+Adv. Neural Inf. Process. Syst. 2017, 30. [CrossRef]
+138. Wang, C.; Tian, B.; Yang, J.; Jie, H.; Chang, Y.; Zhao, Z. Neural-transformer: A brain-inspired lightweight mechanical fault
+diagnosis method under noise. Reliab. Eng. Syst. Saf. 2024, 251, 110409. [CrossRef]
+139. Chen, D.; Hong, W.; Zhou, X. Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries. IEEE Access
+2022, 10, 19621–19628. [CrossRef]
+140. Hu, Q.; Zhao, Y.; Ren, L. Novel Transformer-Based Fusion Models for Aero-Engine Remaining Useful Life Estimation. IEEE
+Access 2023, 11, 52668–52685. [CrossRef]
+141. Goodfellow, I.; Pouget-Abadie, J.; Mirza, M.; Xu, B.; Warde-Farley, D.; Ozair, S.; Courville, A.; Bengio, Y. Generative adversarial
+nets. Adv. Neural Inf. Process. Syst. 2014, 27. [CrossRef]
+142. Hakim, M.; Omran, A.A.B.; Ahmed, A.N.; Al-Waily, M.; Abdellatif, A. A systematic review of rolling bearing fault diagnoses based
+on deep learning and transfer learning: Taxonomy, overview, application, open challenges, weaknesses and recommendations.
+Ain Shams Eng. J. 2022, 14, 101945. [CrossRef]
+143. Zhang, X.; Qin, Y.; Yuen, C.; Jayasinghe, L.; Liu, X. Time-Series Regeneration With Convolutional Recurrent Generative
+Adversarial Network for Remaining Useful Life Estimation. IEEE Trans. Ind. Inform. 2021, 17, 6820–6831. [CrossRef]
+144. Ye, R.; Dai, Q. Implementing transfer learning across different datasets for time series forecasting. Pattern Recognit. 2021,
+109, 107617. [CrossRef]
+145. Gu, B.; Liu, Z. Transfer Learning-Based Remaining Useful Life Prediction Method for Lithium-Ion Batteries Considering
+Individual Differences. Appl. Sci. 2024, 14, 698. [CrossRef]
+146. Severson, K.A.; Attia, P.M.; Jin, N.; Perkins, N.; Jiang, B.; Yang, Z.; Chen, M.H.; Aykol, M.; Herring, P.K.; Fraggedakis, D.; et al.
+Data-driven prediction of battery cycle life before capacity degradation. Nat. Energy 2019, 4, 383–391. [CrossRef]
+147. Fan, Y.; Nowaczyk, S.; Rögnvaldsson, T. Transfer learning for remaining useful life prediction based on consensus self-organizing
+models. Reliab. Eng. Syst. Saf. 2020, 203, 107098. [CrossRef]
+148. Huang, J.; Yuan, M.; Cui, J.; Zhao, J.; Qu, Y.; Dong, S. LSTM and ELM based transfer learning approach for online bearing
+remaining useful life prediction. In Proceedings of the 12th International Conference on Quality, Reliability, Risk, Maintenance, and
+Safety Engineering (QR2MSE 2022), Emeishan, China, 27–30 July 2022; IET: Edison, NJ, USA, 2022; Volume 2022, pp. 1448–1455.
+[CrossRef]
+149. Chen, J.; Huang, R.; Chen, Z.; Mao, W.; Li, W. Transfer learning algorithms for bearing remaining useful life prediction: A
+comprehensive review from an industrial application perspective. Mech. Syst. Signal Process. 2023, 193, 110239. [CrossRef]
+150. Wei, Y.; Wu, D. State of health and remaining useful life prediction of lithium-ion batteries with conditional graph convolutional
+network. Expert Syst. Appl. 2024, 238, 122041. [CrossRef]
+151. Wang, Y.X.; Zhao, S.; Wang, S.; Ou, K.; Zhang, J. Enhanced vision-transformer integrating with semi-supervised transfer learning
+for state of health and remaining useful life estimation of lithium-ion batteries. Energy AI 2024, 17, 100405. [CrossRef]
+152. Kim, G.; Choi, J.G.; Lim, S. Using transformer and a reweighting technique to develop a remaining useful life estimation method
+for turbofan engines. Eng. Appl. Artif. Intell. 2024, 133, 108475. [CrossRef]
+153. Zhu, D.; Lyu, J.; Gao, Q.; Lu, Y.; Zhao, D. Remaining useful life estimation of bearing using spatio-temporal convolutional
+transformer. Meas. Sci. Technol. 2024, 35, 045126. [CrossRef]
+154. Zheng, G.; Li, Y.; Zhou, Z.; Yan, R. A Remaining Useful Life Prediction Method of Rolling Bearings Based on Deep Reinforcement
+Learning. IEEE Internet Things J. 2024. [CrossRef]
+155. Li, J.; Li, S.; Fan, Y.; Ding, Z.; Yang, L. Remaining useful life prediction of bearings using a trend memory attention-based GRU
+network. Meas. Sci. Technol. 2024, 35, 055001. [CrossRef]
+156. Li, H.; Zhang, Z.; Li, T.; Si, X. A review on physics-informed data-driven remaining useful life prediction: Challenges and
+opportunities. Mech. Syst. Signal Process. 2024, 209, 111120. [CrossRef]
+157. Zang, Y.; Shangguan, W.; Cai, B.; Wang, H.; Pecht, M.G. Hybrid remaining useful life prediction method. A case study on railway
+D-cables. Reliab. Eng. Syst. Saf. 2021, 213, 107746. [CrossRef]
+158. Chang, Y.; Fang, H.; Zhang, Y. A new hybrid method for the prediction of the remaining useful life of a lithium-ion battery. Appl.
+Energy 2017, 206, 1564–1578. [CrossRef]
+159. Yan, M.; Wang, X.; Wang, B.; Chang, M.; Muhammad, I. Bearing remaining useful life prediction using support vector machine
+and hybrid degradation tracking model. ISA Trans. 2020, 98, 471–482. [CrossRef] [PubMed]
+160. Wang, F.K.; Mamo, T. Hybrid approach for remaining useful life prediction of ball bearings. Qual. Reliab. Eng. Int. 2019,
+35, 2494–2505. [CrossRef]
+161. Raissi, M.; Perdikaris, P.; Karniadakis, G.E. Physics-informed neural networks: A deep learning framework for solving forward
+and inverse problems involving nonlinear partial differential equations. J. Comput. Phys. 2019, 378, 686–707. [CrossRef]
+162. Deng, Y.; Du, S.; Wang, D.; Shao, Y.; Huang, D. A calibration-based hybrid transfer learning framework for RUL prediction of
+rolling bearing across different machines. IEEE Trans. Instrum. Meas. 2023, 72, 3511015. [CrossRef]
+163. Yucesan, Y.A.; Viana, F.A. A hybrid physics-informed neural network for main bearing fatigue prognosis under grease quality
+variation. Mech. Syst. Signal Process. 2022, 171, 108875. [CrossRef]
+164. Liao, L.; Köttig, F. Review of hybrid prognostics approaches for remaining useful life prediction of engineered systems, and an
+application to battery life prediction. IEEE Trans. Reliab. 2014, 63, 191–207. [CrossRef]
+165. Nascimento, R.G.; Corbetta, M.; Kulkarni, C.S.; Viana, F.A. Hybrid physics-informed neural networks for lithium-ion battery
+modeling and prognosis. J. Power Sources 2021, 513, 230526. [CrossRef]
+166. Fernández, J.; Corbetta, M.; Kulkarni, C.S.; Chiachío, J.; Chiachío, M. Training of physics-informed Bayesian neural networks
+with ABC-SS for prognostic of Li-ion batteries. Comput. Ind. 2024, 155, 104058. [CrossRef]
+167. Chen, X.; Ma, M.; Zhao, Z.; Zhai, Z.; Mao, Z. Physics-informed deep neural network for bearing prognosis with multisensory
+signals. J. Dyn. Monit. Diagn. 2022, 1, 200–207. [CrossRef]
+168. Ogunsanya, M.; Isichei, J.; Desai, S. Grid search hyperparameter tuning in additive manufacturing processes. Manuf. Lett. 2023,
+35, 1031–1042. [CrossRef]
+169. Injadat, M.; Moubayed, A.; Nassif, A.B.; Shami, A. Systematic ensemble model selection approach for educational data mining.
+Knowl.-Based Syst. 2020, 200, 105992. [CrossRef]
+170. Bergstra, J.; Bengio, Y. Random search for hyper-parameter optimization. J. Mach. Learn. Res. 2012, 13, 281–305.
+171. Snoek, J.; Larochelle, H.; Adams, R.P. Practical bayesian optimization of machine learning algorithms. Adv. Neural Inf. Process.
+Syst. 2012, 25. [CrossRef]
+172. Li, L.; Jamieson, K.; DeSalvo, G.; Rostamizadeh, A.; Talwalkar, A. Hyperband: A novel bandit-based approach to hyperparameter
+optimization. J. Mach. Learn. Res. 2018, 18, 1–52.
+173. Bengio, Y. Gradient-based optimization of hyperparameters. Neural Comput. 2000, 12, 1889–1900. [CrossRef]
+174. Lessmann, S.; Stahlbock, R.; Crone, S.F. Optimizing Hyperparameters of Support Vector Machines by Genetic Algorithms. In
+Proceedings of the IC-AI, Las Vegas, NV, USA, 27–30 June 2005; Volume 74, p. 82.
+175. Ma, H.; Zhang, Y.; Sun, S.; Liu, T.; Shan, Y. A comprehensive survey on NSGA-II for multi-objective optimization and applications.
+Artif. Intell. Rev. 2023, 56, 15217–15270. [CrossRef]
+176. Saxena, A.; Celaya, J.; Balaban, E.; Goebel, K.; Saha, B.; Saha, S.; Schwabacher, M. Metrics for evaluating performance of prognostic
+techniques. In Proceedings of the 2008 International Conference on Prognostics and Health Management, Denver, CO, USA, 6–9
+October 2008; pp. 1–17. [CrossRef]
+177. Saxena, A.; Celaya, J.; Saha, B.; Saha, S.; Goebel, K. On applying the prognostic performance metrics. In Proceedings of the
+Annual Conference of the PHM Society, San Diego, CA, USA, 27 September–1 October 2009; Volume 1.

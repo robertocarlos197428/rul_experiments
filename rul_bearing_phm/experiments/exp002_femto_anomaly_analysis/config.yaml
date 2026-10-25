@@ -1,0 +1,12 @@
+correction_policy: Ninguna corrección aplicada; fase puramente de inventario y análisis
+  de severidad.
+description: Análisis y registro de anomalías detectadas en el dataset FEMTO sin correcciones
+  aplicadas.
+experiment: exp002_femto_anomaly_analysis
+reviewed_anomaly_types:
+- archivo_faltante
+- columnas_invalidas
+- timestamp_invalido
+- archivo_duplicado
+- valores_faltantes_nan
+- error_lectura_archivo

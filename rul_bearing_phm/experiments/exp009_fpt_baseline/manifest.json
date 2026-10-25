@@ -1,0 +1,11 @@
+{
+    "experiment_id": "exp009_fpt_baseline",
+    "status": "completed",
+    "inputs": [
+        "results\\exp007_time_features\\features\\tabla_maestra_learning_set.parquet"
+    ],
+    "outputs": [
+        "results\\exp009_fpt_baseline\\fpt_por_bearing.parquet",
+        "results\\exp009_fpt_baseline\\fpt_por_bearing.csv"
+    ]
+}
