@@ -14,7 +14,7 @@ Cada carpeta corresponde a un experimento independiente y contiene sus scripts, 
 
 Los datos originales no están incluidos. Debes descargarlos desde su fuente oficial.
 
-Si contiene los archivos corregidos del Bearing1_1, son acc02121 y acc02122, además se siguiere corregir Bearing1_4 que tiene los datos separados por ";" y deben ser por ",", existe un script que lo corrigue, buscalo.
+Si contiene los archivos corregidos del Bearing1_1, son acc02121 y acc02122, además se siguiere corregir Bearing1_4 que tiene los datos separados por ";" y deben ser por ",", existe un script que lo corrigue en carpeta rul_bearing_phm/scripts, buscalo.
 
 Las rutas en los scripts aparecen como `escribe aqui tu ruta`; reemplázalas por las de tu entorno.
 
